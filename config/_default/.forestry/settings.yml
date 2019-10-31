@@ -4,6 +4,25 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: content/home
+  label: Home
+  match: "**/*"
+- type: directory
+  path: content/authors
+  label: authors
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/publication
+  label: publications
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/project
+  label: Projects
+  create: all
+  match: "**/*"
 - type: directory
   path: content/people
   label: People
@@ -11,7 +30,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content
-  label: Pages
+  label: All pages
   create: all
   match: "**/*"
 upload_dir: static/uploads
