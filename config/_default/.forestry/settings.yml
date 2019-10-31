@@ -4,9 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
+- type: directory
   path: content/home
   label: Home
+  create: all
   match: "**/*"
 - type: directory
   path: content/authors
