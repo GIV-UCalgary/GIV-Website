@@ -5,13 +5,14 @@ authors:
 - samavati
 - samin
 - Julio Garcia
-- Mohammed S. Elbaz
+- Mohammed S Elbaz
 
-date: "2019-09-18T00:00:00Z"
-doi: "https://doi.org/10.1016/j.cag.2019.09.004"
+
+date: "2019-12-01T00:00:00+00:00"
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-10-01T00:00:00Z"
+publishDate: "2019-12-01T00:00:00+00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,23 +21,21 @@ publishDate: "2019-10-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers & Graphics*"
+publication: "*Computers & Graphics (Pergamon)*"
 publication_short: ""
 
-abstract: Blood flow data from cardiac 4D Flow MRI (magnetic resonance imaging) holds much potential for research and diagnosis of flow-related diseases. However, understanding this data is quite challenging – after all, it is a volumetric vector field that changes over time. One helpful way to explore the data is by flow visualization, but most traditional flow visualizations are designed for 2D screens and thus suffer from limited depth perception and restricted screen space. We propose a novel slice-based physical model as a complementary method for visualizing the flow data. The design of this model respects the conventional method of viewing medical imagery (i.e. in cross sections) but has the added advantages of engaging one’s sense of touch, not suffering from screen space restrictions, and being easily fabricated by affordable fused deposition modeling (FDM) printers. We apply the slice-based technique to different representations of blood flow data and demonstrate that the technique is capable of transforming volumetric flow data into a tangible, easily fabricable model.
-
+abstract: "Blood flow data from cardiac 4D Flow MRI (magnetic resonance imaging) holds much potential for research and diagnosis of flow-related diseases. However, understanding this data is quite challenging – after all, it is a volumetric vector field that changes over time. One helpful way to explore the data is by flow visualization, but most traditional flow visualizations are designed for 2D screens and thus suffer from limited depth perception and restricted screen space. We propose a novel slice-based physical model as a complementary method for visualizing the flow data. The design of this model respects the conventional method of viewing medical imagery (i.e., in cross sections) but has the added advantages of engaging one’s sense of touch, not suffering from screen space restrictions, and being easily fabricated by affordable fused deposition modelling (FDM) printers. We apply the slice-based technique to …"
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "Blood flow data from cardiac 4D Flow MRI (magnetic resonance imaging) holds much potential for research and diagnosis of flow-related diseases. However, understanding this data is quite challenging – after all, it is a volumetric vector field that changes over time. One helpful way to explore the data is by flow visualization, but most traditional flow visualizations are designed for 2D screens and thus suffer from limited depth perception and restricted screen space. We propose a novel slice-ba..."
 
-tags:
-- Source Themes
+tags: []
 featured: false
 
-# links:
-# - name: ""
-#   url: ""
-url_pdf: http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/kathleen.pdf
+links:
+- name: "Electronic Edition from Publisher"
+  url: "https://www.sciencedirect.com/science/article/pii/S0097849319301554?via%3Dihub"
+url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/kathleen.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -66,13 +65,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).

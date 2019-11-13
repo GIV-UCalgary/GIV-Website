@@ -1,15 +1,18 @@
 ---
-title: "Data spatialized Pavilion: Introducing a Data-driven Design Method based on Principles of Catoptric Anamorphosis"
+title: "Data-spatialized Pavilion: Introducing a Data-driven Design Method based on Principles of Catoptric Anamorphosis"
 authors:
-- Vahab Hosseini
+- S Vahab Hosseini
 - hessam
+- Usman R Alim
+- Joshua M Taron
 - samavati
 
-date: "2019-06-21T00:00:00Z"
+
+date: "2019-06-17T00:00:00+00:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2019-06-21T00:00:00Z"
+publishDate: "2019-06-17T00:00:00+00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -18,31 +21,21 @@ publishDate: "2019-06-21T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: *The Proceedings of the SMI 2019 Fabrication and Sculptung Event*
-publication_short: 
+publication: "*HYPERSEEING *"
+publication_short: ""
 
-abstract: Data spatialization is a design technique through which data is used to create architectural spaces. It does not
-          necessarily preserve the legibility of the represented data, but rather focuses on the spatial qualities that can be gained
-          from the data. As a consequence, data in such data-driven spaces tend to be represented in abstract forms. By means of
-          a method of spatial representation that has historically been used in art and architecture, we produce a data-spatialized
-          architecture that preserves data legibility. This research aims to introduce a method for the design of a data-driven
-          pavilion that represents data spatially through catoptric (mirror-assisted) anamorphosis. The major contribution lies
-          at the underexplored intersection of data spatialization and perspectival representation, where the input data defines
-          the physicality of the pavilion and simultaneously remains readable. In this work, a set of environmental datasets from
-          North America – including elevation, precipitation, temperature, and population – is used to generate an anamorphic
-          structure. The spatialized datasets can be updated by means of illuminating the components of the pavilion. Based
-          on the result, this design methodology provides an accurate data representation in an anamorphic data-driven public
-          space.
-          
+abstract: "Data spatialization is a design technique through which data is used to create architectural spaces. It does not necessarily preserve the legibility of the represented data, but rather focuses on the spatial qualities that can be gained from the data. As a consequence, data in such data-driven spaces tend to be represented in abstract forms. By means of a method of spatial representation that has historically been used in art and architecture, we produce a data-spatialized architecture that preserves data legibility. This research aims to introduce a method for the design of a data-driven pavilion that represents data spatially through catoptric (mirror-assisted) anamorphosis. The major contribution lies at the underexplored intersection of data spatialization and perspectival representation, where the input data defines the physicality of the pavilion and simultaneously remains readable. In this work, a set of environmental datasets from North America–including elevation, precipitation, temperature, and population–is used to generate an anamorphic structure. The spatialized datasets can be updated by means of illuminating the components of the pavilion. Based on the result, this design methodology provides an accurate data representation in an anamorphic data-driven public space."
+
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: "Data spatialization is a design technique through which data is used to create architectural spaces. It does not necessarily preserve the legibility of the represented data, but rather focuses on the spatial qualities that can be gained from the data. As a consequence, data in such data-driven spaces tend to be represented in abstract forms. By means of a method of spatial representation that has historically been used in art and architecture, we produce a data-spatialized architecture that pres..."
 
-tags:
-- Source Themes
-featured: true
+tags: []
+featured: false
 
 links:
-url_pdf: https://naka242.github.io/SMIFASE2019/FASE/hosseini2019.pdf
+- name: "Electronic Edition from Publisher"
+  url: ""
+url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/vahab.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -63,8 +56,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -73,14 +65,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
-
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
-
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
