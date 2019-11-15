@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://www-sciencedirect-com.ezproxy.lib.ucalgary.ca/science/article/pii/S0957417419305445"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/samaneh.pdf"
+url_pdf: "/pdf/samaneh.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

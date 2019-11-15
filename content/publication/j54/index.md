@@ -35,7 +35,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://www.sciencedirect.com/science/article/pii/S0097849319301554?via%3Dihub"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/kathleen.pdf"
+url_pdf: "/pdf/kathleen.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

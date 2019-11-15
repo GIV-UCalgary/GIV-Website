@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://doi.acm.org/10.1145/2030441.2030469"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/modeling-muqarnas-cae2011-hamekasi.pdf"
+url_pdf: "/pdf/modeling-muqarnas-cae2011-hamekasi.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

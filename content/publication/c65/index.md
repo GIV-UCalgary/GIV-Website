@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://ieeexplore.ieee.org/abstract/document/8590012"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/2018Davisonpreprint-Lifebrush.pdf"
+url_pdf: "/pdf/2018Davisonpreprint-Lifebrush.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

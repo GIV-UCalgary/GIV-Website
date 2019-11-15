@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1111/1467-8659.00361"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/reverse-subdiv-cgf1999-samavati.pdf"
+url_pdf: "/pdf/reverse-subdiv-cgf1999-samavati.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

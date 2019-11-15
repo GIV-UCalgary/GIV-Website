@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1142/S0218654306000834"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/diagramatic-tool-ijsm2006-samavati.pdf"
+url_pdf: "/pdf/diagramatic-tool-ijsm2006-samavati.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

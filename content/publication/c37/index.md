@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.5220/0003851501430150"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/visibility-tests-grapp2012-alderson.pdf"
+url_pdf: "/pdf/visibility-tests-grapp2012-alderson.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

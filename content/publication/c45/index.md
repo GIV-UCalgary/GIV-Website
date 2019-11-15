@@ -35,7 +35,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1109/PacificVis.2014.59"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/rbf-projection-pv2014-eamorim.pdf"
+url_pdf: "/pdf/rbf-projection-pv2014-eamorim.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

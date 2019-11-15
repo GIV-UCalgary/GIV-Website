@@ -35,7 +35,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://eudl.eu/doi/10.4108/ct.1.1.e2"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/paisleytrees-ct2014-etemad.pdf"
+url_pdf: "/pdf/paisleytrees-ct2014-etemad.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

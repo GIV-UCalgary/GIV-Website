@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://www.sciencedirect.com/science/article/pii/S0097849318301778"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/davison_interactive_synthesis_TR.pdf"
+url_pdf: "/pdf/davison_interactive_synthesis_TR.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

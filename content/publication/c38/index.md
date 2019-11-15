@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.5220/0003850101350142"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/circle-packing-grapp2012-hamekasi.pdf"
+url_pdf: "/pdf/circle-packing-grapp2012-hamekasi.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

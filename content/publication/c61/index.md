@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.20380/GI2017.12"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/pats-gi2017-halbert.pdf"
+url_pdf: "/pdf/pats-gi2017-halbert.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

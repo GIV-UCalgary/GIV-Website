@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/s00371-015-1180-1"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/multilevel-fpc-tvc2016-hasan.pdf"
+url_pdf: "/pdf/multilevel-fpc-tvc2016-hasan.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

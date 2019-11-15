@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/s00371-016-1217-0"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/fpc-via-snaking-path-tvc2016-packer.pdf"
+url_pdf: "/pdf/fpc-via-snaking-path-tvc2016-packer.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

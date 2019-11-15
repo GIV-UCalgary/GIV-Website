@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://jsciences.ut.ac.ir/?_action=articleInfo&article=31314&vol=2558"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/filtered-bspline-js1999-samavati.pdf"
+url_pdf: "/pdf/filtered-bspline-js1999-samavati.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

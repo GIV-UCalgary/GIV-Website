@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1016/j.cad.2016.04.005"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/grid-conversion-cad2016-mahdavi-amiri.pdf"
+url_pdf: "/pdf/grid-conversion-cad2016-mahdavi-amiri.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

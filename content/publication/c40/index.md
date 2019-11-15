@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1109/CLEI.2012.6427124"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/sbi-for-animation-clei2012-wilches.pdf"
+url_pdf: "/pdf/sbi-for-animation-clei2012-wilches.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

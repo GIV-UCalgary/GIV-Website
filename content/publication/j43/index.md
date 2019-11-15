@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1016/j.gmod.2016.05.002"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/msc-gm2016-alderson.pdf"
+url_pdf: "/pdf/msc-gm2016-alderson.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

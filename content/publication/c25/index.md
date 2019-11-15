@@ -49,7 +49,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1109/ICCSA.2008.65"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/discrete-mr-iccsa2008-olsen.pdf"
+url_pdf: "/pdf/discrete-mr-iccsa2008-olsen.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

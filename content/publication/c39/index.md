@@ -58,7 +58,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.5220/0003814200260037"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/con-maps-grapp2012-mahdavi-amiri.pdf"
+url_pdf: "/pdf/con-maps-grapp2012-mahdavi-amiri.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

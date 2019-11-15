@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://pdfs.semanticscholar.org/f22d/20dca3cfd3989ed893d1fe6b1a67ff170daf.pdf"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/a3drmrs-icpr2016-harrison.pdf"
+url_pdf: "/pdf/a3drmrs-icpr2016-harrison.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

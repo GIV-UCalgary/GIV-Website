@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/11751540_11"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/intersections-iccsa2006-severn.pdf"
+url_pdf: "/pdf/intersections-iccsa2006-severn.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

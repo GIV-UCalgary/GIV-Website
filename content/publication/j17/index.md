@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1142/S0219467807002829"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/artistic-styles-ijig2007-brunn.pdf"
+url_pdf: "/pdf/artistic-styles-ijig2007-brunn.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

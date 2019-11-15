@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/978-3-642-41939-3_67"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/1-to-2-de-isvc2013-mahdavi-amiri.pdf"
+url_pdf: "/pdf/1-to-2-de-isvc2013-mahdavi-amiri.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

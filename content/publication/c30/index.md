@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dl.acm.org/citation.cfm?id=1923363.1923366"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/inflation-strokes-sbim2010-olsen.pdf"
+url_pdf: "/pdf/inflation-strokes-sbim2010-olsen.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

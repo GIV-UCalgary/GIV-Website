@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1145/1274871.1274876"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/flexible-projection-npar2007-brosz.pdf"
+url_pdf: "/pdf/flexible-projection-npar2007-brosz.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

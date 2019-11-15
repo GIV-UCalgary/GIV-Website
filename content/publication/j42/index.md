@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/s00371-016-1227-y"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/de-cm-tvc2016-samavati.pdf"
+url_pdf: "/pdf/de-cm-tvc2016-samavati.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

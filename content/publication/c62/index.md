@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://dl.acm.org/citation.cfm?id=3092922"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/rtpanoramamaps-expressive2017-brown.pdf"
+url_pdf: "/pdf/rtpanoramamaps-expressive2017-brown.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

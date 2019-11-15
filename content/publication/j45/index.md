@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1109/MCG.2017.38"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/physicalvisgds-cg2017-djavaherpour.pdf"
+url_pdf: "/pdf/physicalvisgds-cg2017-djavaherpour.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

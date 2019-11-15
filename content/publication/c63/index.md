@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.5220/0006627303090318"
-url_pdf: "https://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Main/apdgv-visigrapp-dadkhahfard.pdf"
+url_pdf: "/pdf/apdgv-visigrapp-dadkhahfard.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

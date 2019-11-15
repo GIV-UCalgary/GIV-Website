@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1145/2630099.2630108"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/eco-network-vis-cae2014-etemad.pdf"
+url_pdf: "/pdf/eco-network-vis-cae2014-etemad.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

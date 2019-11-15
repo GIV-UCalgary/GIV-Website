@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1145/2630407.2630411"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/3d-geo-modeling-sbim2014-amorim.pdf"
+url_pdf: "/pdf/3d-geo-modeling-sbim2014-amorim.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

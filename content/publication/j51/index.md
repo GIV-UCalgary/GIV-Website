@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://www.sciencedirect.com/science/article/pii/S0097849319300615"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/lifeBrush2.pdf"
+url_pdf: "/pdf/lifeBrush2.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

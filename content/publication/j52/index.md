@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://www.sciencedirect.com/science/article/pii/S0097849319300913?dgcid=coauthor"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/MultiscaleNURBS.pdf"
+url_pdf: "/pdf/MultiscaleNURBS.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

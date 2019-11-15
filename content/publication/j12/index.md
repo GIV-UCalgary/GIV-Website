@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://inderscience.metapress.com/content/78p56456871r6814"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/incremental-subdiv-ijcse2007-pakdel.pdf"
+url_pdf: "/pdf/incremental-subdiv-ijcse2007-pakdel.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

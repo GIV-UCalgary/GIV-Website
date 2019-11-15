@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/s10543-006-0075-y"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/local-ls-bitnm2006-bartels.pdf"
+url_pdf: "/pdf/local-ls-bitnm2006-bartels.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

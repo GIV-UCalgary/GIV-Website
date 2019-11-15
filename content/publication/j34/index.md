@@ -44,7 +44,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.3390/ijgi4010320"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/indexing-of-dggs-ijgi2015-mahdavi-amiri.pdf"
+url_pdf: "/pdf/indexing-of-dggs-ijgi2015-mahdavi-amiri.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

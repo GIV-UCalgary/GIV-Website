@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/978-3-642-13544-6_1"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/clouds-sg2010-stiver.pdf"
+url_pdf: "/pdf/clouds-sg2010-stiver.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

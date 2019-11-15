@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://inderscience.metapress.com/content/F0510KN133342649"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/silh-err-ijcse2007-foster.pdf"
+url_pdf: "/pdf/silh-err-ijcse2007-foster.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

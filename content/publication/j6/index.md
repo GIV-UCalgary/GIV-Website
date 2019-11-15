@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1142/S0218654303000048"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/l-system-for-subdiv-ijsm2003-prusinkiewicz.pdf"
+url_pdf: "/pdf/l-system-for-subdiv-ijsm2003-prusinkiewicz.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

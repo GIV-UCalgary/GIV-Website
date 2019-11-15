@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1109/MCG.2011.84"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/naturasketch-cga2011-olsen.pdf"
+url_pdf: "/pdf/naturasketch-cga2011-olsen.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1109/ICCSA.2008.57"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/nurbs-fusion-iccsa2008-liu.pdf"
+url_pdf: "/pdf/nurbs-fusion-iccsa2008-liu.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

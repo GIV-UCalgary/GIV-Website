@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1016/j.gmod.2011.03.004"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/smooth-rev-loop-cc-gm2011-sadeghi.pdf"
+url_pdf: "/pdf/smooth-rev-loop-cc-gm2011-sadeghi.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/s00371-007-0148-1"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/void-patching-tvc2007-wecker.pdf"
+url_pdf: "/pdf/void-patching-tvc2007-wecker.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

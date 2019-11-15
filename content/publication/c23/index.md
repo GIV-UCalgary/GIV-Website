@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.2312/egst.20081044"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/sbi-taxonomy-eg2008-olsen.pdf"
+url_pdf: "/pdf/sbi-taxonomy-eg2008-olsen.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

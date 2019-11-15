@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.2312/COMPAESTH/COMPAESTH08/025-032"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/floral-patterns-cae2008-etemad.pdf"
+url_pdf: "/pdf/floral-patterns-cae2008-etemad.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

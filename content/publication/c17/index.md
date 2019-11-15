@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.2312/SBM/SBM06/123-129"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/region-growing-sbim2006-chen.pdf"
+url_pdf: "/pdf/region-growing-sbim2006-chen.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

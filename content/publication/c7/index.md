@@ -30,7 +30,7 @@ tags: []
 featured: false
 
 
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/bspline-wavelet-bt2004-samavati.pdf"
+url_pdf: "/pdf/bspline-wavelet-bt2004-samavati.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

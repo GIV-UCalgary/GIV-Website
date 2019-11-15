@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.2312/exp.20161069"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/daisy-vis-cae2016-etemad.pdf"
+url_pdf: "/pdf/daisy-vis-cae2016-etemad.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/s00371-007-0160-5"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/curves-from-strokes-tvc2007-pusch.pdf"
+url_pdf: "/pdf/curves-from-strokes-tvc2007-pusch.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

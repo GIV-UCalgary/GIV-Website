@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/nonlinear-projection-bridges2009-brosz.pdf"
+url_pdf: "/pdf/nonlinear-projection-bridges2009-brosz.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

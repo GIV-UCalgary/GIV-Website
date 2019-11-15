@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dl.acm.org/citation.cfm?id=1538981.1538987"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/3d-watermarking-ic2007-eshraghi.pdf"
+url_pdf: "/pdf/3d-watermarking-ic2007-eshraghi.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

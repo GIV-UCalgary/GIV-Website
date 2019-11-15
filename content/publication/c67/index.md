@@ -33,7 +33,7 @@ tags: []
 featured: false
 
 
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/vahab.pdf"
+url_pdf: "/pdf/vahab.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

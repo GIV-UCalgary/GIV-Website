@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/Cartographica.pdf"
+url_pdf: "/pdf/Cartographica.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

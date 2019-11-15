@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/cover-it-gi2015-mahdavi-amiri.pdf"
+url_pdf: "/pdf/cover-it-gi2015-mahdavi-amiri.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

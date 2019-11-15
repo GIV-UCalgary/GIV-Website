@@ -35,7 +35,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.2312/VisSym/EuroVis06/347-354"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/super-closeup-ev2006-taerum-results.pdf"
+url_pdf: "/pdf/super-closeup-ev2006-taerum-results.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

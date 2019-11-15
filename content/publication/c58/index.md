@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.20380/GI2016.04"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/sfpup-gi2016-moltaji.pdf"
+url_pdf: "/pdf/sfpup-gi2016-moltaji.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

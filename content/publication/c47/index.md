@@ -50,7 +50,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/978-3-319-22804-4_27"
-url_pdf: "http://www.cpsc.ucalgary.ca/~samavati/wiki/uploads/Main/CINPACT-SPLINES.pdf"
+url_pdf: "/pdf/CINPACT-SPLINES.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

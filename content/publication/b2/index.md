@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1142/9789812770677_0003"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/local-mr-ipr2007-samavati.pdf"
+url_pdf: "/pdf/local-mr-ipr2007-samavati.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dl.acm.org/citation.cfm?id=2532150"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/local-fairing-gi2013-sadeghi.pdf"
+url_pdf: "/pdf/local-fairing-gi2013-sadeghi.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/s00371-007-0153-4"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/ribbons-tvc2007-runions.pdf"
+url_pdf: "/pdf/ribbons-tvc2007-runions.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

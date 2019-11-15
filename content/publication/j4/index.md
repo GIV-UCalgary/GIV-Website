@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1111/1467-8659.00572"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/reverse-doo-cgf2002-samavati.pdf"
+url_pdf: "/pdf/reverse-doo-cgf2002-samavati.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

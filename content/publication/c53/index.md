@@ -31,7 +31,7 @@ tags: []
 featured: false
 
 
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/node-ring-visap2014-etemad.pdf"
+url_pdf: "/pdf/node-ring-visap2014-etemad.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

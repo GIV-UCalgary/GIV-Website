@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/978-3-540-24767-8_25"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/adaptive-loop-iccsa2004-pakdel.pdf"
+url_pdf: "/pdf/adaptive-loop-iccsa2004-pakdel.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

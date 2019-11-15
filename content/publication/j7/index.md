@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1111/1467-8659.00684"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/ink-drwaing-eg2003-sousa.pdf"
+url_pdf: "/pdf/ink-drwaing-eg2003-sousa.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

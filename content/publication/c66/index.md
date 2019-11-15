@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://dl.acm.org/citation.cfm?id=3340094"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/Sketch-basedRegistration.pdf"
+url_pdf: "/pdf/Sketch-basedRegistration.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

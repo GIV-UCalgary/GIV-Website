@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1016/j.cag.2013.09.003"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/acm-cg2014-mahdavi-amiri.pdf"
+url_pdf: "/pdf/acm-cg2014-mahdavi-amiri.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

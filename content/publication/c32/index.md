@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1109/SMI.2010.23"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/panorama-smi2010-brosz.pdf"
+url_pdf: "/pdf/panorama-smi2010-brosz.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

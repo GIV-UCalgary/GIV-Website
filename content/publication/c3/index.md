@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1145/1037210.1037235"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/silhouette-sccg2004-brosz.pdf"
+url_pdf: "/pdf/silhouette-sccg2004-brosz.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

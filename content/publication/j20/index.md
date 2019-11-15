@@ -35,7 +35,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1007/s00371-009-0352-2"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/water-systhesis-tvc2009-miandji.pdf"
+url_pdf: "/pdf/water-systhesis-tvc2009-miandji.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

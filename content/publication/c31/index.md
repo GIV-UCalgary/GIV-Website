@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1109/SMI.2010.39"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/surface-deformation-smi2010-pusch.pdf"
+url_pdf: "/pdf/surface-deformation-smi2010-pusch.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

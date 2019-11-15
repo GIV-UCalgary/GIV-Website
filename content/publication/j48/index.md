@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1111/cgf.13432"
-url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/Allahverdi_et_al-2018-Computer_Graphics_Forum.pdf"
+url_pdf: "/pdf/Allahverdi_et_al-2018-Computer_Graphics_Forum.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

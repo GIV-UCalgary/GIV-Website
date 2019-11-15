@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1145/1124728.1124746"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/sketching-plants-npar2006-anastacio.pdf"
+url_pdf: "/pdf/sketching-plants-npar2006-anastacio.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

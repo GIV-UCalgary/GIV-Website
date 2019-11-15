@@ -35,7 +35,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.5220/0004719003640371"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/sbi-for-animation-grapp2014-figueroa.pdf"
+url_pdf: "/pdf/sbi-for-animation-grapp2014-figueroa.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

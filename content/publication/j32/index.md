@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dx.doi.org/10.1080/17538947.2014.927597"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/hex-con-maps-jde2014-mahdavi-amiri.pdf"
+url_pdf: "/pdf/hex-con-maps-jde2014-mahdavi-amiri.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

@@ -33,7 +33,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dl.acm.org/citation.cfm?id=1538981.1538989"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/stroke-matching-ic2007-olsen.pdf"
+url_pdf: "/pdf/stroke-matching-ic2007-olsen.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''

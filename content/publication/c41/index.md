@@ -32,7 +32,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "http://dl.acm.org/citation.cfm?id=2532148"
-url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/acm-gi2013-mahdavi-amiri.pdf"
+url_pdf: "/pdf/acm-gi2013-mahdavi-amiri.pdf"
 url_code: ''
 url_dataset: ''
 url_poster: ''
