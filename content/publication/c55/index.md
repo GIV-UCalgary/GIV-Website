@@ -30,9 +30,7 @@ summary: "The ubiquity of 3D printers has made it possible to print various type
 tags: []
 featured: false
 
-links:
-- name: "Electronic Edition from Publisher"
-  url: ""
+
 url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/cover-it-gi2015-mahdavi-amiri.pdf"
 url_code: ''
 url_dataset: ''

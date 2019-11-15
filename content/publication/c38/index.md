@@ -18,7 +18,7 @@ publishDate: "2012-01-01T00:00:00+00:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*GRAPP/IVAPP *"
+publication: "*GRAPP/IVAPP*"
 publication_short: ""
 
 abstract: "In this paper, we present a novel approach toward generating floral patterns. We extract the essence of a pattern aside from its appearance and geometry into combinatorial elements. As a result, existing patterns can be reshaped while preserving their essence. Furthermore, we can create new patterns that adhere to high level concepts such as imperfect symmetry and visual balance. By decomposing floral patterns into a configuration of circles and angles, we can reconstruct this patterns on different surfaces given a conformal mapping."
@@ -53,7 +53,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [interactive-modeling-of-muqarnas]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

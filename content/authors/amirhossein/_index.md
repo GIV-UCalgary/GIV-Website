@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Meysam Kazemi
+name: Amirhossein Mirtabatabaeipour
 
 # Username (this should match the folder name)
 authors:
-- meysam
+- amirhossein
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,11 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Meysam is an MSc student interested in Digital Earth."
+bio: "Amirhossein is an MSc student interested in Digital Earth and Machine Learning."
 
 interests:
 - Computer Graphics
-- 3D Modeling
+- Machine Learning
 - Digital Earth
 
 
@@ -45,7 +45,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:meysam.kazemi@ucalgary.ca
+  link: mailto:amirhossein.mirtabat@ucalgary.ca
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -70,4 +70,4 @@ user_groups:
 - M.Sc. Students
 
 ---
-Meysam is an MSc student interested in Digital Earth.
+Amirhossein is an MSc student interested in Digital Earth and Machine Learning.

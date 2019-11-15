@@ -29,9 +29,7 @@ summary: "Haar wavelets have been widely used in Biometrics. One advantage of Ha
 tags: []
 featured: false
 
-links:
-- name: "Electronic Edition from Publisher"
-  url: ""
+
 url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/bspline-wavelet-bt2004-samavati.pdf"
 url_code: ''
 url_dataset: ''

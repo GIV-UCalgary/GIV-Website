@@ -30,9 +30,7 @@ summary: "The creation of a digital representation of the Earth and its associat
 tags: []
 featured: false
 
-links:
-- name: "Electronic Edition from Publisher"
-  url: ""
+
 url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/Cartographica.pdf"
 url_code: ''
 url_dataset: ''

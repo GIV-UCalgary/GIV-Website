@@ -32,9 +32,7 @@ summary: "Nonlinear projection is a current area of research in computer graphic
 tags: []
 featured: false
 
-links:
-- name: "Electronic Edition from Publisher"
-  url: ""
+
 url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/nonlinear-projection-bridges2009-brosz.pdf"
 url_code: ''
 url_dataset: ''
@@ -56,7 +54,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: []
+projects: [flexible-projection]
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

@@ -30,9 +30,7 @@ summary: "The Earth’s surface is live and dynamic due to natural and manmade e
 tags: []
 featured: false
 
-links:
-- name: "Electronic Edition from Publisher"
-  url: ""
+
 url_pdf: "https://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/sistvef-wscg2018-tripathi.pdf"
 url_code: ''
 url_dataset: ''

@@ -31,9 +31,7 @@ summary: "Landscape illustrations and cartographic maps depict ter-rain surface 
 tags: []
 featured: false
 
-links:
-- name: "Electronic Edition from Publisher"
-  url: ""
+
 url_pdf: "http://www.mountaincartography.org/publications/papers/papers_nuria_04/buchin.pdf"
 url_code: ''
 url_dataset: ''

@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Meysam Kazemi
+name: Xi Wang
 
 # Username (this should match the folder name)
 authors:
-- meysam
+- xi
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,12 +18,11 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Meysam is an MSc student interested in Digital Earth."
+bio: "xi is an MSc student"
 
 interests:
 - Computer Graphics
-- 3D Modeling
-- Digital Earth
+- 3D modeling
 
 
 #education:
@@ -45,7 +44,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:meysam.kazemi@ucalgary.ca
+  link: mailto:xi.wang1@ucalgary.ca
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -70,4 +69,4 @@ user_groups:
 - M.Sc. Students
 
 ---
-Meysam is an MSc student interested in Digital Earth.
+xi is an MSc student.

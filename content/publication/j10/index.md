@@ -30,9 +30,7 @@ summary: "Reverse subdivision aims at constructing a coarser representation of a
 tags: []
 featured: false
 
-links:
-- name: "Electronic Edition from Publisher"
-  url: ""
+
 url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/reverse-loop-ijmsi2007-samavati.pdf"
 url_code: ''
 url_dataset: ''

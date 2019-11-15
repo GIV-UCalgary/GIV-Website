@@ -30,9 +30,7 @@ summary: "The most common graph visualization techniques still use nodelink layo
 tags: []
 featured: false
 
-links:
-- name: "Electronic Edition from Publisher"
-  url: ""
+
 url_pdf: "http://jungle.cpsc.ucalgary.ca/wiki/uploads/Publications-FS/node-ring-visap2014-etemad.pdf"
 url_code: ''
 url_dataset: ''

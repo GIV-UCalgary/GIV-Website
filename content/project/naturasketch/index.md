@@ -3,7 +3,7 @@ title: Naturasketch
 summary: An image assisted sketch-based modeling system.
 tags:
 - Computer Graphics
-- sketch-based modeling
+- Sketch-based modeling
 
 date: "2007-10-11T00:00:00Z"
 

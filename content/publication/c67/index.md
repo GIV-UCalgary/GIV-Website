@@ -32,9 +32,7 @@ summary: "Data spatialization is a design technique through which data is used t
 tags: []
 featured: false
 
-links:
-- name: "Electronic Edition from Publisher"
-  url: ""
+
 url_pdf: "http://pages.cpsc.ucalgary.ca/~samavati/wiki/uploads/Publications/pdfs/vahab.pdf"
 url_code: ''
 url_dataset: ''
