@@ -8,24 +8,28 @@ active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
 title = "Meet the Team"
-subtitle = ""
+subtitle = "Graphics, Interaction, and Visualization Group"
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
-                 "Researchers",
-                 "Grad Students",
-                 "Administration",
-                 "Visitors",
-                 "Alumni"]
+  user_groups = [
+     "Principal Investigator",
+     "Postdoctoral Researchers",
+     "Ph.D. Students",
+     "M.Sc. Students",
+     "Undergraduate Students",
+     "Alumni Ph.D. Students",
+     "Alumni M.Sc. Students",
+     "Alumni Undergraduate Students"
+  ]
 
 [design]
   # Show user's social networking links? (true/false)
   show_social = false
 
   # Show user's interests? (true/false)
-  show_interests = true
+  show_interests = false
 
 [design.background]
   # Apply a background color, gradient, or image.

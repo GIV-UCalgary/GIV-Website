@@ -1,7 +1,7 @@
 ---
 title: "Improving DWT-RNN model via B-spline wavelet multiresolution to forecast a high-frequency time series"
 authors:
-- torabi
+- Zeinab Hajiabotorabi
 - Aliyeh Kazemi
 - samavati
 - Farid Mohammad Maalek Ghaini
