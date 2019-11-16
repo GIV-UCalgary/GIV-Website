@@ -68,7 +68,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Principal Investigator
+- Head Researcher
 ---
 Faramarz F. Samavati is a full professor of the Department of Computer Science at the University of Calgary. His research interests include Computer Graphics, Geometric Modeling, Visualization, and 3D Imaging. Dr. Samavati has published over 100 technical papers in peer-reviewed journals and conferences, and a book on Sketch-based Modeling (Springer, Google books, Amazon).
 
