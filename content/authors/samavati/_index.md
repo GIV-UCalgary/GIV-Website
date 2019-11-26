@@ -15,9 +15,9 @@ role: Professor
 # Organizations/Affiliations
 organizations:
 - name: Department of Computer Science
-  url: ""
+  url: "http://www.cpsc.ucalgary.ca/"
 - name: University of Calgary
-  url: ""
+  url: "http://www.ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Computer Graphics, Geometric Modeling, Visualization, and Digital Earth.
