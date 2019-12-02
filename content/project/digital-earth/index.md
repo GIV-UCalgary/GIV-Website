@@ -59,7 +59,7 @@ With his former MSc student, Mark Sherlock and help from his former PhD student,
 ### **Sub-centimeter Global Grid System**
 To address positional uncertainty and also develop grid systems capable of processing extremely high-resolution data, Dr. Samavati’s team has recently initiated the development of a new DGGS software. Currently, Lakin Wecker (PhD student), John Hall (MSc student) and Benjamin Ulmer (MSc student) are working in the development of this software, which is capable of addressing geospatial datasets with sub-centimeter accuracy. This system opens the door to many location-based applications. In this system, we can discretize and address the Earth’s surface up to  8x10^18 cells with real-time rendering and retrieval. 
 
-{{< youtube 3CEYo0F5d3w >}}
+{{< youtube 4qKO4fbOLbU >}}
 
 Currently, the team works on use cases related to wildfire. The below video visualize Hot-Dry-Windy resulting from 10 years of monthly [datasets of ERA5](https://www.ecmwf.int/en/forecasts/datasets/reanalysis-datasets/era5) on temperature, humidity and wind speed.
 
