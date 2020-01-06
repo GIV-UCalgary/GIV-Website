@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Alumni Ph.D. Student\n\nSeptember 2009 - present"
+role: "Alumni Ph.D. Student\n\nSeptember 2009 - August 2018"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Mahmudul is a PhD candidate interested in multiresolution and visualization."
+bio: "Mahmudul is an alumni PhD student interested in multiresolution and visualization."
 
 #interests:
 #- Artificial Intelligence
