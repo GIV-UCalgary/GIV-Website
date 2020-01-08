@@ -1,0 +1,13 @@
+---
+label: test
+hide_body: false
+fields:
+- name: adfs
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: adfs
