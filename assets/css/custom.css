@@ -1,0 +1,8 @@
+.media.stream-item img {
+     max-width: 400px;
+     max-height: 250px;
+/*     height: auto;*/
+/*     object-fit: cover; *!*/
+/*     width: 25%;*/
+/*     height: 100%;*/
+}
