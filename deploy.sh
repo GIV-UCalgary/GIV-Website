@@ -2,7 +2,7 @@
 
 set -e
 
-echo $TRAVIS_TOKEN > ~/.git-credentials && chmod 0600 ~/.git-credentials
+echo $GITHUB_CREDENTIALS > ~/.git-credentials && chmod 0600 ~/.git-credentials
 git config --global credential.helper store
 git config --global user.email "deploy@travis-ci.org"
 git config --global user.name "Deployment Bot (from Travis CI)"
