@@ -14,6 +14,6 @@ deploy:
     github_token: $TRAVIS_TOKEN
     keep_history: true
 #    local_dir: /public
-    repo: GIVGroup/GIVGroup.github.io
+#    repo: GIVGroup/GIVGroup.github.io
     on:
       branch: master
