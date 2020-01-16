@@ -4,7 +4,8 @@ install:
   - sudo dpkg -i /tmp/hugo.deb
 
 script:
-  - hugo -F
+  - hugo --buildFuture
+  - hugo --buildFuture --config config/_default/cpsc-pages-config.toml
 
 deploy:
   - provider: script
