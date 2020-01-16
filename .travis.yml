@@ -5,7 +5,7 @@ install:
 
 script:
   - hugo --buildFuture
-  - hugo --buildFuture --config config/cpsc-pages-config.toml
+  - hugo --buildFuture --config cpsc-pages-config.toml
 
 deploy:
   - provider: script

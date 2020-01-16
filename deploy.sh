@@ -12,7 +12,7 @@ git config --global push.default simple
 
 rm -rf deployment
 git clone -b master https://github.com/GIVGroup/GIVGroup.github.io.git deployment
-rsync -av --delete --exclude ".git" ./public/ deployment
+rsync -a --delete --exclude ".git" public/ deployment
 cd deployment
 git add -A
 # we need the || true, as sometimes you do not have any content changes
@@ -24,10 +24,7 @@ cd ..
 rm -rf deployment
 
 git clone -b master https://github.com/GIVGroup/GIV-Website-CPSC-Biuld.git deployment
-echo "*********************************"
-ls -al
-echo "*********************************"
-rsync -av --delete --exclude ".git" ./cpsc-pages-public/ deployment
+rsync -a --delete --exclude ".git" cpsc-pages-public/ deployment
 cd deployment
 git add -A
 # we need the || true, as sometimes you do not have any content changes
