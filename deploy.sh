@@ -1,7 +1,9 @@
 #!/bin/bash
 
 set -e
-
+echo "*********************************"
+ls -al
+echo "*********************************"
 echo $GITHUB_CREDENTIALS > ~/.git-credentials && chmod 0600 ~/.git-credentials
 git config --global credential.helper store
 git config --global user.email "deploy@travis-ci.org"
@@ -22,6 +24,9 @@ cd ..
 rm -rf deployment
 
 git clone -b master https://github.com/GIVGroup/GIV-Website-CPSC-Biuld.git deployment
+echo "*********************************"
+ls -al
+echo "*********************************"
 rsync -av --delete --exclude ".git" ./cpsc-pages-public/ deployment
 cd deployment
 git add -A
