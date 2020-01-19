@@ -10,7 +10,8 @@ title = "GIV Group"
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/~meysam.kazemi/"
-canonifyurls = true
+canonifyurls = false
+relativeURLs = false
 publishDir = "cpsc-pages-public/"
 
 # Enter a copyright notice to display in the site footer.
