@@ -9,7 +9,8 @@ title = "GIV Group"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/~meysam.kazemi/"
+#baseurl = "https://pages.cpsc.ucalgary.ca/~samavati/"
+baseurl = "https://pages.cpsc.ucalgary.ca/~meysam.kazemi/GIV-Website/cpsc-pages-public/"
 canonifyurls = false
 relativeURLs = false
 publishDir = "cpsc-pages-public/"
