@@ -7,7 +7,7 @@ authors:
 - katayoon
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: "Postdoctoral Researcher\n\nSeptember 2016 - present"

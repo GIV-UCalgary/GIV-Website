@@ -7,7 +7,7 @@ authors:
 - ben
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: "M.Sc. Student\n\nSeptember 2017 - present"

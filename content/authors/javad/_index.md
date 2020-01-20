@@ -7,7 +7,7 @@ authors:
 - javad
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: "Alumni Ph.D. Student\n\nJanuary 2007 - March 2013"

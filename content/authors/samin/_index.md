@@ -7,7 +7,7 @@ authors:
 - samin
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: "Alumni M.Sc. Student\n\nAugust 2016 - September 2019"

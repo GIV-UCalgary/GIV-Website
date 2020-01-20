@@ -7,7 +7,7 @@ authors:
 - mahmudul
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: "Alumni Ph.D. Student\n\nSeptember 2009 - August 2018"

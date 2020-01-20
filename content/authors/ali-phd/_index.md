@@ -7,7 +7,7 @@ authors:
 - ali-phd
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: "Alumni Ph.D. Student\n\nSeptember 2009 - April 2015"

@@ -7,7 +7,7 @@ authors:
 - adam
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: "Alumni Ph.D. Student\n\nJanuary 2008 - January 2015"

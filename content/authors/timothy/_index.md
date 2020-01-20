@@ -7,7 +7,7 @@ authors:
 - timothy
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: "Ph.D. Student\n\n2012 - present"

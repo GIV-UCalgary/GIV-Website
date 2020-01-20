@@ -7,7 +7,7 @@ authors:
 - jeff
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: "Alumni M.Sc. Student\n\nSeptember 2010 - May 2013"
