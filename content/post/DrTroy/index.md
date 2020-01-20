@@ -5,4 +5,4 @@ date: "2019-11-08T00:00:00+00:00"
 
 ---
 
-Troy just Defensed and Graduated from his PhD. Congratulations to him!
+Congratulations to Dr. Troy Alderson on his Graduation from PhD. 
