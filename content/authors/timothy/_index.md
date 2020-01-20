@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Ph.D. Student\n\n2012 - present"
+role: "Alumni Ph.D. Student\n\n2012 - December 2019"
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Ph.D. Students
+- Alumni Ph.D. Students
 ---
 
 Tim is researching multi-scale discrete element textures and procedural modelling. The goal of his research is to create 3D multi-scale simulations and visualizations of the human body, from organ systems all the way down to individual proteins and molecules.

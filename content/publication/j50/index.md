@@ -1,7 +1,7 @@
 ---
 title: "Interactive example-palettes for discrete element texture synthesis"
 authors:
-- Timothy Davison
+- timothy
 - samavati
 - Christian Jacob
 

@@ -1,7 +1,7 @@
 ---
 title: "LifeBrush: Painting interactive agent-based simulations"
 authors:
-- Timothy Davison
+- timothy
 - samavati
 - Christian Jacob
 

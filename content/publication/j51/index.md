@@ -1,7 +1,7 @@
 ---
 title: "LifeBrush: Painting, simulating, and visualizing dense biomolecular environments"
 authors:
-- Timothy Davison
+- timothy
 - samavati
 - Christian Jacob
 
