@@ -7,7 +7,7 @@ git pull origin master
 
 Write-Host ""
 Write-Host "Completed. Copying files... (Please wait. It will take a few minutes.)"
-Copy-Item -Path * -Destination ..\www\ -Exclude deploy.ps1 -Recurse -Force -PassThru
+Copy-Item -Path (Get-Item -Path * -Exclude ('deploy.ps1', '.git')).FullName -Destination ..\www\ -Recurse -Force -PassThru
 
 Write-Host ""
 Write-Host "Done. The website is now online."
