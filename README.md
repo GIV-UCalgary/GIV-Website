@@ -1,42 +1,25 @@
-# [Academic Kickstart](https://sourcethemes.com/academic/)
+// To be updated
 
-**Academic** makes it easy to create a beautiful website for free using Markdown, Jupyter, or RStudio. Customize anything on your site with widgets, themes, and language packs. [Check out the latest demo](https://academic-demo.netlify.com/) of what you'll get in less than 10 minutes, or [view the showcase](https://sourcethemes.com/academic/#expo).
+## The workflow
+This is the main repository of our lab's website which contains the sources. This website is made with [Hugo](https://gohugo.io/) static site generator and using the [Academics theme](https://sourcethemes.com/academic/).
 
-**Academic Kickstart** provides a minimal template to kickstart your new website.
+The sources are mainly [Markdown](https://en.wikipedia.org/wiki/Markdown) files (.md format). You may edit these sources either directly from Github or by cloning the project and editing locally in your machine. 
 
-- [**Get Started**](#install)
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+Whenever you push something to this repository, a build process will be triggered automatically and builds the website (i.e. generates HTML CSS files) and pushes the built site into two other repositories. This process takes roughly 6 minutes.
 
-[![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
+We have a review stage in this process; a copy of our website is online at Github pages here: https://givgroup.github.io/
+When build ends, you can see the changes in the above link in ~15 min. (This time is for CDN caches to break)
 
-## Install
+Because of this workflow, you don't need to install Hugo on your machine. The only thing you need is simple text editors. 
 
-You can choose from one of the following four methods to install:
 
-* [**one-click install using your web browser (recommended)**](https://sourcethemes.com/academic/docs/install/#install-with-web-browser)
-* [install on your computer using **Git** with the Command Prompt/Terminal app](https://sourcethemes.com/academic/docs/install/#install-with-git)
-* [install on your computer by downloading the **ZIP files**](https://sourcethemes.com/academic/docs/install/#install-with-zip)
-* [install on your computer with **RStudio**](https://sourcethemes.com/academic/docs/install/#install-with-rstudio)
+## How to update website
+I will write some documentation on the following topics:
+- Updating your profile and your picture
+- Adding papers
+- Adding and updating news
+- Adding and updating project pages
 
-Then [personalize your new site](https://sourcethemes.com/academic/docs/get-started/).
-
-## Ecosystem
-
-* **[Academic Admin](https://github.com/sourcethemes/academic-admin):** An admin tool to import publications from BibTeX or import assets for an offline site
-* **[Academic Scripts](https://github.com/sourcethemes/academic-scripts):** Scripts to help migrate content to new versions of Academic
-
-## License
-
-Copyright 2017-present [George Cushen](https://georgecushen.com).
-
-Released under the [MIT](https://github.com/sourcethemes/academic-kickstart/blob/master/LICENSE.md) license.
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/academic-kickstart/readme?pixel)](https://github.com/igrigorik/ga-beacon)
+In the meantime, you can ask me if you wanted to update the site and/or have a look at Hugo documentation and also Academic theme for Hugo documentation in the following links:
+- https://gohugo.io/documentation/
+- https://sourcethemes.com/academic/docs/
