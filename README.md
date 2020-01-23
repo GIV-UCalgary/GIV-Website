@@ -14,12 +14,12 @@ Because of this workflow, you don't need to install Hugo on your machine. The on
 
 
 ## How to update website
-I will write some documentation on the following topics:
+Meysam will write some documentation on the following topics:
 - Updating your profile and your picture
 - Adding papers
 - Adding and updating news
 - Adding and updating project pages
 
-In the meantime, you can ask me if you wanted to update the site and/or have a look at Hugo documentation and also Academic theme for Hugo documentation in the following links:
+In the meantime, you can ask Meysam if you want to update the site and/or have a look at Hugo documentation and also Academic theme for Hugo documentation in the following links:
 - https://gohugo.io/documentation/
 - https://sourcethemes.com/academic/docs/
