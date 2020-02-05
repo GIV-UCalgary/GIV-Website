@@ -1,16 +1,16 @@
 ---
-title: "A survey of digital earth"
+title: "Geospatail Data Organization Methods with Emphasis on Aperture 3 Hexagonal Discrete Global Grid Systems"
 authors:
 - ali
 - troy
 - samavati
 
 
-date: "2015-12-01T00:00:00+00:00"
+date: "2018-04-30T00:00:00+00:00"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2015-12-01T00:00:00+00:00"
+publishDate: "2018-04-30T00:00:00+00:00"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,13 +19,13 @@ publishDate: "2015-12-01T00:00:00+00:00"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Computers & Graphics (Pergamon)*"
+publication: "*Cartographica: The International Journal for Geographic Information and Geovisualization (University of Toronto Press)*"
 publication_short: ""
 
-abstract: "The creation of a digital representation of the Earth and its associated data is a complex and difficult task. The incredible size of geospatial data and differences between data sets pose challenges related to big data, data creation, and data integration. Advances in globe representation and visualization have made use of Discrete Global Grid Systems (DGGSs) that discretize the globe into a set of cells to which data are assigned. DGGSs are well studied and important in the GIS, OGC, and Digital Earth communities but have not been well-introduced to the computer graphics community. In this paper, we provide an overview of DGGSs and their use in digitally representing the Earth, describe several current Digital Earth systems and their methods of Earth representation, and list a number of applications of Digital Earths with related works. Moreover, we discuss the key research areas and related papers from …"
+abstract: "Digital Earth frameworks deal with data sets of different types collected from various sources. In order to effectively store, retrieve, and transmit these data sets, efficient multiscale data representations that are compatible with the underlying structure of the Digital Earth framework are required. In this paper, we describe several such techniques and their properties; namely, how to represent data in the multiscale cell hierarchy of a DGGS or in the multiscale hierarchy of a customized wavelet transform. We also discuss how these techniques can be tuned to be applicable to the A3H DGGS."
 
 # Summary. An optional shortened abstract.
-summary: "The creation of a digital representation of the Earth and its associated data is a complex and difficult task. The incredible size of geospatial data and differences between data sets pose challenges related to big data, data creation, and data integration. Advances in globe representation and visualization have made use of Discrete Global Grid Systems (DGGSs) that discretize the globe into a set of cells to which data are assigned. DGGSs are well studied and important in the GIS, OGC, and Digit..."
+summary: "Digital Earth frameworks deal with data sets of different types collected from various sources. In order to effectively store, retrieve, and transmit these data sets, efficient multiscale data representations that are compatible with the underlying structure of the Digital Earth framework are required. In this paper, we describe several such techniques and their properties; namely, how to represent data in the multiscale cell hierarchy of a DGGS or in the multiscale hierarchy of a customized wavelet transform. We also discuss how these techniques can be tuned to be applicable to the A3H DGGS."
 
 tags: []
 featured: false

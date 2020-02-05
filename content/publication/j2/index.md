@@ -2,7 +2,7 @@
 title: "A filtered b-spline model of scanned digital images"
 authors:
 - samavati
-- ali
+- Nezam Mahdavi-Amiri
 
 
 date: "1999-08-30T00:00:00+00:00"
