@@ -2,7 +2,7 @@
 title: "Multiresolution surfaces having arbitrary topologies by a reverse Doo subdivision method"
 authors:
 - samavati
-- ali
+- Nezam Mahdavi-Amiri
 - Richard Bartels
 
 

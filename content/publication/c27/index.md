@@ -4,7 +4,7 @@ authors:
 - John Brosz
 - Sheelagh Carpendale
 - samavati
-- xi
+- Hao Wang
 - Alan Dunning
 
 
