@@ -1,5 +1,6 @@
 {{ $item := . }}
 
+
 {{/* Dynamic view adjusts to content type. */}}
 {{ $show_authors_only := false }}{{/* Show authors only or full metadata? */}}
 {{ $show_buttons := false }}
@@ -34,7 +35,7 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
-      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }} <span style="font-size: 0.8rem;">({{$item.Date.Format ("2006")}})</span></a>
     </h3>
 
     {{ with $summary }}
