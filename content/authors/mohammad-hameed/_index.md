@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 - icon: link
   icon_pack: fas
-  link: "https://www.researchgate.net/profile/Mohammed_Sm_Elbaz/"
+  link: "https://www.linkedin.com/in/m-a-hameed/"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
