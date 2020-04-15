@@ -119,10 +119,16 @@ var Module = typeof Module !== 'undefined' ? Module : {};
         if (!check) throw msg + new Error().stack;
       }
   Module['FS_createPath']('/', 'web-data', true, true);
+Module['FS_createPath']('/web-data', 'covid', true, true);
+Module['FS_createPath']('/web-data/covid', 'binary', true, true);
+Module['FS_createPath']('/web-data', 'countries', true, true);
+Module['FS_createPath']('/web-data/countries', 'binary', true, true);
 Module['FS_createPath']('/web-data', 'fonts', true, true);
 Module['FS_createPath']('/web-data', 'earth-textures', true, true);
 Module['FS_createPath']('/web-data/earth-textures', 'two-color', true, true);
+Module['FS_createPath']('/web-data', 'boundaries', true, true);
 Module['FS_createPath']('/', 'shaders', true, true);
+Module['FS_createPath']('/shaders', 'covid', true, true);
 
       function DataRequest(start, end, audio) {
         this.start = start;
@@ -195,7 +201,7 @@ Module['FS_createPath']('/', 'shaders', true, true);
     }
   
    }
-   loadPackage({"files": [{"filename": "/web-data/sandbox.ini", "start": 0, "end": 56, "audio": 0}, {"filename": "/web-data/fonts/RobotoMono-Regular.ttf", "start": 56, "end": 108972, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posy.jpg", "start": 108972, "end": 303715, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negy.jpg", "start": 303715, "end": 363717, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posx.jpg", "start": 363717, "end": 484593, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posz.jpg", "start": 484593, "end": 571867, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negx.jpg", "start": 571867, "end": 647363, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negz.jpg", "start": 647363, "end": 707124, "audio": 0}, {"filename": "/shaders/instancededge.vert", "start": 707124, "end": 708592, "audio": 0}, {"filename": "/shaders/instancededge.geom", "start": 708592, "end": 709259, "audio": 0}, {"filename": "/shaders/history.frag", "start": 709259, "end": 710999, "audio": 0}, {"filename": "/shaders/textured.frag", "start": 710999, "end": 712656, "audio": 0}, {"filename": "/shaders/edge.frag", "start": 712656, "end": 715295, "audio": 0}, {"filename": "/shaders/edge.geom", "start": 715295, "end": 716454, "audio": 0}, {"filename": "/shaders/lines.vert", "start": 716454, "end": 717148, "audio": 0}, {"filename": "/shaders/textured.vert", "start": 717148, "end": 718176, "audio": 0}, {"filename": "/shaders/lines.frag", "start": 718176, "end": 718336, "audio": 0}, {"filename": "/shaders/edge.vert", "start": 718336, "end": 719859, "audio": 0}, {"filename": "/shaders/history.vert", "start": 719859, "end": 720887, "audio": 0}], "remote_package_size": 720887, "package_uuid": "eae57d6d-db06-4060-9c8a-42a6ce0c22aa"});
+   loadPackage({"files": [{"filename": "/web-data/sandbox.ini", "start": 0, "end": 56, "audio": 0}, {"filename": "/web-data/covid/binary/covid-data.cereal", "start": 56, "end": 502362, "audio": 0}, {"filename": "/web-data/countries/binary/cellToRegion.cereal", "start": 502362, "end": 725874, "audio": 0}, {"filename": "/web-data/fonts/RobotoMono-Regular.ttf", "start": 725874, "end": 834790, "audio": 0}, {"filename": "/web-data/fonts/OpenSans-ExtraBold.ttf", "start": 834790, "end": 936866, "audio": 0}, {"filename": "/web-data/fonts/Lato-Regular.ttf", "start": 936866, "end": 1057062, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posy.jpg", "start": 1057062, "end": 1251805, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negy.jpg", "start": 1251805, "end": 1311807, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posx.jpg", "start": 1311807, "end": 1432683, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posz.jpg", "start": 1432683, "end": 1519957, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negx.jpg", "start": 1519957, "end": 1595453, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negz.jpg", "start": 1595453, "end": 1655214, "audio": 0}, {"filename": "/web-data/boundaries/countries.geojson", "start": 1655214, "end": 2232515, "audio": 0}, {"filename": "/shaders/instancededge.vert", "start": 2232515, "end": 2233983, "audio": 0}, {"filename": "/shaders/instancededge.geom", "start": 2233983, "end": 2234650, "audio": 0}, {"filename": "/shaders/history.frag", "start": 2234650, "end": 2236390, "audio": 0}, {"filename": "/shaders/textured.frag", "start": 2236390, "end": 2238047, "audio": 0}, {"filename": "/shaders/edge.frag", "start": 2238047, "end": 2240686, "audio": 0}, {"filename": "/shaders/edge.geom", "start": 2240686, "end": 2241845, "audio": 0}, {"filename": "/shaders/lines.vert", "start": 2241845, "end": 2242539, "audio": 0}, {"filename": "/shaders/textured.vert", "start": 2242539, "end": 2243567, "audio": 0}, {"filename": "/shaders/lines.frag", "start": 2243567, "end": 2243727, "audio": 0}, {"filename": "/shaders/edge.vert", "start": 2243727, "end": 2245250, "audio": 0}, {"filename": "/shaders/history.vert", "start": 2245250, "end": 2246278, "audio": 0}, {"filename": "/shaders/covid/text.frag", "start": 2246278, "end": 2246482, "audio": 0}, {"filename": "/shaders/covid/line.vert", "start": 2246482, "end": 2246645, "audio": 0}, {"filename": "/shaders/covid/light.frag", "start": 2246645, "end": 2246749, "audio": 0}, {"filename": "/shaders/covid/mesh.vert", "start": 2246749, "end": 2247066, "audio": 0}, {"filename": "/shaders/covid/light.vert", "start": 2247066, "end": 2247248, "audio": 0}, {"filename": "/shaders/covid/text.vert", "start": 2247248, "end": 2248006, "audio": 0}, {"filename": "/shaders/covid/line.frag", "start": 2248006, "end": 2248108, "audio": 0}, {"filename": "/shaders/covid/texturemesh.vert", "start": 2248108, "end": 2248490, "audio": 0}, {"filename": "/shaders/covid/texturemesh.frag", "start": 2248490, "end": 2249014, "audio": 0}, {"filename": "/shaders/covid/mesh.frag", "start": 2249014, "end": 2249379, "audio": 0}], "remote_package_size": 2249379, "package_uuid": "5deffce6-3298-4240-b1c6-6ac940831ff6"});
   
   })();
   
@@ -928,8 +934,8 @@ var wasmMemory;
 // In the wasm backend, we polyfill the WebAssembly object,
 // so this creates a (non-native-wasm) table for us.
 var wasmTable = new WebAssembly.Table({
-  'initial': 912,
-  'maximum': 912 + 0,
+  'initial': 996,
+  'maximum': 996 + 0,
   'element': 'anyfunc'
 });
 
@@ -1537,11 +1543,11 @@ function updateGlobalBufferAndViews(buf) {
 }
 
 var STATIC_BASE = 1024,
-    STACK_BASE = 5332912,
+    STACK_BASE = 5353712,
     STACKTOP = STACK_BASE,
-    STACK_MAX = 90032,
-    DYNAMIC_BASE = 5332912,
-    DYNAMICTOP_PTR = 89856;
+    STACK_MAX = 110832,
+    DYNAMIC_BASE = 5353712,
+    DYNAMICTOP_PTR = 110656;
 
 assert(STACK_BASE % 16 === 0, 'stack must start aligned');
 assert(DYNAMIC_BASE % 16 === 0, 'heap must start aligned');
@@ -2071,11 +2077,11 @@ var tempI64;
 var ASM_CONSTS = {
   
 };
-function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = document.getElementById('dggs'); if (elem.style) elem.style.cursor=cursor; }
+function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = document.getElementById('dggs'); if (!elem) elem = document.getElementById('canvas'); if (elem.style) elem.style.cursor=cursor; }
 
 
 
-// STATICTOP = STATIC_BASE + 89008;
+// STATICTOP = STATIC_BASE + 109808;
 /* global initializers */  __ATINIT__.push({ func: function() { ___wasm_call_ctors() } });
 
 
@@ -2233,7 +2239,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
   
       var pointer = ___cxa_is_pointer_type(throwntype);
       // can_catch receives a **, add indirection
-      var buffer = 90016;
+      var buffer = 110816;
       SAFE_HEAP_STORE(((buffer)|0), ((thrown)|0), 4);
       thrown = buffer;
       // The different catch blocks are denoted by different types.
@@ -2270,7 +2276,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
   
       var pointer = ___cxa_is_pointer_type(throwntype);
       // can_catch receives a **, add indirection
-      var buffer = 90016;
+      var buffer = 110816;
       SAFE_HEAP_STORE(((buffer)|0), ((thrown)|0), 4);
       thrown = buffer;
       // The different catch blocks are denoted by different types.
@@ -5070,7 +5076,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
     }
 
   function _emscripten_get_sbrk_ptr() {
-      return 89856;
+      return 110656;
     }
 
   function _emscripten_memcpy_big(dest, src, num) {
@@ -6415,6 +6421,10 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
                               GL.shaders[shader]);
     }
 
+  function _glBindAttribLocation(program, index, name) {
+      GLctx.bindAttribLocation(GL.programs[program], index, UTF8ToString(name));
+    }
+
   function _glBindBuffer(target, buffer) {
       if (target == 0x8892 /*GL_ARRAY_BUFFER*/) {
         GL.currArrayBuffer = buffer;
@@ -6473,6 +6483,10 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
   function _glClear(x0) { GLctx['clear'](x0) }
 
   function _glClearColor(x0, x1, x2, x3) { GLctx['clearColor'](x0, x1, x2, x3) }
+
+  function _glColorMask(red, green, blue, alpha) {
+      GLctx.colorMask(!!red, !!green, !!blue, !!alpha);
+    }
 
   function _glCompileShader(shader) {
       GLctx.compileShader(GL.shaders[shader]);
@@ -6538,6 +6552,17 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
       GL.shaders[id] = null;
     }
 
+  function _glDeleteTextures(n, textures) {
+      for (var i = 0; i < n; i++) {
+        var id = ((SAFE_HEAP_LOAD((((textures)+(i*4))|0), 4, 0))|0);
+        var texture = GL.textures[id];
+        if (!texture) continue; // GL spec: "glDeleteTextures silently ignores 0s and names that do not correspond to existing textures".
+        GLctx.deleteTexture(texture);
+        texture.name = 0;
+        GL.textures[id] = null;
+      }
+    }
+
   function _glDeleteVertexArrays(n, vaos) {
       for (var i = 0; i < n; i++) {
         var id = ((SAFE_HEAP_LOAD((((vaos)+(i*4))|0), 4, 0))|0);
@@ -6547,6 +6572,21 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
     }
 
   function _glDisable(x0) { GLctx['disable'](x0) }
+
+  function _glDisableVertexAttribArray(index) {
+      var cb = GL.currentContext.clientBuffers[index];
+      cb.enabled = false;
+      GLctx.disableVertexAttribArray(index);
+    }
+
+  function _glDrawArrays(mode, first, count) {
+      // bind any client-side buffers
+      GL.preDrawHandleClientVertexAttribBindings(first + count);
+  
+      GLctx.drawArrays(mode, first, count);
+  
+      GL.postDrawHandleClientVertexAttribBindings();
+    }
 
   function _glDrawElements(mode, count, type, indices) {
       var buf;
@@ -6580,6 +6620,8 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
       cb.enabled = true;
       GLctx.enableVertexAttribArray(index);
     }
+
+  function _glFinish() { GLctx['finish']() }
 
   function _glFrontFace(x0) { GLctx['frontFace'](x0) }
 
@@ -6616,6 +6658,12 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
 
   function _glGetAttribLocation(program, name) {
       return GLctx.getAttribLocation(GL.programs[program], UTF8ToString(name));
+    }
+
+  function _glGetError() {
+      var error = GLctx.getError() || GL.lastError;
+      GL.lastError = 0/*GL_NO_ERROR*/;
+      return error;
     }
 
   
@@ -6870,6 +6918,13 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
       GL.populateUniformTable(program);
     }
 
+  function _glPixelStorei(pname, param) {
+      if (pname == 0xCF5 /* GL_UNPACK_ALIGNMENT */) {
+        GL.unpackAlignment = param;
+      }
+      GLctx.pixelStorei(pname, param);
+    }
+
   function _glScissor(x0, x1, x2, x3) { GLctx['scissor'](x0, x1, x2, x3) }
 
   function _glShaderSource(shader, count, string, length) {
@@ -6878,6 +6933,14 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
   
       GLctx.shaderSource(GL.shaders[shader], source);
     }
+
+  function _glStencilFunc(x0, x1, x2) { GLctx['stencilFunc'](x0, x1, x2) }
+
+  function _glStencilMask(x0) { GLctx['stencilMask'](x0) }
+
+  function _glStencilOp(x0, x1, x2) { GLctx['stencilOp'](x0, x1, x2) }
+
+  function _glStencilOpSeparate(x0, x1, x2, x3) { GLctx['stencilOpSeparate'](x0, x1, x2, x3) }
 
   
   
@@ -6966,12 +7029,51 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
 
   function _glTexParameteri(x0, x1, x2) { GLctx['texParameteri'](x0, x1, x2) }
 
+  function _glTexSubImage2D(target, level, xoffset, yoffset, width, height, format, type, pixels) {
+      if (GL.currentContext.version >= 2) {
+        // WebGL 2 provides new garbage-free entry points to call to WebGL. Use those always when possible.
+        if (GLctx.currentPixelUnpackBufferBinding) {
+          GLctx.texSubImage2D(target, level, xoffset, yoffset, width, height, format, type, pixels);
+        } else if (pixels) {
+          var heap = __heapObjectForWebGLType(type);
+          GLctx.texSubImage2D(target, level, xoffset, yoffset, width, height, format, type, heap, pixels >> __heapAccessShiftForWebGLHeap(heap));
+        } else {
+          GLctx.texSubImage2D(target, level, xoffset, yoffset, width, height, format, type, null);
+        }
+        return;
+      }
+      var pixelData = null;
+      if (pixels) pixelData = emscriptenWebGLGetTexPixelData(type, format, width, height, pixels, 0);
+      GLctx.texSubImage2D(target, level, xoffset, yoffset, width, height, format, type, pixelData);
+    }
+
   function _glUniform1f(location, v0) {
       GLctx.uniform1f(GL.uniforms[location], v0);
     }
 
   function _glUniform1i(location, v0) {
       GLctx.uniform1i(GL.uniforms[location], v0);
+    }
+
+  function _glUniform2fv(location, count, value) {
+  
+      if (GL.currentContext.version >= 2) { // WebGL 2 provides new garbage-free entry points to call to WebGL. Use those always when possible.
+        GLctx.uniform2fv(GL.uniforms[location], HEAPF32, value>>2, count*2);
+        return;
+      }
+  
+      if (2*count <= GL.MINI_TEMP_BUFFER_SIZE) {
+        // avoid allocation when uploading few enough uniforms
+        var view = GL.miniTempBufferFloatViews[2*count-1];
+        for (var i = 0; i < 2*count; i += 2) {
+          view[i] = Math_fround(SAFE_HEAP_LOAD_D((((value)+(4*i))|0), 4, 0));
+          view[i+1] = Math_fround(SAFE_HEAP_LOAD_D((((value)+(4*i+4))|0), 4, 0));
+        }
+      } else
+      {
+        var view = HEAPF32.subarray((value)>>2,(value+count*8)>>2);
+      }
+      GLctx.uniform2fv(GL.uniforms[location], view);
     }
 
   function _glUniform3fv(location, count, value) {
@@ -6994,6 +7096,33 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
         var view = HEAPF32.subarray((value)>>2,(value+count*12)>>2);
       }
       GLctx.uniform3fv(GL.uniforms[location], view);
+    }
+
+  function _glUniform4fv(location, count, value) {
+  
+      if (GL.currentContext.version >= 2) { // WebGL 2 provides new garbage-free entry points to call to WebGL. Use those always when possible.
+        GLctx.uniform4fv(GL.uniforms[location], HEAPF32, value>>2, count*4);
+        return;
+      }
+  
+      if (4*count <= GL.MINI_TEMP_BUFFER_SIZE) {
+        // avoid allocation when uploading few enough uniforms
+        var view = GL.miniTempBufferFloatViews[4*count-1];
+        // hoist the heap out of the loop for size and for pthreads+growth.
+        var heap = HEAPF32;
+        value >>= 2;
+        for (var i = 0; i < 4 * count; i += 4) {
+          var dst = value + i;
+          view[i] = heap[dst];
+          view[i + 1] = heap[dst + 1];
+          view[i + 2] = heap[dst + 2];
+          view[i + 3] = heap[dst + 3];
+        }
+      } else
+      {
+        var view = HEAPF32.subarray((value)>>2,(value+count*16)>>2);
+      }
+      GLctx.uniform4fv(GL.uniforms[location], view);
     }
 
   function _glUniformMatrix4fv(location, count, transpose, value) {
@@ -8016,7 +8145,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
     }
 
   
-  var ___tm_timezone=(stringToUTF8("GMT", 89920, 4), 89920);function _gmtime_r(time, tmPtr) {
+  var ___tm_timezone=(stringToUTF8("GMT", 110720, 4), 110720);function _gmtime_r(time, tmPtr) {
       var date = new Date(((SAFE_HEAP_LOAD(((time)|0), 4, 0))|0)*1000);
       SAFE_HEAP_STORE(((tmPtr)|0), ((date.getUTCSeconds())|0), 4);
       SAFE_HEAP_STORE((((tmPtr)+(4))|0), ((date.getUTCMinutes())|0), 4);
@@ -8568,7 +8697,7 @@ function intArrayToString(array) {
 
 
 var asmGlobalArg = {};
-var asmLibraryArg = { "__assert_fail": ___assert_fail, "__cxa_allocate_exception": ___cxa_allocate_exception, "__cxa_atexit": ___cxa_atexit, "__cxa_begin_catch": ___cxa_begin_catch, "__cxa_end_catch": ___cxa_end_catch, "__cxa_find_matching_catch_2": ___cxa_find_matching_catch_2, "__cxa_find_matching_catch_3": ___cxa_find_matching_catch_3, "__cxa_free_exception": ___cxa_free_exception, "__cxa_rethrow": ___cxa_rethrow, "__cxa_throw": ___cxa_throw, "__cxa_uncaught_exceptions": ___cxa_uncaught_exceptions, "__handle_stack_overflow": ___handle_stack_overflow, "__map_file": ___map_file, "__resumeException": ___resumeException, "__syscall195": ___syscall195, "__syscall20": ___syscall20, "__syscall221": ___syscall221, "__syscall5": ___syscall5, "__syscall54": ___syscall54, "__syscall91": ___syscall91, "abort": _abort, "alignfault": alignfault, "clock_gettime": _clock_gettime, "emscripten_get_element_css_size": _emscripten_get_element_css_size, "emscripten_get_sbrk_ptr": _emscripten_get_sbrk_ptr, "emscripten_memcpy_big": _emscripten_memcpy_big, "emscripten_resize_heap": _emscripten_resize_heap, "emscripten_set_main_loop": _emscripten_set_main_loop, "environ_get": _environ_get, "environ_sizes_get": _environ_sizes_get, "exit": _exit, "fd_close": _fd_close, "fd_fdstat_get": _fd_fdstat_get, "fd_read": _fd_read, "fd_seek": _fd_seek, "fd_write": _fd_write, "getTempRet0": _getTempRet0, "glActiveTexture": _glActiveTexture, "glAttachShader": _glAttachShader, "glBindBuffer": _glBindBuffer, "glBindTexture": _glBindTexture, "glBindVertexArray": _glBindVertexArray, "glBlendEquation": _glBlendEquation, "glBlendEquationSeparate": _glBlendEquationSeparate, "glBlendFunc": _glBlendFunc, "glBlendFuncSeparate": _glBlendFuncSeparate, "glBufferData": _glBufferData, "glClear": _glClear, "glClearColor": _glClearColor, "glCompileShader": _glCompileShader, "glCreateProgram": _glCreateProgram, "glCreateShader": _glCreateShader, "glCullFace": _glCullFace, "glDeleteBuffers": _glDeleteBuffers, "glDeleteProgram": _glDeleteProgram, "glDeleteShader": _glDeleteShader, "glDeleteVertexArrays": _glDeleteVertexArrays, "glDisable": _glDisable, "glDrawElements": _glDrawElements, "glEnable": _glEnable, "glEnableVertexAttribArray": _glEnableVertexAttribArray, "glFrontFace": _glFrontFace, "glGenBuffers": _glGenBuffers, "glGenTextures": _glGenTextures, "glGenVertexArrays": _glGenVertexArrays, "glGenerateMipmap": _glGenerateMipmap, "glGetAttribLocation": _glGetAttribLocation, "glGetIntegerv": _glGetIntegerv, "glGetProgramInfoLog": _glGetProgramInfoLog, "glGetProgramiv": _glGetProgramiv, "glGetShaderInfoLog": _glGetShaderInfoLog, "glGetShaderiv": _glGetShaderiv, "glGetUniformLocation": _glGetUniformLocation, "glIsEnabled": _glIsEnabled, "glLinkProgram": _glLinkProgram, "glScissor": _glScissor, "glShaderSource": _glShaderSource, "glTexImage2D": _glTexImage2D, "glTexParameteri": _glTexParameteri, "glUniform1f": _glUniform1f, "glUniform1i": _glUniform1i, "glUniform3fv": _glUniform3fv, "glUniformMatrix4fv": _glUniformMatrix4fv, "glUseProgram": _glUseProgram, "glVertexAttribPointer": _glVertexAttribPointer, "glViewport": _glViewport, "glfwCreateStandardCursor": _glfwCreateStandardCursor, "glfwCreateWindow": _glfwCreateWindow, "glfwDestroyWindow": _glfwDestroyWindow, "glfwGetClipboardString": _glfwGetClipboardString, "glfwGetCursorPos": _glfwGetCursorPos, "glfwGetFramebufferSize": _glfwGetFramebufferSize, "glfwGetInputMode": _glfwGetInputMode, "glfwGetJoystickAxes": _glfwGetJoystickAxes, "glfwGetJoystickButtons": _glfwGetJoystickButtons, "glfwGetMouseButton": _glfwGetMouseButton, "glfwGetTime": _glfwGetTime, "glfwGetWindowSize": _glfwGetWindowSize, "glfwGetWindowUserPointer": _glfwGetWindowUserPointer, "glfwInit": _glfwInit, "glfwMakeContextCurrent": _glfwMakeContextCurrent, "glfwPollEvents": _glfwPollEvents, "glfwSetCharCallback": _glfwSetCharCallback, "glfwSetClipboardString": _glfwSetClipboardString, "glfwSetCursor": _glfwSetCursor, "glfwSetCursorPos": _glfwSetCursorPos, "glfwSetCursorPosCallback": _glfwSetCursorPosCallback, "glfwSetInputMode": _glfwSetInputMode, "glfwSetKeyCallback": _glfwSetKeyCallback, "glfwSetMouseButtonCallback": _glfwSetMouseButtonCallback, "glfwSetScrollCallback": _glfwSetScrollCallback, "glfwSetWindowUserPointer": _glfwSetWindowUserPointer, "glfwSwapBuffers": _glfwSwapBuffers, "glfwSwapInterval": _glfwSwapInterval, "glfwTerminate": _glfwTerminate, "glfwWindowHint": _glfwWindowHint, "gmtime_r": _gmtime_r, "invoke_diii": invoke_diii, "invoke_fiii": invoke_fiii, "invoke_i": invoke_i, "invoke_ii": invoke_ii, "invoke_iii": invoke_iii, "invoke_iiii": invoke_iiii, "invoke_iiiii": invoke_iiiii, "invoke_iiiiid": invoke_iiiiid, "invoke_iiiiii": invoke_iiiiii, "invoke_iiiiiii": invoke_iiiiiii, "invoke_iiiiiiii": invoke_iiiiiiii, "invoke_iiiiiiiiiii": invoke_iiiiiiiiiii, "invoke_iiiiiiiiiiii": invoke_iiiiiiiiiiii, "invoke_iiiiiiiiiiiii": invoke_iiiiiiiiiiiii, "invoke_ji": invoke_ji, "invoke_jii": invoke_jii, "invoke_jiiii": invoke_jiiii, "invoke_v": invoke_v, "invoke_vi": invoke_vi, "invoke_vii": invoke_vii, "invoke_viii": invoke_viii, "invoke_viiii": invoke_viiii, "invoke_viiiiiii": invoke_viiiiiii, "invoke_viiiiiiiiii": invoke_viiiiiiiiii, "invoke_viiiiiiiiiiiiiii": invoke_viiiiiiiiiiiiiii, "localtime_r": _localtime_r, "memory": wasmMemory, "pthread_join": _pthread_join, "pthread_mutexattr_destroy": _pthread_mutexattr_destroy, "pthread_mutexattr_init": _pthread_mutexattr_init, "pthread_mutexattr_settype": _pthread_mutexattr_settype, "segfault": segfault, "setTempRet0": _setTempRet0, "strftime": _strftime, "strftime_l": _strftime_l, "subWindowSetCursor": subWindowSetCursor, "table": wasmTable, "time": _time };
+var asmLibraryArg = { "__assert_fail": ___assert_fail, "__cxa_allocate_exception": ___cxa_allocate_exception, "__cxa_atexit": ___cxa_atexit, "__cxa_begin_catch": ___cxa_begin_catch, "__cxa_end_catch": ___cxa_end_catch, "__cxa_find_matching_catch_2": ___cxa_find_matching_catch_2, "__cxa_find_matching_catch_3": ___cxa_find_matching_catch_3, "__cxa_free_exception": ___cxa_free_exception, "__cxa_rethrow": ___cxa_rethrow, "__cxa_throw": ___cxa_throw, "__cxa_uncaught_exceptions": ___cxa_uncaught_exceptions, "__handle_stack_overflow": ___handle_stack_overflow, "__map_file": ___map_file, "__resumeException": ___resumeException, "__syscall195": ___syscall195, "__syscall20": ___syscall20, "__syscall221": ___syscall221, "__syscall5": ___syscall5, "__syscall54": ___syscall54, "__syscall91": ___syscall91, "abort": _abort, "alignfault": alignfault, "clock_gettime": _clock_gettime, "emscripten_get_element_css_size": _emscripten_get_element_css_size, "emscripten_get_sbrk_ptr": _emscripten_get_sbrk_ptr, "emscripten_memcpy_big": _emscripten_memcpy_big, "emscripten_resize_heap": _emscripten_resize_heap, "emscripten_set_main_loop": _emscripten_set_main_loop, "environ_get": _environ_get, "environ_sizes_get": _environ_sizes_get, "exit": _exit, "fd_close": _fd_close, "fd_fdstat_get": _fd_fdstat_get, "fd_read": _fd_read, "fd_seek": _fd_seek, "fd_write": _fd_write, "getTempRet0": _getTempRet0, "glActiveTexture": _glActiveTexture, "glAttachShader": _glAttachShader, "glBindAttribLocation": _glBindAttribLocation, "glBindBuffer": _glBindBuffer, "glBindTexture": _glBindTexture, "glBindVertexArray": _glBindVertexArray, "glBlendEquation": _glBlendEquation, "glBlendEquationSeparate": _glBlendEquationSeparate, "glBlendFunc": _glBlendFunc, "glBlendFuncSeparate": _glBlendFuncSeparate, "glBufferData": _glBufferData, "glClear": _glClear, "glClearColor": _glClearColor, "glColorMask": _glColorMask, "glCompileShader": _glCompileShader, "glCreateProgram": _glCreateProgram, "glCreateShader": _glCreateShader, "glCullFace": _glCullFace, "glDeleteBuffers": _glDeleteBuffers, "glDeleteProgram": _glDeleteProgram, "glDeleteShader": _glDeleteShader, "glDeleteTextures": _glDeleteTextures, "glDeleteVertexArrays": _glDeleteVertexArrays, "glDisable": _glDisable, "glDisableVertexAttribArray": _glDisableVertexAttribArray, "glDrawArrays": _glDrawArrays, "glDrawElements": _glDrawElements, "glEnable": _glEnable, "glEnableVertexAttribArray": _glEnableVertexAttribArray, "glFinish": _glFinish, "glFrontFace": _glFrontFace, "glGenBuffers": _glGenBuffers, "glGenTextures": _glGenTextures, "glGenVertexArrays": _glGenVertexArrays, "glGenerateMipmap": _glGenerateMipmap, "glGetAttribLocation": _glGetAttribLocation, "glGetError": _glGetError, "glGetIntegerv": _glGetIntegerv, "glGetProgramInfoLog": _glGetProgramInfoLog, "glGetProgramiv": _glGetProgramiv, "glGetShaderInfoLog": _glGetShaderInfoLog, "glGetShaderiv": _glGetShaderiv, "glGetUniformLocation": _glGetUniformLocation, "glIsEnabled": _glIsEnabled, "glLinkProgram": _glLinkProgram, "glPixelStorei": _glPixelStorei, "glScissor": _glScissor, "glShaderSource": _glShaderSource, "glStencilFunc": _glStencilFunc, "glStencilMask": _glStencilMask, "glStencilOp": _glStencilOp, "glStencilOpSeparate": _glStencilOpSeparate, "glTexImage2D": _glTexImage2D, "glTexParameteri": _glTexParameteri, "glTexSubImage2D": _glTexSubImage2D, "glUniform1f": _glUniform1f, "glUniform1i": _glUniform1i, "glUniform2fv": _glUniform2fv, "glUniform3fv": _glUniform3fv, "glUniform4fv": _glUniform4fv, "glUniformMatrix4fv": _glUniformMatrix4fv, "glUseProgram": _glUseProgram, "glVertexAttribPointer": _glVertexAttribPointer, "glViewport": _glViewport, "glfwCreateStandardCursor": _glfwCreateStandardCursor, "glfwCreateWindow": _glfwCreateWindow, "glfwDestroyWindow": _glfwDestroyWindow, "glfwGetClipboardString": _glfwGetClipboardString, "glfwGetCursorPos": _glfwGetCursorPos, "glfwGetFramebufferSize": _glfwGetFramebufferSize, "glfwGetInputMode": _glfwGetInputMode, "glfwGetJoystickAxes": _glfwGetJoystickAxes, "glfwGetJoystickButtons": _glfwGetJoystickButtons, "glfwGetMouseButton": _glfwGetMouseButton, "glfwGetTime": _glfwGetTime, "glfwGetWindowSize": _glfwGetWindowSize, "glfwGetWindowUserPointer": _glfwGetWindowUserPointer, "glfwInit": _glfwInit, "glfwMakeContextCurrent": _glfwMakeContextCurrent, "glfwPollEvents": _glfwPollEvents, "glfwSetCharCallback": _glfwSetCharCallback, "glfwSetClipboardString": _glfwSetClipboardString, "glfwSetCursor": _glfwSetCursor, "glfwSetCursorPos": _glfwSetCursorPos, "glfwSetCursorPosCallback": _glfwSetCursorPosCallback, "glfwSetInputMode": _glfwSetInputMode, "glfwSetKeyCallback": _glfwSetKeyCallback, "glfwSetMouseButtonCallback": _glfwSetMouseButtonCallback, "glfwSetScrollCallback": _glfwSetScrollCallback, "glfwSetWindowUserPointer": _glfwSetWindowUserPointer, "glfwSwapBuffers": _glfwSwapBuffers, "glfwSwapInterval": _glfwSwapInterval, "glfwTerminate": _glfwTerminate, "glfwWindowHint": _glfwWindowHint, "gmtime_r": _gmtime_r, "invoke_diii": invoke_diii, "invoke_fiii": invoke_fiii, "invoke_i": invoke_i, "invoke_ii": invoke_ii, "invoke_iii": invoke_iii, "invoke_iiii": invoke_iiii, "invoke_iiiii": invoke_iiiii, "invoke_iiiiii": invoke_iiiiii, "invoke_iiiiiii": invoke_iiiiiii, "invoke_iiiiiiii": invoke_iiiiiiii, "invoke_iiiiiiiiiii": invoke_iiiiiiiiiii, "invoke_iiiiiiiiiiii": invoke_iiiiiiiiiiii, "invoke_iiiiiiiiiiiii": invoke_iiiiiiiiiiiii, "invoke_ji": invoke_ji, "invoke_jii": invoke_jii, "invoke_jiiii": invoke_jiiii, "invoke_v": invoke_v, "invoke_vi": invoke_vi, "invoke_vii": invoke_vii, "invoke_viii": invoke_viii, "invoke_viiii": invoke_viiii, "invoke_viiiiiii": invoke_viiiiiii, "invoke_viiiiiiiiii": invoke_viiiiiiiiii, "invoke_viiiiiiiiiiiiiii": invoke_viiiiiiiiiiiiiii, "invoke_viijii": invoke_viijii, "localtime_r": _localtime_r, "memory": wasmMemory, "pthread_join": _pthread_join, "pthread_mutexattr_destroy": _pthread_mutexattr_destroy, "pthread_mutexattr_init": _pthread_mutexattr_init, "pthread_mutexattr_settype": _pthread_mutexattr_settype, "segfault": segfault, "setTempRet0": _setTempRet0, "strftime": _strftime, "strftime_l": _strftime_l, "subWindowSetCursor": subWindowSetCursor, "table": wasmTable, "time": _time };
 var asm = createWasm();
 Module["asm"] = asm;
 /** @type {function(...*):?} */
@@ -8576,20 +8705,6 @@ var ___wasm_call_ctors = Module["___wasm_call_ctors"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
   return Module["asm"]["__wasm_call_ctors"].apply(null, arguments)
-};
-
-/** @type {function(...*):?} */
-var _main = Module["_main"] = function() {
-  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
-  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
-  return Module["asm"]["main"].apply(null, arguments)
-};
-
-/** @type {function(...*):?} */
-var _fflush = Module["_fflush"] = function() {
-  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
-  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
-  return Module["asm"]["fflush"].apply(null, arguments)
 };
 
 /** @type {function(...*):?} */
@@ -8604,6 +8719,20 @@ var _free = Module["_free"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
   return Module["asm"]["free"].apply(null, arguments)
+};
+
+/** @type {function(...*):?} */
+var _main = Module["_main"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["main"].apply(null, arguments)
+};
+
+/** @type {function(...*):?} */
+var _fflush = Module["_fflush"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["fflush"].apply(null, arguments)
 };
 
 /** @type {function(...*):?} */
@@ -8698,6 +8827,13 @@ var dynCall_viiiiiiiiiiiiiii = Module["dynCall_viiiiiiiiiiiiiii"] = function() {
 };
 
 /** @type {function(...*):?} */
+var dynCall_viijii = Module["dynCall_viijii"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["dynCall_viijii"].apply(null, arguments)
+};
+
+/** @type {function(...*):?} */
 var dynCall_i = Module["dynCall_i"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
@@ -8775,13 +8911,6 @@ var dynCall_iiiiiiiiiiiii = Module["dynCall_iiiiiiiiiiiii"] = function() {
 };
 
 /** @type {function(...*):?} */
-var dynCall_iiiiid = Module["dynCall_iiiiid"] = function() {
-  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
-  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
-  return Module["asm"]["dynCall_iiiiid"].apply(null, arguments)
-};
-
-/** @type {function(...*):?} */
 var dynCall_ji = Module["dynCall_ji"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
@@ -8852,6 +8981,34 @@ var __growWasmMemory = Module["__growWasmMemory"] = function() {
 };
 
 /** @type {function(...*):?} */
+var dynCall_viiiiiif = Module["dynCall_viiiiiif"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["dynCall_viiiiiif"].apply(null, arguments)
+};
+
+/** @type {function(...*):?} */
+var dynCall_viiiiffii = Module["dynCall_viiiiffii"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["dynCall_viiiiffii"].apply(null, arguments)
+};
+
+/** @type {function(...*):?} */
+var dynCall_viiiifiii = Module["dynCall_viiiifiii"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["dynCall_viiiifiii"].apply(null, arguments)
+};
+
+/** @type {function(...*):?} */
+var dynCall_vifff = Module["dynCall_vifff"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["dynCall_vifff"].apply(null, arguments)
+};
+
+/** @type {function(...*):?} */
 var dynCall_viiiii = Module["dynCall_viiiii"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
@@ -8866,10 +9023,10 @@ var dynCall_vidd = Module["dynCall_vidd"] = function() {
 };
 
 /** @type {function(...*):?} */
-var dynCall_viijii = Module["dynCall_viijii"] = function() {
+var dynCall_viiiiii = Module["dynCall_viiiiii"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
-  return Module["asm"]["dynCall_viijii"].apply(null, arguments)
+  return Module["asm"]["dynCall_viiiiii"].apply(null, arguments)
 };
 
 /** @type {function(...*):?} */
@@ -8901,13 +9058,6 @@ var dynCall_viij = Module["dynCall_viij"] = function() {
 };
 
 /** @type {function(...*):?} */
-var dynCall_viiiiii = Module["dynCall_viiiiii"] = function() {
-  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
-  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
-  return Module["asm"]["dynCall_viiiiii"].apply(null, arguments)
-};
-
-/** @type {function(...*):?} */
 var dynCall_jiji = Module["dynCall_jiji"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
@@ -8933,6 +9083,13 @@ var dynCall_iiiiij = Module["dynCall_iiiiij"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
   return Module["asm"]["dynCall_iiiiij"].apply(null, arguments)
+};
+
+/** @type {function(...*):?} */
+var dynCall_iiiiid = Module["dynCall_iiiiid"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["dynCall_iiiiid"].apply(null, arguments)
 };
 
 /** @type {function(...*):?} */
@@ -9038,10 +9195,10 @@ function invoke_iiiiiii(index,a1,a2,a3,a4,a5,a6) {
   }
 }
 
-function invoke_iiiiii(index,a1,a2,a3,a4,a5) {
+function invoke_viiii(index,a1,a2,a3,a4) {
   var sp = stackSave();
   try {
-    return dynCall_iiiiii(index,a1,a2,a3,a4,a5);
+    dynCall_viiii(index,a1,a2,a3,a4);
   } catch(e) {
     stackRestore(sp);
     if (e !== e+0 && e !== 'longjmp') throw e;
@@ -9049,10 +9206,10 @@ function invoke_iiiiii(index,a1,a2,a3,a4,a5) {
   }
 }
 
-function invoke_iiiiid(index,a1,a2,a3,a4,a5) {
+function invoke_iiiiii(index,a1,a2,a3,a4,a5) {
   var sp = stackSave();
   try {
-    return dynCall_iiiiid(index,a1,a2,a3,a4,a5);
+    return dynCall_iiiiii(index,a1,a2,a3,a4,a5);
   } catch(e) {
     stackRestore(sp);
     if (e !== e+0 && e !== 'longjmp') throw e;
@@ -9097,17 +9254,6 @@ function invoke_iiiii(index,a1,a2,a3,a4) {
   var sp = stackSave();
   try {
     return dynCall_iiiii(index,a1,a2,a3,a4);
-  } catch(e) {
-    stackRestore(sp);
-    if (e !== e+0 && e !== 'longjmp') throw e;
-    _setThrew(1, 0);
-  }
-}
-
-function invoke_viiii(index,a1,a2,a3,a4) {
-  var sp = stackSave();
-  try {
-    dynCall_viiii(index,a1,a2,a3,a4);
   } catch(e) {
     stackRestore(sp);
     if (e !== e+0 && e !== 'longjmp') throw e;
@@ -9207,6 +9353,17 @@ function invoke_ji(index,a1) {
   var sp = stackSave();
   try {
     return dynCall_ji(index,a1);
+  } catch(e) {
+    stackRestore(sp);
+    if (e !== e+0 && e !== 'longjmp') throw e;
+    _setThrew(1, 0);
+  }
+}
+
+function invoke_viijii(index,a1,a2,a3,a4,a5,a6) {
+  var sp = stackSave();
+  try {
+    dynCall_viijii(index,a1,a2,a3,a4,a5,a6);
   } catch(e) {
     stackRestore(sp);
     if (e !== e+0 && e !== 'longjmp') throw e;
