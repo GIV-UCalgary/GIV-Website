@@ -44,7 +44,7 @@
       this.totalDependencies = Math.max(this.totalDependencies, left);
       Module.setStatus(left ? 'Preparing... (' + (this.totalDependencies-left) + '/' + this.totalDependencies + ')' : 'All downloads complete.');
     },
-    locateFile: function(base) {  return '/dggs/coronavis/' + base + "?v=3"; }
+    locateFile: function(base) {  return '/dggs/coronavis/' + base + "?v=4"; }
   };
   Module.setStatus('Downloading...');
   window.onerror = function(event) {
@@ -58,5 +58,5 @@
 //TODO: detect webgl2 support
 //TODO: display temp loading screen in the canvas
 </script>
-<script async type="text/javascript" src="/dggs/coronavis/2weekdemo.js?v=3"></script>
+<script async type="text/javascript" src="/dggs/coronavis/2weekdemo.js?v=4"></script>
 <span><input type="button" value="Fullscreen" onclick="Module.requestFullscreen(false, true)">
