@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "Professor\n\nTeam Leader"
+role: "Professor"
 
 # Organizations/Affiliations
 organizations:
@@ -74,7 +74,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Head Researcher
-- Head and Postdoctoral Researchers
+- Team Leader
 ---
 [Dr. Faramarz Samavati](https://pages.cpsc.ucalgary.ca/~samavati/)  is leading Graphics, Interaction and Visualization (GIV) research group.  He is a full professor of Computer Science whose primary research area is Computer Graphics, Geometric Modeling, Visualization, Digital Earth and Medical Imaging. 

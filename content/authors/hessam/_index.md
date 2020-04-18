@@ -70,6 +70,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Ph.D. Students
+- Ph.D. Students and Postdoctoral Researchers
 ---
 
 Hessam is an architect and a PhD candidate in Computational Media Design (CMD). His research interests include digital fabrication, data physicalization and data spatialization, data-centric design approaches, responsive architecture, and dynamic structures. Hessam has an MSc in architecture from the Iran University of Science and Technology.

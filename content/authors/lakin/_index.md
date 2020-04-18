@@ -70,6 +70,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Ph.D. Students
+- Ph.D. Students and Postdoctoral Researchers
 ---
 
 Lakin is a PhD student interested in geometric modeling and optimization.

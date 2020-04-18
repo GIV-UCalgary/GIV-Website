@@ -70,7 +70,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - Postdoctoral Researchers
-- Head and Postdoctoral Researchers
+- Ph.D. Students and Postdoctoral Researchers
 ---
 
 Katayoon is a Postdoctoral Scholar interested in information visualization, human computer interactions, and aesthetic visualizations.
