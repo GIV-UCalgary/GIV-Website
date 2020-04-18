@@ -1,5 +1,5 @@
 ---
-title: Corona Visualization
+title: GIV Corona Visualization
 summary: A 3D model used to visualize Corona virus spread 
 tags:
 - Corona visrus

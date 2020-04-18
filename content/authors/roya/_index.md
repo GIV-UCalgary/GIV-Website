@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Postdoctoral Researcher\n\nJanuary 2019 - Present"
+role: "Postdoctoral Researcher\n\nJanuary 2019 - December 2019"
 
 # Organizations/Affiliations
 organizations:
