@@ -7,7 +7,7 @@ tags:
 - Digital Earth
 - DGGS
 
-date: "2020-03-15T00:00:00Z"
+# date: "2020-03-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -38,6 +38,7 @@ slides: example
 **Scroll:** zoom in/out\
 **Ctrl + Left click:** close the clicked chart\
 **Shift + left click:** add a region to the most recently created window\
+**Escape:** Exit Maximize mode
 You can move windows and resize them by dragging.
 
 Last updated: April 23, 2020

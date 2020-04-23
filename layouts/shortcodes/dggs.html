@@ -57,6 +57,26 @@
 //TODO: Provide a full screen button
 //TODO: detect webgl2 support
 //TODO: display temp loading screen in the canvas
+  function fullscreen() {
+      var window = document.getElementsByClassName("article-container");
+      //console.log(window);
+      //window[0].style.maxWidth = "1500px";
+
+      window[0].style.maxWidth = "100%";
+      window[1].style.maxWidth = "100%";
+      var canvas = document.getElementById('dggs');
+      canvas.style.width = "100%";
+  }
+
+  document.addEventListener('keydown', function(event) {
+    const key = event.key; // Or const {key} = event; in ES6+
+    if (key === "Escape") {
+      var window = document.getElementsByClassName("article-container");
+      window[0].style.maxWidth = "1100px";
+      window[1].style.maxWidth = "1100px";
+    }
+  });
 </script>
 <script async type="text/javascript" src="/dggs/coronavis/2weekdemo.js?v=4"></script>
-<span><input type="button" value="Fullscreen" onclick="Module.requestFullscreen(false, true)">
+<!--<span><input type="button" value="Fullscreen" onclick="Module.requestFullscreen(false, true)">-->
+<span><input type="button" value="Maximize Screen" onclick="fullscreen()"></span>
