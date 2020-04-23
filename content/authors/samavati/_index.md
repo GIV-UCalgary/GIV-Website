@@ -6,6 +6,8 @@ name: Faramarz F. Samavati
 authors:
 - samavati
 
+show_articles: false
+
 # Is this the primary user of the site?
 superuser: true
 
