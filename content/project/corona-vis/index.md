@@ -31,3 +31,13 @@ slides: example
 ---
 
 {{< dggs >}}
+
+\
+**Left mouse button drag:** rotate the globe\
+**Left mouse button click:** select region\
+**Scroll:** zoom in/out\
+**Ctrl + Left click:** close the clicked chart\
+**Shift + left click:** add a region to the most recently created window\
+You can move windows and resize them by dragging.
+
+Last updated: April 23, 2020
