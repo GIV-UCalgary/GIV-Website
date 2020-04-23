@@ -201,7 +201,7 @@ Module['FS_createPath']('/shaders', 'covid', true, true);
     }
   
    }
-   loadPackage({"files": [{"filename": "/web-data/sandbox.ini", "start": 0, "end": 56, "audio": 0}, {"filename": "/web-data/covid/binary/covid-data.cereal", "start": 56, "end": 502362, "audio": 0}, {"filename": "/web-data/countries/binary/cellToRegion.cereal", "start": 502362, "end": 725874, "audio": 0}, {"filename": "/web-data/fonts/RobotoMono-Regular.ttf", "start": 725874, "end": 834790, "audio": 0}, {"filename": "/web-data/fonts/OpenSans-ExtraBold.ttf", "start": 834790, "end": 936866, "audio": 0}, {"filename": "/web-data/fonts/Lato-Regular.ttf", "start": 936866, "end": 1057062, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posy.jpg", "start": 1057062, "end": 1251805, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negy.jpg", "start": 1251805, "end": 1311807, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posx.jpg", "start": 1311807, "end": 1432683, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posz.jpg", "start": 1432683, "end": 1519957, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negx.jpg", "start": 1519957, "end": 1595453, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negz.jpg", "start": 1595453, "end": 1655214, "audio": 0}, {"filename": "/web-data/boundaries/countries.geojson", "start": 1655214, "end": 2232515, "audio": 0}, {"filename": "/shaders/instancededge.vert", "start": 2232515, "end": 2233983, "audio": 0}, {"filename": "/shaders/instancededge.geom", "start": 2233983, "end": 2234650, "audio": 0}, {"filename": "/shaders/history.frag", "start": 2234650, "end": 2236390, "audio": 0}, {"filename": "/shaders/textured.frag", "start": 2236390, "end": 2238047, "audio": 0}, {"filename": "/shaders/edge.frag", "start": 2238047, "end": 2240686, "audio": 0}, {"filename": "/shaders/edge.geom", "start": 2240686, "end": 2241845, "audio": 0}, {"filename": "/shaders/lines.vert", "start": 2241845, "end": 2242539, "audio": 0}, {"filename": "/shaders/textured.vert", "start": 2242539, "end": 2243567, "audio": 0}, {"filename": "/shaders/lines.frag", "start": 2243567, "end": 2243727, "audio": 0}, {"filename": "/shaders/edge.vert", "start": 2243727, "end": 2245250, "audio": 0}, {"filename": "/shaders/history.vert", "start": 2245250, "end": 2246278, "audio": 0}, {"filename": "/shaders/covid/text.frag", "start": 2246278, "end": 2246482, "audio": 0}, {"filename": "/shaders/covid/line.vert", "start": 2246482, "end": 2246645, "audio": 0}, {"filename": "/shaders/covid/light.frag", "start": 2246645, "end": 2246749, "audio": 0}, {"filename": "/shaders/covid/mesh.vert", "start": 2246749, "end": 2247066, "audio": 0}, {"filename": "/shaders/covid/light.vert", "start": 2247066, "end": 2247248, "audio": 0}, {"filename": "/shaders/covid/text.vert", "start": 2247248, "end": 2248006, "audio": 0}, {"filename": "/shaders/covid/line.frag", "start": 2248006, "end": 2248108, "audio": 0}, {"filename": "/shaders/covid/texturemesh.vert", "start": 2248108, "end": 2248490, "audio": 0}, {"filename": "/shaders/covid/texturemesh.frag", "start": 2248490, "end": 2249014, "audio": 0}, {"filename": "/shaders/covid/mesh.frag", "start": 2249014, "end": 2249379, "audio": 0}], "remote_package_size": 2249379, "package_uuid": "4509a157-a7c9-4e2d-a64c-6ad38735db9d"});
+   loadPackage({"files": [{"filename": "/web-data/sandbox.ini", "start": 0, "end": 56, "audio": 0}, {"filename": "/web-data/covid/binary/covid-data.cereal", "start": 56, "end": 502362, "audio": 0}, {"filename": "/web-data/countries/binary/cellToRegion.cereal", "start": 502362, "end": 725874, "audio": 0}, {"filename": "/web-data/fonts/RobotoMono-Regular.ttf", "start": 725874, "end": 834790, "audio": 0}, {"filename": "/web-data/fonts/OpenSans-ExtraBold.ttf", "start": 834790, "end": 936866, "audio": 0}, {"filename": "/web-data/fonts/Lato-Regular.ttf", "start": 936866, "end": 1057062, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posy.jpg", "start": 1057062, "end": 1251805, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negy.jpg", "start": 1251805, "end": 1311807, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posx.jpg", "start": 1311807, "end": 1432683, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posz.jpg", "start": 1432683, "end": 1519957, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negx.jpg", "start": 1519957, "end": 1595453, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negz.jpg", "start": 1595453, "end": 1655214, "audio": 0}, {"filename": "/web-data/boundaries/countries.geojson", "start": 1655214, "end": 2232515, "audio": 0}, {"filename": "/shaders/instancededge.vert", "start": 2232515, "end": 2233983, "audio": 0}, {"filename": "/shaders/instancededge.geom", "start": 2233983, "end": 2234650, "audio": 0}, {"filename": "/shaders/history.frag", "start": 2234650, "end": 2236390, "audio": 0}, {"filename": "/shaders/textured.frag", "start": 2236390, "end": 2238047, "audio": 0}, {"filename": "/shaders/edge.frag", "start": 2238047, "end": 2240686, "audio": 0}, {"filename": "/shaders/edge.geom", "start": 2240686, "end": 2241845, "audio": 0}, {"filename": "/shaders/lines.vert", "start": 2241845, "end": 2242539, "audio": 0}, {"filename": "/shaders/textured.vert", "start": 2242539, "end": 2243567, "audio": 0}, {"filename": "/shaders/lines.frag", "start": 2243567, "end": 2243727, "audio": 0}, {"filename": "/shaders/edge.vert", "start": 2243727, "end": 2245250, "audio": 0}, {"filename": "/shaders/history.vert", "start": 2245250, "end": 2246278, "audio": 0}, {"filename": "/shaders/covid/text.frag", "start": 2246278, "end": 2246482, "audio": 0}, {"filename": "/shaders/covid/line.vert", "start": 2246482, "end": 2246645, "audio": 0}, {"filename": "/shaders/covid/light.frag", "start": 2246645, "end": 2246749, "audio": 0}, {"filename": "/shaders/covid/mesh.vert", "start": 2246749, "end": 2247066, "audio": 0}, {"filename": "/shaders/covid/light.vert", "start": 2247066, "end": 2247248, "audio": 0}, {"filename": "/shaders/covid/text.vert", "start": 2247248, "end": 2248006, "audio": 0}, {"filename": "/shaders/covid/line.frag", "start": 2248006, "end": 2248108, "audio": 0}, {"filename": "/shaders/covid/texturemesh.vert", "start": 2248108, "end": 2248490, "audio": 0}, {"filename": "/shaders/covid/texturemesh.frag", "start": 2248490, "end": 2249014, "audio": 0}, {"filename": "/shaders/covid/mesh.frag", "start": 2249014, "end": 2249379, "audio": 0}], "remote_package_size": 2249379, "package_uuid": "96da5cc6-1101-4177-9843-fa015316a8da"});
   
   })();
   
@@ -1543,11 +1543,11 @@ function updateGlobalBufferAndViews(buf) {
 }
 
 var STATIC_BASE = 1024,
-    STACK_BASE = 5353728,
+    STACK_BASE = 5353616,
     STACKTOP = STACK_BASE,
-    STACK_MAX = 110848,
-    DYNAMIC_BASE = 5353728,
-    DYNAMICTOP_PTR = 110672;
+    STACK_MAX = 110736,
+    DYNAMIC_BASE = 5353616,
+    DYNAMICTOP_PTR = 110560;
 
 assert(STACK_BASE % 16 === 0, 'stack must start aligned');
 assert(DYNAMIC_BASE % 16 === 0, 'heap must start aligned');
@@ -2081,7 +2081,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
 
 
 
-// STATICTOP = STATIC_BASE + 109824;
+// STATICTOP = STATIC_BASE + 109712;
 /* global initializers */  __ATINIT__.push({ func: function() { ___wasm_call_ctors() } });
 
 
@@ -2239,7 +2239,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
   
       var pointer = ___cxa_is_pointer_type(throwntype);
       // can_catch receives a **, add indirection
-      var buffer = 110832;
+      var buffer = 110720;
       SAFE_HEAP_STORE(((buffer)|0), ((thrown)|0), 4);
       thrown = buffer;
       // The different catch blocks are denoted by different types.
@@ -2276,7 +2276,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
   
       var pointer = ___cxa_is_pointer_type(throwntype);
       // can_catch receives a **, add indirection
-      var buffer = 110832;
+      var buffer = 110720;
       SAFE_HEAP_STORE(((buffer)|0), ((thrown)|0), 4);
       thrown = buffer;
       // The different catch blocks are denoted by different types.
@@ -5076,7 +5076,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
     }
 
   function _emscripten_get_sbrk_ptr() {
-      return 110672;
+      return 110560;
     }
 
   function _emscripten_memcpy_big(dest, src, num) {
@@ -8145,7 +8145,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
     }
 
   
-  var ___tm_timezone=(stringToUTF8("GMT", 110736, 4), 110736);function _gmtime_r(time, tmPtr) {
+  var ___tm_timezone=(stringToUTF8("GMT", 110624, 4), 110624);function _gmtime_r(time, tmPtr) {
       var date = new Date(((SAFE_HEAP_LOAD(((time)|0), 4, 0))|0)*1000);
       SAFE_HEAP_STORE(((tmPtr)|0), ((date.getUTCSeconds())|0), 4);
       SAFE_HEAP_STORE((((tmPtr)+(4))|0), ((date.getUTCMinutes())|0), 4);
