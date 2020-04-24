@@ -2,12 +2,12 @@
 title: GIV Corona Visualization
 summary: A 3D model used to visualize Corona virus spread 
 tags:
-- Corona visrus
+- Corona virus
 - Computer Graphics
 - Digital Earth
 - DGGS
 
-# date: "2020-03-15T00:00:00Z"
+date: "2020-03-15T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
