@@ -33,13 +33,13 @@ slides: example
 {{< dggs >}}
 
 \
-**Left mouse button drag:** rotate the globe\
-**Left mouse button click:** select region\
-**Scroll:** zoom in/out\
-**Ctrl + Left click:** close the clicked chart\
-**Shift + left click:** add a region to the most recently created window\
-**Alt + left click:** Select canadian provinces\
+**Left mouse button drag:** Rotate the globe\
+**Left mouse button click:** Select region\
+**Scroll:** Zoom in/out\
+**Ctrl + Left click:** Close the clicked chart\
+**Shift + Left click:** Add a region to the most recently created window\
+**Alt + Left click:** Select Canadian provinces\
 **Escape:** Exit Maximize mode\
 You can move windows and resize them by dragging.
 
-Last updated: April 23, 2020
+Last updated: April 25, 2020
