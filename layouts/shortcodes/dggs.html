@@ -58,22 +58,34 @@
 //TODO: detect webgl2 support
 //TODO: display temp loading screen in the canvas
   function fullscreen() {
-      var window = document.getElementsByClassName("article-container");
-      //console.log(window);
-      //window[0].style.maxWidth = "1500px";
-
-      window[0].style.maxWidth = "100%";
-      window[1].style.maxWidth = "100%";
+      var container = document.getElementsByClassName("article-container");
       var canvas = document.getElementById('dggs');
-      canvas.style.width = "100%";
+
+      var w = canvas.width;
+      var h = canvas.height;
+      var width = window.innerWidth - 20;
+
+      container[0].style.maxWidth = "100%";
+      container[1].style.maxWidth = "100%";
+      width = width - 40;
+      var height = width / (w/h);
+      // Calling this Module.setCanvasSize is the right way to resize the canvas
+      Module.setCanvasSize(width, height)
   }
 
   document.addEventListener('keydown', function(event) {
     const key = event.key; // Or const {key} = event; in ES6+
     if (key === "Escape") {
-      var window = document.getElementsByClassName("article-container");
-      window[0].style.maxWidth = "1100px";
-      window[1].style.maxWidth = "1100px";
+      var container = document.getElementsByClassName("article-container");
+      var canvas = document.getElementById('dggs');
+      var w = canvas.width;
+      var h = canvas.height;
+      container[0].style.maxWidth = "1100px";
+      container[1].style.maxWidth = "1100px";
+      var width = 1060;
+      var height = width / (w/h);
+      // Calling this Module.setCanvasSize is the right way to resize the canvas
+      Module.setCanvasSize(width, height)
     }
   });
 </script>
