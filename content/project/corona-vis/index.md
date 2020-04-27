@@ -9,6 +9,10 @@ tags:
 
 date: "2020-03-15T00:00:00Z"
 
+# When there is a subtitle defined, the date is not shown
+subtitle: "Beta version"
+
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
