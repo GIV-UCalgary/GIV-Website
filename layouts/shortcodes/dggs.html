@@ -44,7 +44,7 @@
       this.totalDependencies = Math.max(this.totalDependencies, left);
       Module.setStatus(left ? 'Preparing... (' + (this.totalDependencies-left) + '/' + this.totalDependencies + ')' : 'All downloads complete.');
     },
-    locateFile: function(base) {  return '/dggs/coronavis/' + base + "?v=7"; }
+    locateFile: function(base) {  return '/dggs/coronavis/' + base + "?v=8"; }
   };
   Module.setStatus('Downloading...');
   window.onerror = function(event) {
@@ -90,6 +90,6 @@
   });
 </script>
 
-<script async type="text/javascript" src="/dggs/coronavis/2weekdemo.js?v=7"></script>
+<script async type="text/javascript" src="/dggs/coronavis/2weekdemo.js?v=8"></script>
 <!--<span><input type="button" value="Fullscreen" onclick="Module.requestFullscreen(false, true)">-->
 <span><input type="button" value="Maximize Screen" onclick="fullscreen()"></span>
