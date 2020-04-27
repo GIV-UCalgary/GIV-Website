@@ -201,7 +201,7 @@ Module['FS_createPath']('/shaders', 'covid', true, true);
     }
   
    }
-   loadPackage({"files": [{"filename": "/web-data/sandbox.ini", "start": 0, "end": 56, "audio": 0}, {"filename": "/web-data/covid/binary/covid-data.cereal", "start": 56, "end": 502362, "audio": 0}, {"filename": "/web-data/countries/binary/cellToProvince.cereal", "start": 502362, "end": 580617, "audio": 0}, {"filename": "/web-data/countries/binary/cellToRegion.cereal", "start": 580617, "end": 1166933, "audio": 0}, {"filename": "/web-data/fonts/RobotoMono-Regular.ttf", "start": 1166933, "end": 1275849, "audio": 0}, {"filename": "/web-data/fonts/OpenSans-ExtraBold.ttf", "start": 1275849, "end": 1377925, "audio": 0}, {"filename": "/web-data/fonts/Lato-Regular.ttf", "start": 1377925, "end": 1498121, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posy.jpg", "start": 1498121, "end": 1692864, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negy.jpg", "start": 1692864, "end": 1752866, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posx.jpg", "start": 1752866, "end": 1873742, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posz.jpg", "start": 1873742, "end": 1961016, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negx.jpg", "start": 1961016, "end": 2036512, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negz.jpg", "start": 2036512, "end": 2096273, "audio": 0}, {"filename": "/web-data/boundaries/countries.geojson", "start": 2096273, "end": 2673574, "audio": 0}, {"filename": "/web-data/boundaries/provinces.geojson", "start": 2673574, "end": 3081313, "audio": 0}, {"filename": "/shaders/instancededge.vert", "start": 3081313, "end": 3082781, "audio": 0}, {"filename": "/shaders/instancededge.geom", "start": 3082781, "end": 3083448, "audio": 0}, {"filename": "/shaders/history.frag", "start": 3083448, "end": 3085188, "audio": 0}, {"filename": "/shaders/textured.frag", "start": 3085188, "end": 3086845, "audio": 0}, {"filename": "/shaders/edge.frag", "start": 3086845, "end": 3089484, "audio": 0}, {"filename": "/shaders/edge.geom", "start": 3089484, "end": 3090643, "audio": 0}, {"filename": "/shaders/lines.vert", "start": 3090643, "end": 3091337, "audio": 0}, {"filename": "/shaders/textured.vert", "start": 3091337, "end": 3092365, "audio": 0}, {"filename": "/shaders/lines.frag", "start": 3092365, "end": 3092525, "audio": 0}, {"filename": "/shaders/edge.vert", "start": 3092525, "end": 3094048, "audio": 0}, {"filename": "/shaders/history.vert", "start": 3094048, "end": 3095076, "audio": 0}, {"filename": "/shaders/covid/text.frag", "start": 3095076, "end": 3095280, "audio": 0}, {"filename": "/shaders/covid/line.vert", "start": 3095280, "end": 3095443, "audio": 0}, {"filename": "/shaders/covid/light.frag", "start": 3095443, "end": 3095547, "audio": 0}, {"filename": "/shaders/covid/mesh.vert", "start": 3095547, "end": 3095864, "audio": 0}, {"filename": "/shaders/covid/light.vert", "start": 3095864, "end": 3096046, "audio": 0}, {"filename": "/shaders/covid/text.vert", "start": 3096046, "end": 3096804, "audio": 0}, {"filename": "/shaders/covid/line.frag", "start": 3096804, "end": 3096906, "audio": 0}, {"filename": "/shaders/covid/texturemesh.vert", "start": 3096906, "end": 3097288, "audio": 0}, {"filename": "/shaders/covid/texturemesh.frag", "start": 3097288, "end": 3097812, "audio": 0}, {"filename": "/shaders/covid/mesh.frag", "start": 3097812, "end": 3098177, "audio": 0}], "remote_package_size": 3098177, "package_uuid": "2ebc3dc1-644a-4835-b65a-c3c3a28897c2"});
+   loadPackage({"files": [{"filename": "/web-data/sandbox.ini", "start": 0, "end": 56, "audio": 0}, {"filename": "/web-data/covid/binary/covid-data.cereal", "start": 56, "end": 502362, "audio": 0}, {"filename": "/web-data/countries/binary/cellToProvince.cereal", "start": 502362, "end": 580617, "audio": 0}, {"filename": "/web-data/countries/binary/cellToRegion.cereal", "start": 580617, "end": 1166933, "audio": 0}, {"filename": "/web-data/fonts/RobotoMono-Regular.ttf", "start": 1166933, "end": 1275849, "audio": 0}, {"filename": "/web-data/fonts/OpenSans-ExtraBold.ttf", "start": 1275849, "end": 1377925, "audio": 0}, {"filename": "/web-data/fonts/Lato-Regular.ttf", "start": 1377925, "end": 1498121, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posy.jpg", "start": 1498121, "end": 1692864, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negy.jpg", "start": 1692864, "end": 1752866, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posx.jpg", "start": 1752866, "end": 1873742, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/posz.jpg", "start": 1873742, "end": 1961016, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negx.jpg", "start": 1961016, "end": 2036512, "audio": 0}, {"filename": "/web-data/earth-textures/two-color/negz.jpg", "start": 2036512, "end": 2096273, "audio": 0}, {"filename": "/web-data/boundaries/countries.geojson", "start": 2096273, "end": 2673574, "audio": 0}, {"filename": "/web-data/boundaries/provinces.geojson", "start": 2673574, "end": 3081313, "audio": 0}, {"filename": "/shaders/instancededge.vert", "start": 3081313, "end": 3082781, "audio": 0}, {"filename": "/shaders/instancededge.geom", "start": 3082781, "end": 3083448, "audio": 0}, {"filename": "/shaders/history.frag", "start": 3083448, "end": 3085188, "audio": 0}, {"filename": "/shaders/textured.frag", "start": 3085188, "end": 3086845, "audio": 0}, {"filename": "/shaders/edge.frag", "start": 3086845, "end": 3089484, "audio": 0}, {"filename": "/shaders/edge.geom", "start": 3089484, "end": 3090643, "audio": 0}, {"filename": "/shaders/lines.vert", "start": 3090643, "end": 3091337, "audio": 0}, {"filename": "/shaders/textured.vert", "start": 3091337, "end": 3092365, "audio": 0}, {"filename": "/shaders/lines.frag", "start": 3092365, "end": 3092525, "audio": 0}, {"filename": "/shaders/edge.vert", "start": 3092525, "end": 3094048, "audio": 0}, {"filename": "/shaders/history.vert", "start": 3094048, "end": 3095076, "audio": 0}, {"filename": "/shaders/covid/text.frag", "start": 3095076, "end": 3095280, "audio": 0}, {"filename": "/shaders/covid/line.vert", "start": 3095280, "end": 3095443, "audio": 0}, {"filename": "/shaders/covid/light.frag", "start": 3095443, "end": 3095547, "audio": 0}, {"filename": "/shaders/covid/mesh.vert", "start": 3095547, "end": 3095864, "audio": 0}, {"filename": "/shaders/covid/light.vert", "start": 3095864, "end": 3096046, "audio": 0}, {"filename": "/shaders/covid/text.vert", "start": 3096046, "end": 3096804, "audio": 0}, {"filename": "/shaders/covid/line.frag", "start": 3096804, "end": 3096906, "audio": 0}, {"filename": "/shaders/covid/texturemesh.vert", "start": 3096906, "end": 3097288, "audio": 0}, {"filename": "/shaders/covid/texturemesh.frag", "start": 3097288, "end": 3097812, "audio": 0}, {"filename": "/shaders/covid/mesh.frag", "start": 3097812, "end": 3098177, "audio": 0}], "remote_package_size": 3098177, "package_uuid": "774131b4-220e-4a97-b3a4-71cb8aa7c714"});
   
   })();
   
@@ -934,8 +934,8 @@ var wasmMemory;
 // In the wasm backend, we polyfill the WebAssembly object,
 // so this creates a (non-native-wasm) table for us.
 var wasmTable = new WebAssembly.Table({
-  'initial': 1010,
-  'maximum': 1010 + 0,
+  'initial': 1015,
+  'maximum': 1015 + 0,
   'element': 'anyfunc'
 });
 
@@ -1543,11 +1543,11 @@ function updateGlobalBufferAndViews(buf) {
 }
 
 var STATIC_BASE = 1024,
-    STACK_BASE = 5354800,
+    STACK_BASE = 5355568,
     STACKTOP = STACK_BASE,
-    STACK_MAX = 111920,
-    DYNAMIC_BASE = 5354800,
-    DYNAMICTOP_PTR = 111744;
+    STACK_MAX = 112688,
+    DYNAMIC_BASE = 5355568,
+    DYNAMICTOP_PTR = 112512;
 
 assert(STACK_BASE % 16 === 0, 'stack must start aligned');
 assert(DYNAMIC_BASE % 16 === 0, 'heap must start aligned');
@@ -2081,7 +2081,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
 
 
 
-// STATICTOP = STATIC_BASE + 110896;
+// STATICTOP = STATIC_BASE + 111664;
 /* global initializers */  __ATINIT__.push({ func: function() { ___wasm_call_ctors() } });
 
 
@@ -2239,7 +2239,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
   
       var pointer = ___cxa_is_pointer_type(throwntype);
       // can_catch receives a **, add indirection
-      var buffer = 111904;
+      var buffer = 112672;
       SAFE_HEAP_STORE(((buffer)|0), ((thrown)|0), 4);
       thrown = buffer;
       // The different catch blocks are denoted by different types.
@@ -2276,7 +2276,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
   
       var pointer = ___cxa_is_pointer_type(throwntype);
       // can_catch receives a **, add indirection
-      var buffer = 111904;
+      var buffer = 112672;
       SAFE_HEAP_STORE(((buffer)|0), ((thrown)|0), 4);
       thrown = buffer;
       // The different catch blocks are denoted by different types.
@@ -5076,7 +5076,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
     }
 
   function _emscripten_get_sbrk_ptr() {
-      return 111744;
+      return 112512;
     }
 
   function _emscripten_memcpy_big(dest, src, num) {
@@ -5145,6 +5145,15 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
       }
       err('Failed to grow the heap from ' + oldSize + ' bytes to ' + newSize + ' bytes, not enough memory!');
       return false;
+    }
+
+  
+  function __findCanvasEventTarget(target) { return __findEventTarget(target); }function _emscripten_set_canvas_element_size(target, width, height) {
+      var canvas = __findCanvasEventTarget(target);
+      if (!canvas) return -4;
+      canvas.width = width;
+      canvas.height = height;
+      return 0;
     }
 
   
@@ -5932,6 +5941,48 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
       if (simulateInfiniteLoop) {
         throw 'unwind';
       }
+    }
+
+  
+  function __registerUiEventCallback(target, userData, useCapture, callbackfunc, eventTypeId, eventTypeString, targetThread) {
+      if (!JSEvents.uiEvent) JSEvents.uiEvent = _malloc( 36 );
+  
+      target = __findEventTarget(target);
+  
+      var uiEventHandlerFunc = function(ev) {
+        var e = ev || event;
+        if (e.target != target) {
+          // Never take ui events such as scroll via a 'bubbled' route, but always from the direct element that
+          // was targeted. Otherwise e.g. if app logs a message in response to a page scroll, the Emscripten log
+          // message box could cause to scroll, generating a new (bubbled) scroll message, causing a new log print,
+          // causing a new scroll, etc..
+          return;
+        }
+        var uiEvent = JSEvents.uiEvent;
+        var b = document.body; // Take document.body to a variable, Closure compiler does not outline access to it on its own.
+        SAFE_HEAP_STORE(((uiEvent)|0), ((e.detail)|0), 4);
+        SAFE_HEAP_STORE((((uiEvent)+(4))|0), ((b.clientWidth)|0), 4);
+        SAFE_HEAP_STORE((((uiEvent)+(8))|0), ((b.clientHeight)|0), 4);
+        SAFE_HEAP_STORE((((uiEvent)+(12))|0), ((innerWidth)|0), 4);
+        SAFE_HEAP_STORE((((uiEvent)+(16))|0), ((innerHeight)|0), 4);
+        SAFE_HEAP_STORE((((uiEvent)+(20))|0), ((outerWidth)|0), 4);
+        SAFE_HEAP_STORE((((uiEvent)+(24))|0), ((outerHeight)|0), 4);
+        SAFE_HEAP_STORE((((uiEvent)+(28))|0), ((pageXOffset)|0), 4);
+        SAFE_HEAP_STORE((((uiEvent)+(32))|0), ((pageYOffset)|0), 4);
+        if (dynCall_iiii(callbackfunc, eventTypeId, uiEvent, userData)) e.preventDefault();
+      };
+  
+      var eventHandler = {
+        target: target,
+        eventTypeString: eventTypeString,
+        callbackfunc: callbackfunc,
+        handlerFunc: uiEventHandlerFunc,
+        useCapture: useCapture
+      };
+      JSEvents.registerOrRemoveHandler(eventHandler);
+    }function _emscripten_set_resize_callback_on_thread(target, userData, useCapture, callbackfunc, targetThread) {
+      __registerUiEventCallback(target, userData, useCapture, callbackfunc, 10, "resize", targetThread);
+      return 0;
     }
 
   
@@ -8081,6 +8132,14 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
       return GLFW.setCursorPosCallback(winid, cbfun);
     }
 
+  function _glfwSetFramebufferSizeCallback(winid, cbfun) {
+      var win = GLFW.WindowFromId(winid);
+      if (!win) return null;
+      var prevcbfun = win.framebufferSizeFunc;
+      win.framebufferSizeFunc = cbfun;
+      return prevcbfun;
+    }
+
   function _glfwSetInputMode(winid, mode, value) {
       GLFW.setInputMode(winid, mode, value);
     }
@@ -8095,6 +8154,14 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
 
   function _glfwSetScrollCallback(winid, cbfun) {
       return GLFW.setScrollCallback(winid, cbfun);
+    }
+
+  function _glfwSetWindowSize(winid, width, height) {
+      GLFW.setWindowSize(winid, width, height);
+    }
+
+  function _glfwSetWindowSizeCallback(winid, cbfun) {
+      return GLFW.setWindowSizeCallback(winid, cbfun);
     }
 
   function _glfwSetWindowUserPointer(winid, ptr) {
@@ -8145,7 +8212,7 @@ function subWindowSetCursor(cursor){ var cursor = UTF8ToString(cursor); elem = d
     }
 
   
-  var ___tm_timezone=(stringToUTF8("GMT", 111808, 4), 111808);function _gmtime_r(time, tmPtr) {
+  var ___tm_timezone=(stringToUTF8("GMT", 112576, 4), 112576);function _gmtime_r(time, tmPtr) {
       var date = new Date(((SAFE_HEAP_LOAD(((time)|0), 4, 0))|0)*1000);
       SAFE_HEAP_STORE(((tmPtr)|0), ((date.getUTCSeconds())|0), 4);
       SAFE_HEAP_STORE((((tmPtr)+(4))|0), ((date.getUTCMinutes())|0), 4);
@@ -8697,7 +8764,7 @@ function intArrayToString(array) {
 
 
 var asmGlobalArg = {};
-var asmLibraryArg = { "__assert_fail": ___assert_fail, "__cxa_allocate_exception": ___cxa_allocate_exception, "__cxa_atexit": ___cxa_atexit, "__cxa_begin_catch": ___cxa_begin_catch, "__cxa_end_catch": ___cxa_end_catch, "__cxa_find_matching_catch_2": ___cxa_find_matching_catch_2, "__cxa_find_matching_catch_3": ___cxa_find_matching_catch_3, "__cxa_free_exception": ___cxa_free_exception, "__cxa_rethrow": ___cxa_rethrow, "__cxa_throw": ___cxa_throw, "__cxa_uncaught_exceptions": ___cxa_uncaught_exceptions, "__handle_stack_overflow": ___handle_stack_overflow, "__map_file": ___map_file, "__resumeException": ___resumeException, "__syscall195": ___syscall195, "__syscall20": ___syscall20, "__syscall221": ___syscall221, "__syscall5": ___syscall5, "__syscall54": ___syscall54, "__syscall91": ___syscall91, "abort": _abort, "alignfault": alignfault, "clock_gettime": _clock_gettime, "emscripten_get_element_css_size": _emscripten_get_element_css_size, "emscripten_get_sbrk_ptr": _emscripten_get_sbrk_ptr, "emscripten_memcpy_big": _emscripten_memcpy_big, "emscripten_resize_heap": _emscripten_resize_heap, "emscripten_set_main_loop": _emscripten_set_main_loop, "environ_get": _environ_get, "environ_sizes_get": _environ_sizes_get, "exit": _exit, "fd_close": _fd_close, "fd_fdstat_get": _fd_fdstat_get, "fd_read": _fd_read, "fd_seek": _fd_seek, "fd_write": _fd_write, "getTempRet0": _getTempRet0, "glActiveTexture": _glActiveTexture, "glAttachShader": _glAttachShader, "glBindAttribLocation": _glBindAttribLocation, "glBindBuffer": _glBindBuffer, "glBindTexture": _glBindTexture, "glBindVertexArray": _glBindVertexArray, "glBlendEquation": _glBlendEquation, "glBlendEquationSeparate": _glBlendEquationSeparate, "glBlendFunc": _glBlendFunc, "glBlendFuncSeparate": _glBlendFuncSeparate, "glBufferData": _glBufferData, "glClear": _glClear, "glClearColor": _glClearColor, "glColorMask": _glColorMask, "glCompileShader": _glCompileShader, "glCreateProgram": _glCreateProgram, "glCreateShader": _glCreateShader, "glCullFace": _glCullFace, "glDeleteBuffers": _glDeleteBuffers, "glDeleteProgram": _glDeleteProgram, "glDeleteShader": _glDeleteShader, "glDeleteTextures": _glDeleteTextures, "glDeleteVertexArrays": _glDeleteVertexArrays, "glDisable": _glDisable, "glDisableVertexAttribArray": _glDisableVertexAttribArray, "glDrawArrays": _glDrawArrays, "glDrawElements": _glDrawElements, "glEnable": _glEnable, "glEnableVertexAttribArray": _glEnableVertexAttribArray, "glFinish": _glFinish, "glFrontFace": _glFrontFace, "glGenBuffers": _glGenBuffers, "glGenTextures": _glGenTextures, "glGenVertexArrays": _glGenVertexArrays, "glGenerateMipmap": _glGenerateMipmap, "glGetAttribLocation": _glGetAttribLocation, "glGetError": _glGetError, "glGetIntegerv": _glGetIntegerv, "glGetProgramInfoLog": _glGetProgramInfoLog, "glGetProgramiv": _glGetProgramiv, "glGetShaderInfoLog": _glGetShaderInfoLog, "glGetShaderiv": _glGetShaderiv, "glGetUniformLocation": _glGetUniformLocation, "glIsEnabled": _glIsEnabled, "glLinkProgram": _glLinkProgram, "glPixelStorei": _glPixelStorei, "glScissor": _glScissor, "glShaderSource": _glShaderSource, "glStencilFunc": _glStencilFunc, "glStencilMask": _glStencilMask, "glStencilOp": _glStencilOp, "glStencilOpSeparate": _glStencilOpSeparate, "glTexImage2D": _glTexImage2D, "glTexParameteri": _glTexParameteri, "glTexSubImage2D": _glTexSubImage2D, "glUniform1f": _glUniform1f, "glUniform1i": _glUniform1i, "glUniform2fv": _glUniform2fv, "glUniform3fv": _glUniform3fv, "glUniform4fv": _glUniform4fv, "glUniformMatrix4fv": _glUniformMatrix4fv, "glUseProgram": _glUseProgram, "glVertexAttribPointer": _glVertexAttribPointer, "glViewport": _glViewport, "glfwCreateStandardCursor": _glfwCreateStandardCursor, "glfwCreateWindow": _glfwCreateWindow, "glfwDestroyWindow": _glfwDestroyWindow, "glfwGetClipboardString": _glfwGetClipboardString, "glfwGetCursorPos": _glfwGetCursorPos, "glfwGetFramebufferSize": _glfwGetFramebufferSize, "glfwGetInputMode": _glfwGetInputMode, "glfwGetJoystickAxes": _glfwGetJoystickAxes, "glfwGetJoystickButtons": _glfwGetJoystickButtons, "glfwGetMouseButton": _glfwGetMouseButton, "glfwGetTime": _glfwGetTime, "glfwGetWindowSize": _glfwGetWindowSize, "glfwGetWindowUserPointer": _glfwGetWindowUserPointer, "glfwInit": _glfwInit, "glfwMakeContextCurrent": _glfwMakeContextCurrent, "glfwPollEvents": _glfwPollEvents, "glfwSetCharCallback": _glfwSetCharCallback, "glfwSetClipboardString": _glfwSetClipboardString, "glfwSetCursor": _glfwSetCursor, "glfwSetCursorPos": _glfwSetCursorPos, "glfwSetCursorPosCallback": _glfwSetCursorPosCallback, "glfwSetInputMode": _glfwSetInputMode, "glfwSetKeyCallback": _glfwSetKeyCallback, "glfwSetMouseButtonCallback": _glfwSetMouseButtonCallback, "glfwSetScrollCallback": _glfwSetScrollCallback, "glfwSetWindowUserPointer": _glfwSetWindowUserPointer, "glfwSwapBuffers": _glfwSwapBuffers, "glfwSwapInterval": _glfwSwapInterval, "glfwTerminate": _glfwTerminate, "glfwWindowHint": _glfwWindowHint, "gmtime_r": _gmtime_r, "invoke_diii": invoke_diii, "invoke_fiii": invoke_fiii, "invoke_i": invoke_i, "invoke_ii": invoke_ii, "invoke_iii": invoke_iii, "invoke_iiii": invoke_iiii, "invoke_iiiii": invoke_iiiii, "invoke_iiiiid": invoke_iiiiid, "invoke_iiiiii": invoke_iiiiii, "invoke_iiiiiii": invoke_iiiiiii, "invoke_iiiiiiii": invoke_iiiiiiii, "invoke_iiiiiiiiiii": invoke_iiiiiiiiiii, "invoke_iiiiiiiiiiii": invoke_iiiiiiiiiiii, "invoke_iiiiiiiiiiiii": invoke_iiiiiiiiiiiii, "invoke_ji": invoke_ji, "invoke_jii": invoke_jii, "invoke_jiiii": invoke_jiiii, "invoke_v": invoke_v, "invoke_vi": invoke_vi, "invoke_vii": invoke_vii, "invoke_viii": invoke_viii, "invoke_viiii": invoke_viiii, "invoke_viiiiiii": invoke_viiiiiii, "invoke_viiiiiiiiii": invoke_viiiiiiiiii, "invoke_viiiiiiiiiiiiiii": invoke_viiiiiiiiiiiiiii, "invoke_viijii": invoke_viijii, "localtime_r": _localtime_r, "memory": wasmMemory, "pthread_join": _pthread_join, "pthread_mutexattr_destroy": _pthread_mutexattr_destroy, "pthread_mutexattr_init": _pthread_mutexattr_init, "pthread_mutexattr_settype": _pthread_mutexattr_settype, "segfault": segfault, "setTempRet0": _setTempRet0, "strftime": _strftime, "strftime_l": _strftime_l, "subWindowSetCursor": subWindowSetCursor, "table": wasmTable, "time": _time };
+var asmLibraryArg = { "__assert_fail": ___assert_fail, "__cxa_allocate_exception": ___cxa_allocate_exception, "__cxa_atexit": ___cxa_atexit, "__cxa_begin_catch": ___cxa_begin_catch, "__cxa_end_catch": ___cxa_end_catch, "__cxa_find_matching_catch_2": ___cxa_find_matching_catch_2, "__cxa_find_matching_catch_3": ___cxa_find_matching_catch_3, "__cxa_free_exception": ___cxa_free_exception, "__cxa_rethrow": ___cxa_rethrow, "__cxa_throw": ___cxa_throw, "__cxa_uncaught_exceptions": ___cxa_uncaught_exceptions, "__handle_stack_overflow": ___handle_stack_overflow, "__map_file": ___map_file, "__resumeException": ___resumeException, "__syscall195": ___syscall195, "__syscall20": ___syscall20, "__syscall221": ___syscall221, "__syscall5": ___syscall5, "__syscall54": ___syscall54, "__syscall91": ___syscall91, "abort": _abort, "alignfault": alignfault, "clock_gettime": _clock_gettime, "emscripten_get_element_css_size": _emscripten_get_element_css_size, "emscripten_get_sbrk_ptr": _emscripten_get_sbrk_ptr, "emscripten_memcpy_big": _emscripten_memcpy_big, "emscripten_resize_heap": _emscripten_resize_heap, "emscripten_set_canvas_element_size": _emscripten_set_canvas_element_size, "emscripten_set_main_loop": _emscripten_set_main_loop, "emscripten_set_resize_callback_on_thread": _emscripten_set_resize_callback_on_thread, "environ_get": _environ_get, "environ_sizes_get": _environ_sizes_get, "exit": _exit, "fd_close": _fd_close, "fd_fdstat_get": _fd_fdstat_get, "fd_read": _fd_read, "fd_seek": _fd_seek, "fd_write": _fd_write, "getTempRet0": _getTempRet0, "glActiveTexture": _glActiveTexture, "glAttachShader": _glAttachShader, "glBindAttribLocation": _glBindAttribLocation, "glBindBuffer": _glBindBuffer, "glBindTexture": _glBindTexture, "glBindVertexArray": _glBindVertexArray, "glBlendEquation": _glBlendEquation, "glBlendEquationSeparate": _glBlendEquationSeparate, "glBlendFunc": _glBlendFunc, "glBlendFuncSeparate": _glBlendFuncSeparate, "glBufferData": _glBufferData, "glClear": _glClear, "glClearColor": _glClearColor, "glColorMask": _glColorMask, "glCompileShader": _glCompileShader, "glCreateProgram": _glCreateProgram, "glCreateShader": _glCreateShader, "glCullFace": _glCullFace, "glDeleteBuffers": _glDeleteBuffers, "glDeleteProgram": _glDeleteProgram, "glDeleteShader": _glDeleteShader, "glDeleteTextures": _glDeleteTextures, "glDeleteVertexArrays": _glDeleteVertexArrays, "glDisable": _glDisable, "glDisableVertexAttribArray": _glDisableVertexAttribArray, "glDrawArrays": _glDrawArrays, "glDrawElements": _glDrawElements, "glEnable": _glEnable, "glEnableVertexAttribArray": _glEnableVertexAttribArray, "glFinish": _glFinish, "glFrontFace": _glFrontFace, "glGenBuffers": _glGenBuffers, "glGenTextures": _glGenTextures, "glGenVertexArrays": _glGenVertexArrays, "glGenerateMipmap": _glGenerateMipmap, "glGetAttribLocation": _glGetAttribLocation, "glGetError": _glGetError, "glGetIntegerv": _glGetIntegerv, "glGetProgramInfoLog": _glGetProgramInfoLog, "glGetProgramiv": _glGetProgramiv, "glGetShaderInfoLog": _glGetShaderInfoLog, "glGetShaderiv": _glGetShaderiv, "glGetUniformLocation": _glGetUniformLocation, "glIsEnabled": _glIsEnabled, "glLinkProgram": _glLinkProgram, "glPixelStorei": _glPixelStorei, "glScissor": _glScissor, "glShaderSource": _glShaderSource, "glStencilFunc": _glStencilFunc, "glStencilMask": _glStencilMask, "glStencilOp": _glStencilOp, "glStencilOpSeparate": _glStencilOpSeparate, "glTexImage2D": _glTexImage2D, "glTexParameteri": _glTexParameteri, "glTexSubImage2D": _glTexSubImage2D, "glUniform1f": _glUniform1f, "glUniform1i": _glUniform1i, "glUniform2fv": _glUniform2fv, "glUniform3fv": _glUniform3fv, "glUniform4fv": _glUniform4fv, "glUniformMatrix4fv": _glUniformMatrix4fv, "glUseProgram": _glUseProgram, "glVertexAttribPointer": _glVertexAttribPointer, "glViewport": _glViewport, "glfwCreateStandardCursor": _glfwCreateStandardCursor, "glfwCreateWindow": _glfwCreateWindow, "glfwDestroyWindow": _glfwDestroyWindow, "glfwGetClipboardString": _glfwGetClipboardString, "glfwGetCursorPos": _glfwGetCursorPos, "glfwGetFramebufferSize": _glfwGetFramebufferSize, "glfwGetInputMode": _glfwGetInputMode, "glfwGetJoystickAxes": _glfwGetJoystickAxes, "glfwGetJoystickButtons": _glfwGetJoystickButtons, "glfwGetMouseButton": _glfwGetMouseButton, "glfwGetTime": _glfwGetTime, "glfwGetWindowSize": _glfwGetWindowSize, "glfwGetWindowUserPointer": _glfwGetWindowUserPointer, "glfwInit": _glfwInit, "glfwMakeContextCurrent": _glfwMakeContextCurrent, "glfwPollEvents": _glfwPollEvents, "glfwSetCharCallback": _glfwSetCharCallback, "glfwSetClipboardString": _glfwSetClipboardString, "glfwSetCursor": _glfwSetCursor, "glfwSetCursorPos": _glfwSetCursorPos, "glfwSetCursorPosCallback": _glfwSetCursorPosCallback, "glfwSetFramebufferSizeCallback": _glfwSetFramebufferSizeCallback, "glfwSetInputMode": _glfwSetInputMode, "glfwSetKeyCallback": _glfwSetKeyCallback, "glfwSetMouseButtonCallback": _glfwSetMouseButtonCallback, "glfwSetScrollCallback": _glfwSetScrollCallback, "glfwSetWindowSize": _glfwSetWindowSize, "glfwSetWindowSizeCallback": _glfwSetWindowSizeCallback, "glfwSetWindowUserPointer": _glfwSetWindowUserPointer, "glfwSwapBuffers": _glfwSwapBuffers, "glfwSwapInterval": _glfwSwapInterval, "glfwTerminate": _glfwTerminate, "glfwWindowHint": _glfwWindowHint, "gmtime_r": _gmtime_r, "invoke_diii": invoke_diii, "invoke_fiii": invoke_fiii, "invoke_i": invoke_i, "invoke_ii": invoke_ii, "invoke_iii": invoke_iii, "invoke_iiii": invoke_iiii, "invoke_iiiii": invoke_iiiii, "invoke_iiiiii": invoke_iiiiii, "invoke_iiiiiii": invoke_iiiiiii, "invoke_iiiiiiii": invoke_iiiiiiii, "invoke_iiiiiiiiiii": invoke_iiiiiiiiiii, "invoke_iiiiiiiiiiii": invoke_iiiiiiiiiiii, "invoke_iiiiiiiiiiiii": invoke_iiiiiiiiiiiii, "invoke_ji": invoke_ji, "invoke_jii": invoke_jii, "invoke_jiiii": invoke_jiiii, "invoke_v": invoke_v, "invoke_vi": invoke_vi, "invoke_vii": invoke_vii, "invoke_viii": invoke_viii, "invoke_viiii": invoke_viiii, "invoke_viiiiiii": invoke_viiiiiii, "invoke_viiiiiiiiii": invoke_viiiiiiiiii, "invoke_viiiiiiiiiiiiiii": invoke_viiiiiiiiiiiiiii, "invoke_viijii": invoke_viijii, "localtime_r": _localtime_r, "memory": wasmMemory, "pthread_join": _pthread_join, "pthread_mutexattr_destroy": _pthread_mutexattr_destroy, "pthread_mutexattr_init": _pthread_mutexattr_init, "pthread_mutexattr_settype": _pthread_mutexattr_settype, "segfault": segfault, "setTempRet0": _setTempRet0, "strftime": _strftime, "strftime_l": _strftime_l, "subWindowSetCursor": subWindowSetCursor, "table": wasmTable, "time": _time };
 var asm = createWasm();
 Module["asm"] = asm;
 /** @type {function(...*):?} */
@@ -8911,13 +8978,6 @@ var dynCall_iiiiiiiiiiiii = Module["dynCall_iiiiiiiiiiiii"] = function() {
 };
 
 /** @type {function(...*):?} */
-var dynCall_iiiiid = Module["dynCall_iiiiid"] = function() {
-  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
-  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
-  return Module["asm"]["dynCall_iiiiid"].apply(null, arguments)
-};
-
-/** @type {function(...*):?} */
 var dynCall_ji = Module["dynCall_ji"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
@@ -9100,6 +9160,13 @@ var dynCall_iiiiij = Module["dynCall_iiiiij"] = function() {
 };
 
 /** @type {function(...*):?} */
+var dynCall_iiiiid = Module["dynCall_iiiiid"] = function() {
+  assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
+  assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
+  return Module["asm"]["dynCall_iiiiid"].apply(null, arguments)
+};
+
+/** @type {function(...*):?} */
 var dynCall_iiiiijj = Module["dynCall_iiiiijj"] = function() {
   assert(runtimeInitialized, 'you need to wait for the runtime to be ready (e.g. wait for main() to be called)');
   assert(!runtimeExited, 'the runtime was exited (use NO_EXIT_RUNTIME to keep it alive after main() exits)');
@@ -9217,17 +9284,6 @@ function invoke_iiiiii(index,a1,a2,a3,a4,a5) {
   var sp = stackSave();
   try {
     return dynCall_iiiiii(index,a1,a2,a3,a4,a5);
-  } catch(e) {
-    stackRestore(sp);
-    if (e !== e+0 && e !== 'longjmp') throw e;
-    _setThrew(1, 0);
-  }
-}
-
-function invoke_iiiiid(index,a1,a2,a3,a4,a5) {
-  var sp = stackSave();
-  try {
-    return dynCall_iiiiid(index,a1,a2,a3,a4,a5);
   } catch(e) {
     stackRestore(sp);
     if (e !== e+0 && e !== 'longjmp') throw e;
