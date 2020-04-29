@@ -46,4 +46,4 @@ slides: example
 **Escape:** Exit Maximize mode\
 You can move windows and resize them by dragging.
 
-Last updated: April 28, 2020
+Last updated: April 29, 2020
