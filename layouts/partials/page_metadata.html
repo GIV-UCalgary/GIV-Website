@@ -13,24 +13,22 @@
   </div>
   {{ end }}
   {{ end }}
+  {{ $show_date := $page.Params.show_date | default true }}
 
   {{ if not (in (slice "talk" "page") $page.Type) }}
+  {{ if $show_date }}
   <span class="article-date">
-    {{ $subtitle := .Params.subtitle | default ""}}
-    {{ $date := $subtitle }}
-
-    {{ if eq $subtitle "" }}
-      {{ $date := $page.Lastmod.Format site.Params.date_format }}
-      {{ if eq $page.Type "publication" }}
-        {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
-      {{ else }}
-        {{ if ne $page.Params.Lastmod $page.Params.Date }}
-            {{ i18n "last_updated" }}
-        {{ end }}
+    {{ $date := $page.Lastmod.Format site.Params.date_format }}
+    {{ if eq $page.Type "publication" }}
+      {{ $date = $page.Date.Format (site.Params.publications.date_format | default "January, 2006") }}
+    {{ else }}
+      {{ if ne $page.Params.Lastmod $page.Params.Date }}
+          {{ i18n "last_updated" }}
       {{ end }}
     {{ end }}
     {{ $date }}
   </span>
+  {{ end }}
   {{ end }}
 
   {{ if and (eq $is_list 1) (eq $page.Type "publication") }}
@@ -71,7 +69,7 @@
   {{ end }}
 
   {{ if $share }}
-    {{ partial "share.html" $page }}
+  {{ partial "share.html" $page }}
   {{ end }}
 
 </div>

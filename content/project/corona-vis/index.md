@@ -1,5 +1,7 @@
 ---
 title: GIV Corona Visualization
+subtitle: "Beta Version"
+
 summary: A 3D model used to visualize Corona virus spread 
 tags:
 - Corona virus
@@ -8,9 +10,7 @@ tags:
 - DGGS
 
 date: "2020-03-15T00:00:00Z"
-
-# When there is a subtitle defined, the date is not shown
-subtitle: "Beta Version"
+show_date: false
 
 
 # Optional external URL for project (replaces project detail page).
