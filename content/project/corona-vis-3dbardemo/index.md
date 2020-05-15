@@ -39,7 +39,7 @@ slides: example
 {{< dggs "3dbardemo.js" >}}
 
 \
-**Please zoom in to Alberta to see more detailed visualization.**
+**Please zoom in to Alberta to see more detailed visualization.**\
 **Left mouse button drag:** Rotate the globe\
 **Ctrl + Left mouse button drag:** Tilt the globe\
 **Scroll:** Zoom in/out\
