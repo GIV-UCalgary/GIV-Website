@@ -1,6 +1,6 @@
 ---
-title: GIV Corona Visualization
-subtitle: "Beta Version"
+title: GIV COVID-19 Visualization
+subtitle: "Beta Version | Charts"
 
 summary: A 3D model used to visualize Corona virus spread 
 tags:
@@ -33,8 +33,9 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
+[Click here](/project/corona-vis/3dbardemo/) to see the 3D Bar visualization.
 
-{{< dggs >}}
+{{< dggs "2weekdemo.js?v=8" >}}
 
 \
 **Left mouse button drag:** Rotate the globe\
@@ -47,3 +48,4 @@ slides: example
 You can move windows and resize them by dragging.
 
 Last updated: May 15, 2020
+
