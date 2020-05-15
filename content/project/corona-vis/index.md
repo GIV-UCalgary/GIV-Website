@@ -33,7 +33,7 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-[Click here](/project/corona-vis/3dbardemo/) to see the 3D Bar visualization.
+[Click here](/project/corona-vis-3dbardemo/) to see the 3D Bar visualization.
 
 {{< dggs "2weekdemo.js?v=8" >}}
 
