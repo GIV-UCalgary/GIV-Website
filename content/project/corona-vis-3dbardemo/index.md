@@ -43,7 +43,7 @@ slides: example
 **Left mouse button drag:** Rotate the globe\
 **Ctrl + Left mouse button drag:** Tilt the globe\
 **Scroll:** Zoom in/out\
-**Escape:** Exit Maximize mode\
+**Escape:** Exit Maximize mode
 
 Last updated: May 17, 2020
 
