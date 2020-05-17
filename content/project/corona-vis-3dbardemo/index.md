@@ -44,7 +44,6 @@ slides: example
 **Ctrl + Left mouse button drag:** Tilt the globe\
 **Scroll:** Zoom in/out\
 **Escape:** Exit Maximize mode\
-You can move windows and resize them by dragging.
 
-Last updated: May 15, 2020
+Last updated: May 17, 2020
 
