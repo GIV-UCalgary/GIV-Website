@@ -1,6 +1,6 @@
 ---
 title: GIV COVID-19 Visualization
-subtitle: "Beta Version | Charts"
+subtitle: "Beta Version"
 
 summary: A 3D model used to visualize Corona virus spread 
 tags:
@@ -12,7 +12,7 @@ tags:
 date: "2020-03-15T00:00:00Z"
 show_date: false
 show_header_image: false
-hide: true
+
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -34,19 +34,13 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-[Click here](/project/corona-vis-3dbardemo/) to see the 3D Bar visualization.
 
-{{< dggs "2weekdemo.js?v=8" >}}
+With my research team, we have developed a digital platform for COVID-19 visualization.\
+This is a globe-based multi-view visualization. In each view, multiple regional datasets can be compared. Currently, it supports daily updates for all countries and Canadian Provinces. For Alberta, we have more refined regional data. 
+Finally, we are in the process of including 3d bars for representing regional COVID data. This web-based platform is based on our recent Digital Earth System created from DT DGGS: [https://www.mdpi.com/2220-9964/9/5/315](https://www.mdpi.com/2220-9964/9/5/315)
 
-\
-**Left mouse button drag:** Rotate the globe\
-**Left mouse button click:** Select region\
-**Scroll:** Zoom in/out\
-**Ctrl + Left click:** Close the clicked chart\
-**Shift + Left click:** Add a region to the most recently created window\
-**Alt + Left click:** Select Canadian provinces\
-**Escape:** Exit Maximize mode\
-You can move windows and resize them by dragging.
+{{< figure src="/img/globe.png" >}}
 
-Last updated: May 20, 2020
+[Please click here to see the live demo.](/project/corona-vis/)
+
 
