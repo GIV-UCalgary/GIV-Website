@@ -41,6 +41,6 @@ Finally, we are in the process of including 3d bars for representing regional CO
 
 {{< figure src="/img/covid.jpg" >}}
 
-[Please click here to see the live demo.](/project/corona-vis/)
+{{< inline-html >}} <div style="text-align: center; margin:20px; font-size: xx-large;"> <a href="/project/corona-vis/" target="_blank" >Please click here to see the live demo.</a></div> {{< inline-html >}}
 
 
