@@ -45,5 +45,5 @@ slides: example
 **Scroll:** Zoom in/out\
 **Escape:** Exit Maximize mode
 
-Last updated: May 29, 2020
+Last updated: June 1, 2020
 
