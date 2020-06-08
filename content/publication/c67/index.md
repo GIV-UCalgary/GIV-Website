@@ -21,7 +21,7 @@ publishDate: "2019-06-17T00:00:00+00:00"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*HYPERSEEING *"
+publication: "*HYPERSEEING*"
 publication_short: ""
 
 abstract: "Data spatialization is a design technique through which data is used to create architectural spaces. It does not necessarily preserve the legibility of the represented data, but rather focuses on the spatial qualities that can be gained from the data. As a consequence, data in such data-driven spaces tend to be represented in abstract forms. By means of a method of spatial representation that has historically been used in art and architecture, we produce a data-spatialized architecture that preserves data legibility. This research aims to introduce a method for the design of a data-driven pavilion that represents data spatially through catoptric (mirror-assisted) anamorphosis. The major contribution lies at the underexplored intersection of data spatialization and perspectival representation, where the input data defines the physicality of the pavilion and simultaneously remains readable. In this work, a set of environmental datasets from North America–including elevation, precipitation, temperature, and population–is used to generate an anamorphic structure. The spatialized datasets can be updated by means of illuminating the components of the pavilion. Based on the result, this design methodology provides an accurate data representation in an anamorphic data-driven public space."
