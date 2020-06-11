@@ -39,6 +39,8 @@ With my research team, we have developed a digital platform for COVID-19 visuali
 
 {{< figure src="/img/covid-1.jpg" lightbox=false link="/project/corona-vis/" target="_blank" >}}
 
+{{< figure src="/img/covid-4.jpg" lightbox=false link="/project/corona-vis-perspective/" target="_blank" >}}
+
 {{< figure src="/img/covid-2.jpg" lightbox=false link="/project/corona-vis-3dbardemo/" target="_blank" >}}
 
 {{< figure src="/img/covid-3.jpg" lightbox=false link="/project/corona-vis-3dbar-animated/" target="_blank" >}}

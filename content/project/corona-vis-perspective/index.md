@@ -1,6 +1,6 @@
 ---
 title: GIV COVID-19 Visualization
-subtitle: "Beta Version | Charts"
+subtitle: "Beta Version | Perspective Charts"
 
 summary: A 3D model used to visualize Corona virus spread 
 tags:
@@ -35,16 +35,15 @@ url_video: ""
 slides: example
 ---
 Use the following links to navigate to other demos:\
-[Perspective Chart Visualization](/project/corona-vis-perspective/) --------- [3D Bar Visualization](/project/corona-vis-3dbardemo/) --------- [Animated 3D Bar Visualization](/project/corona-vis-3dbar-animated/) 
+[Chart Visualization](/project/corona-vis/) --------- [3D Bar Visualization](/project/corona-vis-3dbardemo/) --------- [Animated 3D Bar Visualization](/project/corona-vis-3dbar-animated/) 
 
-{{< dggs "2weekdemo.js?v=8" >}}
+{{< dggs "perspective.js" >}}
 
 \
 **Left mouse button drag:** Rotate the globe\
 **Left mouse button click:** Select region\
 **Scroll:** Zoom in/out\
 **Ctrl + Left click:** Close the clicked chart\
-**Shift + Left click:** Add a region to the most recently created window\
 **(Alt or P) + Left click:** Select Canadian provinces\
 **Escape:** Exit Maximize mode\
 You can move windows and resize them by dragging.

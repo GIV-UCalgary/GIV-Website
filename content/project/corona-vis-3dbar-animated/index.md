@@ -35,7 +35,7 @@ url_video: ""
 slides: example
 ---
 Use the following links to navigate to other demos:\
-[Chart Visualization](/project/corona-vis/) ------- [3D Bar Visualization](/project/corona-vis-3dbardemo/) 
+[Chart Visualization](/project/corona-vis/) --------- [Perspective Chart Visualization](/project/corona-vis-perspective/) --------- [3D Bar Visualization](/project/corona-vis-3dbardemo/) 
 
 {{< dggs "3danimated.js" >}}
 
@@ -50,5 +50,5 @@ Use the following links to navigate to other demos:\
 **Scroll:** Zoom in/out\
 **Escape:** Exit Maximize mode
 
-Last updated: June 10, 2020
+Last updated: June 11, 2020
 
