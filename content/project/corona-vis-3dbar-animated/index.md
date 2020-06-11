@@ -1,6 +1,6 @@
 ---
 title: GIV COVID-19 Visualization
-subtitle: "Beta Version | 3D Bars"
+subtitle: "Beta Version | Animated 3D Bars"
 
 summary: A 3D model used to visualize Corona virus spread 
 tags:
@@ -35,13 +35,16 @@ url_video: ""
 slides: example
 ---
 Use the following links to navigate to other demos:\
-[Chart Visualization](/project/corona-vis/) ------- [Animated 3D Bar Visualization](/project/corona-vis-3dbar-animated/) 
+[Chart Visualization](/project/corona-vis/) ------- [3D Bar Visualization](/project/corona-vis-3dbardemo/) 
 
-{{< dggs "3dbardemo.js" >}}
+{{< dggs "3danimated.js" >}}
 
 \
-**Please zoom in to Alberta to see more detailed visualization.**\
-**L:** Hiding and showing the labels.\
+**W:** Increase the animation speed\
+**S:** Decrease the animation speed\
+**A:** Step the animation backward\
+**D:** Step the animation forward\
+**P:** Pause/Play the animation\
 **Left mouse button drag:** Rotate the globe\
 **Ctrl + Left mouse button drag:** Tilt the globe\
 **Scroll:** Zoom in/out\

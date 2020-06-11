@@ -38,9 +38,10 @@ slides: example
 With my research team, we have developed a digital platform for COVID-19 visualization: [Click here](/project/corona-vis/) or on the following figures.
 
 {{< figure src="/img/covid-1.jpg" lightbox=false link="/project/corona-vis/" target="_blank" >}}
+
 {{< figure src="/img/covid-2.jpg" lightbox=false link="/project/corona-vis-3dbardemo/" target="_blank" >}}
+
+{{< figure src="/img/covid-3.jpg" lightbox=false link="/project/corona-vis-3dbar-animated/" target="_blank" >}}
 
 This is a globe-based multi-view visualization. In each view, multiple regional datasets can be compared. Currently, it supports daily updates for all countries and Canadian Provinces. For Alberta, we have more refined regional data. 
 Finally, we are in the process of including 3d bars for representing regional COVID data. This web-based platform is based on our recent Digital Earth System created from DT DGGS: [https://www.mdpi.com/2220-9964/9/5/315](https://www.mdpi.com/2220-9964/9/5/315)
-
-

@@ -34,7 +34,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: example
 ---
-[Click here](/project/corona-vis-3dbardemo/) to see the 3D Bar visualization.
+Use the following links to navigate to other demos:\
+[3D Bar Visualization](/project/corona-vis-3dbardemo/) ------- [Animated 3D Bar Visualization](/project/corona-vis-3dbar-animated/) 
 
 {{< dggs "2weekdemo.js?v=8" >}}
 
@@ -44,9 +45,9 @@ slides: example
 **Scroll:** Zoom in/out\
 **Ctrl + Left click:** Close the clicked chart\
 **Shift + Left click:** Add a region to the most recently created window\
-**Alt + Left click:** Select Canadian provinces\
+**(Alt or P) + Left click:** Select Canadian provinces\
 **Escape:** Exit Maximize mode\
 You can move windows and resize them by dragging.
 
-Last updated: June 8, 2020
+Last updated: June 10, 2020
 
