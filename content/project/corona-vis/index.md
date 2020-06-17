@@ -35,7 +35,7 @@ url_video: ""
 slides: example
 ---
 Use the following links to navigate to other demos:\
-[Perspective Chart Visualization](/project/corona-vis-perspective/) --------- [3D Bar Visualization](/project/corona-vis-3dbardemo/) --------- [Animated 3D Bar Visualization](/project/corona-vis-3dbar-animated/) 
+[3D Bar Visualization](/project/corona-vis-3dbardemo/) --------- [Animated 3D Bar Visualization](/project/corona-vis-3dbar-animated/) 
 
 {{< dggs "2weekdemo.js?v=8" >}}
 
