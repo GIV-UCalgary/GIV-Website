@@ -50,5 +50,5 @@ Use the following links to navigate to other demos:\
 **Scroll:** Zoom in/out\
 **Escape:** Exit Maximize mode
 
-Last updated: August 04, 2020
+Last updated: September 25, 2020
 
