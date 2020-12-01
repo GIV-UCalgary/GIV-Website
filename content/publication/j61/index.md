@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://www.tandfonline.com/doi/abs/10.1080/00221341.2020.1832138"
-url_pdf: ''
+url_pdf: '/pdf/Geospatial-Physicalization-in-Geography-Education.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
