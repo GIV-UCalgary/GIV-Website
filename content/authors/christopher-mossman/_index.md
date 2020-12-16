@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Summer 2020 Research Student"
+role: "M.Sc. Student\n\nSeptember 2020 - present"
 
 # Organizations/Affiliations
 organizations:
