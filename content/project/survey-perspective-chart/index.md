@@ -33,7 +33,7 @@ url_video: ""
 slides: example
 ---
 
-{{< dggs "survey/perspective/perspective.js" >}}
+{{< dggs "survey-perspective.js" >}}
 
 \
 **Left mouse button drag:** Rotate the globe\
