@@ -34210,10 +34210,10 @@ uniform mat4 model;
 uniform mat4 view;
 uniform mat4 projection;
 uniform mat4 offset;
+uniform mat4 screenTranslate;
 uniform vec3 barColour;
 
 layout (location = 0) in vec3 vertex;
-layout (location = 1) in vec3 normal;
 
 out vec3 C;
 
@@ -34224,7 +34224,7 @@ void main(void) {
     vec4 pCameraSpace = (view * model) * vec4(vertex, 1.0); 
 	vec3 P = pCameraSpace.xyz;
 	
-    gl_Position = projection * pCameraSpace;   
+    gl_Position = screenTranslate * projection * pCameraSpace;   
 }
 #version 300 es
 
@@ -34237,13 +34237,13 @@ void main(void) {
 
 uniform mat4 view;
 uniform mat4 projection;
-//uniform mat4 screenTranslate;
+uniform mat4 screenTranslate;
 
 layout (location = 0) in vec3 vertex;
 
 void main(void) {
-	//gl_Position = screenTranslate * projection * view * vec4(vertex, 1.0);     
-	gl_Position = projection * view * vec4(vertex, 1.0);     
+	gl_Position = screenTranslate * projection * view * vec4(vertex, 1.0);     
+	//gl_Position = projection * view * vec4(vertex, 1.0);     
 }
 #version 300 es
 
