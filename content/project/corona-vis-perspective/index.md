@@ -48,5 +48,5 @@ Use the following links to navigate to other demos:\
 **Escape:** Exit Maximize mode\
 You can move windows and resize them by dragging.
 
-Last updated: November 29, 2020
+Last updated: February 17, 2021
 
