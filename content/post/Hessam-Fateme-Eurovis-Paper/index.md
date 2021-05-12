@@ -1,7 +1,7 @@
 ---
 title: "Congratulations to Hessam and Fatemeh for the acceptance of Eurovis STAR paper"
 
-date: "2020-06-16T00:00:00+00:00"
+date: "2021-02-30T00:00:00+00:00"
 
 ---
 
