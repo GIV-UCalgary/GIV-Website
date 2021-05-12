@@ -17,6 +17,7 @@ subtitle = ""
    "Team Leader",
    "Ph.D. Students and Postdoctoral Researchers",
    "M.Sc. Students"
+   "Undergraduate Students"
   ]
 
 [design]
