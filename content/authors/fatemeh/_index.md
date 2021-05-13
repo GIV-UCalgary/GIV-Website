@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Ph.D. Student\n\nSeptember 2017 - present"
+role: "Ph.D. Candidate\n\nSeptember 2017 - present"
 
 # Organizations/Affiliations
 organizations:
