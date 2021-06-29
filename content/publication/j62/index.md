@@ -37,7 +37,7 @@ featured: false
 
 links:
 - name: "Electronic Edition from Publisher"
-  url: "https://arxiv.org/abs/2102.11175"
+  url: "https://diglib.eg.org/handle/10.1111/cgf14330"
 url_pdf: 'https://www.eurovis.org/index.php/for-attendees/program/#star-2'
 url_code: ''
 url_dataset: ''
