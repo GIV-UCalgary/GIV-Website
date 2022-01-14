@@ -46,5 +46,15 @@ jobs:
       #     source: "giv-public/*"
       #     target: "public_html"
 
-      - name: Depoloy
-        run: bash deploy.sh
+      # - name: Depoloy
+      #   run: bash deploy.sh
+
+      - name: Deploy via FTP
+        uses: SamKirkland/FTP-Deploy-Action@4.2.0
+        with:
+          server: ftp.giv.cpsc.ucalgary.ca
+          username: deploy@giv.cpsc.ucalgary.ca
+          password: ${{ secrets.FTP_PASSWORD }}
+          local-dir: "giv-public/*"
+          server-dir: "./"
+          dry-run: true
