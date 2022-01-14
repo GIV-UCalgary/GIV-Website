@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "M.Sc. Student\n\nSeptember 2017 - present"
+role: "M.Sc. Student\n\nSeptember 2017 - August 2021"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Hooman is an MSc student interested in immersive simulation, Co-Supervised, Supervisor: Sonny Chan."
+bio: "Hooman was an MSc student interested in immersive simulation, Co-Supervised, Supervisor: Sonny Chan."
 
 #interests:
 #- Artificial Intelligence
@@ -69,8 +69,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Sc. Students
+- Alumni M.Sc. Students
 ---
 
-Hooman is an MSc student interested in immersive simulation, Co-Supervised, Supervisor: Sonny Chan.
+Hooman was an MSc student interested in immersive simulation, Co-Supervised, Supervisor: Sonny Chan.
 
