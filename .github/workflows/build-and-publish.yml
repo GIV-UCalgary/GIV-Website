@@ -41,7 +41,7 @@ jobs:
         with:
           host: giv.cpsc.ucalgary.ca
           username: giv
-          password: ${{ secrets.SSH_CREDENTIALS }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
           source: "giv-public/*"
           target: "public_html"
           use_insecure_cipher: true
