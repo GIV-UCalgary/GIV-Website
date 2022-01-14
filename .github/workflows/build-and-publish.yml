@@ -55,6 +55,6 @@ jobs:
           server: ftp.giv.cpsc.ucalgary.ca
           username: deploy@giv.cpsc.ucalgary.ca
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: "giv-public/*"
+          local-dir: "giv-public/"
           server-dir: "./"
           dry-run: true
