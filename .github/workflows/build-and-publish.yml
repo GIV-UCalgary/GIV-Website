@@ -5,6 +5,9 @@ on:
     branches:
       - master
 
+env:
+  SSH_CREDENTIALS: ${{ secrets.SSH_CREDENTIALS }}
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
