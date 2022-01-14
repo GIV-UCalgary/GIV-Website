@@ -23,12 +23,21 @@ jobs:
       - name: Build
         run: hugo --buildFuture --environment giv-cpsc
 
-      - name: Deploy with Rsync
-        uses: burnett01/rsync-deployments@5.2
+      # - name: Deploy with Rsync
+      #   uses: burnett01/rsync-deployments@5.2
+      #   with:
+      #     switches: -anvzr --delete
+      #     path: giv-public/
+      #     remote_path: public_html/
+      #     remote_host: giv.cpsc.ucalgary.ca
+      #     remote_user: giv
+      #     remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
+
+      - name: Depoly via SCP
+        uses: appleboy/scp-action@master
         with:
-          switches: -anvzr --delete
-          path: giv-public/
-          remote_path: public_html/
-          remote_host: giv.cpsc.ucalgary.ca
-          remote_user: giv
-          remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          host: giv.cpsc.ucalgary.ca
+          username: giv
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          source: "giv-public/*"
+          target: "public_html"
