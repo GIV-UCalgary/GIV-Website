@@ -38,7 +38,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://diglib.eg.org/handle/10.1111/cgf14330"
-url_pdf: 'https://www.eurovis.org/index.php/for-attendees/program/#star-2'
+url_pdf: '/pdf/Data_to_Physicalization_A_Survey_of_the_Physical_R.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
