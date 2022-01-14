@@ -1,0 +1,34 @@
+name: Generate and Publish
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Cheking out the project
+        uses: actions/checkout@v2
+        with:
+          submodules: 'recursive'
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.62.2'
+          extended: true
+
+      - name: Build
+        run: hugo --buildFuture --environment giv-cpsc
+
+      - name: Deploy with Rsync
+        uses: burnett01/rsync-deployments@5.2
+        with:
+          switches: -anvzr --delete
+          path: giv-public/
+          remote_path: public_html/
+          remote_host: giv.cpsc.ucalgary.ca
+          remote_user: giv
+          remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
