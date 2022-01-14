@@ -36,15 +36,15 @@ jobs:
       #     remote_user: giv
       #     remote_key: ${{ secrets.SSH_PRIVATE_KEY }}
 
-      - name: Depoly via SCP
-        uses: appleboy/scp-action@master
-        with:
-          host: giv.cpsc.ucalgary.ca
-          username: giv
-          key: ${{ secrets.SSH_PRIVATE_KEY }}
-          source: "giv-public/*"
-          target: "public_html"
-          use_insecure_cipher: true
+      # - name: Depoly via SCP
+      #   uses: appleboy/scp-action@master
+      #   with:
+      #     host: giv.cpsc.ucalgary.ca
+      #     username: giv
+      #     key: ${{ secrets.SSH_PRIVATE_KEY }}
+      #     source: "giv-public/*"
+      #     target: "public_html"
+      #     use_insecure_cipher: true
 
       # - name: Depoloy
       #   run: bash deploy.sh
@@ -58,3 +58,13 @@ jobs:
       #     local-dir: "giv-public/"
       #     server-dir: "./"
       #     dry-run: true
+
+      - uses: up9cloud/action-rsync@master
+        env:
+          HOST: giv.cpsc.ucalgary.ca
+          USER: giv
+          KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+          SOURCE: "giv-public/"
+          TARGET: "public_html/"
+          ARGS: -anvzr --delete
+          SSH_ARGS: -vvv -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -o HostkeyAlgorithms=+ssh-rsa
