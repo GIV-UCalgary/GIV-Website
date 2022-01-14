@@ -66,5 +66,4 @@ jobs:
           KEY: ${{ secrets.SSH_PRIVATE_KEY }}
           SOURCE: "giv-public/"
           TARGET: "public_html/"
-          ARGS: -anvzr --delete
-          SSH_ARGS: -vvv -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -o HostkeyAlgorithms=+ssh-rsa
+          SSH_ARGS: -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -o HostkeyAlgorithms=+ssh-rsa
