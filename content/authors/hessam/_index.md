@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Ph.D. Candidate\n\nJanuary 2016 - present"
+role: "Alumni Ph.D. Student\n\nJanuary 2016 - July 2021"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Hessam is an architect and a PhD candidate in Computational Media Design (CMD). His research interests include digital fabrication, data physicalization and data spatialization, data-centric design approaches, responsive architecture, and dynamic structures. Hessam has an MSc in architecture from the Iran University of Science and Technology."
+bio: "Hessam was an architect and a PhD candidate in Computational Media Design (CMD). His research interests include digital fabrication, data physicalization and data spatialization, data-centric design approaches, responsive architecture, and dynamic structures. Hessam has an MSc in architecture from the Iran University of Science and Technology."
 
 #interests:
 #- Artificial Intelligence
@@ -69,9 +69,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Ph.D. Students
-- Ph.D. Students and Postdoctoral Researchers
+- Alumni Ph.D. Students
 ---
 
-Hessam is an architect and a PhD candidate in Computational Media Design (CMD). His research interests include digital fabrication, data physicalization and data spatialization, data-centric design approaches, responsive architecture, and dynamic structures. Hessam has an MSc in architecture from the Iran University of Science and Technology.
+Hessam was an architect and a PhD candidate in Computational Media Design (CMD). His research interests include digital fabrication, data physicalization and data spatialization, data-centric design approaches, responsive architecture, and dynamic structures. Hessam has an MSc in architecture from the Iran University of Science and Technology.
 
