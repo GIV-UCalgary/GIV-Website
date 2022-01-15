@@ -59,11 +59,23 @@ jobs:
       #     server-dir: "./"
       #     dry-run: true
 
-      - uses: up9cloud/action-rsync@master
-        env:
-          HOST: giv.cpsc.ucalgary.ca
-          USER: giv
-          KEY: ${{ secrets.SSH_PRIVATE_KEY }}
-          SOURCE: "giv-public/"
-          TARGET: "public_html/"
-          SSH_ARGS: -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -o HostkeyAlgorithms=+ssh-rsa
+      # - uses: up9cloud/action-rsync@master
+      #   env:
+      #     HOST: giv.cpsc.ucalgary.ca
+      #     USER: giv
+      #     KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+      #     SOURCE: "giv-public/"
+      #     TARGET: "public_html/"
+      #     SSH_ARGS: -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -o HostkeyAlgorithms=+ssh-rsa
+
+      - name: Publish
+        uses: nogsantos/scp-deploy@master
+        with:
+          src: ./giv-public/*
+          host: giv.cpsc.ucalgary.ca
+          remote: public_html
+          port: 22
+          user: giv
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          options: -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no -o HostkeyAlgorithms=+ssh-rsa
+          
