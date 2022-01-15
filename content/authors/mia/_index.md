@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "M.Sc. Student\n\nJanuary 2018 - present"
+role: "Alumni M.Sc. Student\n\nJanuary 2018 - 2021"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Mia is an MSc student interested in Digital Earth, non-photorealistic rendering and data visualization."
+bio: "Mia was an MSc student interested in Digital Earth, non-photorealistic rendering and data visualization."
 
 #interests:
 #- Artificial Intelligence
@@ -69,8 +69,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Sc. Students
+- Alumni M.Sc. Students
 ---
 
-Mia is an MSc student interested in Digital Earth, non-photorealistic rendering and data visualization.
+Mia was an MSc student interested in Digital Earth, non-photorealistic rendering and data visualization.
 
