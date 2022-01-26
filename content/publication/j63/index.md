@@ -3,7 +3,7 @@ title: "Mass simulation in VR using vibrotactile feedback and a co-located physi
 
 authors:
 - hooman
-- katy
+- katayoon
 - samavati
 
 
