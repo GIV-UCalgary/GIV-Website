@@ -33,8 +33,8 @@ featured: false
 
 links:
 - name: "Electronic Edition from Publisher"
-  url: "https://link.springer.com/article/10.1007/s00371-022-02439-9"
-url_pdf: 'https://rdcu.be/cJQC8'
+  url: "https://rdcu.be/cJQC8"
+url_pdf: '/pdf/Herschel_teaser.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
