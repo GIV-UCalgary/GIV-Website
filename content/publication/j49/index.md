@@ -1,5 +1,5 @@
 ---
-title: "Geospatail Data Organization Methods with Emphasis on Aperture 3 Hexagonal Discrete Global Grid Systems"
+title: "Geospatial Data Organization Methods with Emphasis on Aperture 3 Hexagonal Discrete Global Grid Systems"
 authors:
 - ali
 - troy
