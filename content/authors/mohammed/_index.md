@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Postdoctoral Researcher\n\nJanuary 2017 - January 2018"
+role: "Alumni Postdoc and Research Associate\n\nJanuary 2017 - January 2018"
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Postdoctoral Researchers
+- Alumni Postdoc and Research Associate
+#- Postdoctoral Researchers
 ---
 
 Mohammed is a former Postdoctoral Scholar interested in advanced in-vivo cardiovascular 4D Flow MRI analysis. His work includes the development of new visualization and quantification techniques to characterize the complex three-dimensional time-varying blood flow properties in the human heart. Such techniques are used to identify novel hemodynamic markers to evaluate the cardiac (dys)function and to improve our understanding of the role of blood flow hemodynamics in cardiac physiology and pathophysiology.

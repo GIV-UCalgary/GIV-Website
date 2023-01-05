@@ -69,7 +69,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Postdoctoral Researchers
+- Alumni Postdoc and Research Associate
+#- Postdoctoral Researchers
 ---
 
 Ali is a former Postdoctoral Scholar interested in geometric modelling, geospatial visualization, Digital Earth representations, and spatial data structures.

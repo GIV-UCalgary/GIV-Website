@@ -69,7 +69,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Postdoctoral Researchers
+- Alumni Postdoc and Research Associate
+#- Postdoctoral Researchers
 ---
 
 Roya is a postdoctoral Associate interested in disaster risk management, Geospatial technologies, web-GIS, spatial analysis, and Digital Global Grid Systems.
