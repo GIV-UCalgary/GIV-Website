@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Meysam Kazemi
+name: Armin Kazemi Zanjani
 
 # Username (this should match the folder name)
 authors:
