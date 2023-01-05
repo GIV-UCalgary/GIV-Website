@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Alumni Undergraduate Students\n\nSeptember 2022 - present"
+role: "Alumni Undergraduate Students\n\nSummer 2021"
 
 # Organizations/Affiliations
 organizations:

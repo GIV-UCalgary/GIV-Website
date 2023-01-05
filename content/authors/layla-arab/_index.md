@@ -1,16 +1,16 @@
 ---
 # Display name
-name: "John Hall"
+name: "Rafael Flores Souza"
 
 # Username (this should match the folder name)
 authors:
-- john
+- rafael
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Alumni M.Sc. Student\n\nSeptember 2017 - 2022"
+role: "Undergraduate Students\n\nSummer 2022"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "John is an MSc student interested  in Digital Earth."
+bio: ""
 
 #interests:
 #- Artificial Intelligence
@@ -69,8 +69,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni M.Sc. Students
+- Undergraduate Students
 ---
-
-John is an MSc student interested  in Digital Earth.
-

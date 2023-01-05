@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Alumni Postdoc and Research Associate\n\nSeptember 2016 - present"
+role: "Alumni Postdoc and Research Associate\n\nSeptember 2016 - 2022"
 
 # Organizations/Affiliations
 organizations:
