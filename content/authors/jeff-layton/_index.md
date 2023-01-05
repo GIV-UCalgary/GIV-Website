@@ -69,5 +69,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Undergraduate Students
+- M.Sc. Students
 ---
+Jeffrey Layton has two BSc's in Computer Science and Electrical Engineering and is currently completing his MSc Thesis in Natural Pattern Synthesis. His academic interests are graphics, modeling, rendering, animation, and shader programming. On his spare time, he is involved in the hip hop dance community and teaches at his local dance studio.

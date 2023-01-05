@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Postdoctoral Researcher\n\nSeptember 2016 - present"
+role: "Alumni Postdoc and Research Associate\n\nSeptember 2016 - present"
 
 # Organizations/Affiliations
 organizations:
@@ -69,8 +69,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Postdoctoral Researchers
-- Ph.D. Students and Postdoctoral Researchers
+- Alumni Postdoc and Research Associate
+#- Postdoctoral Researchers
+#- Ph.D. Students and Postdoctoral Researchers
 ---
 
 Katayoon is a Postdoctoral Scholar interested in information visualization, human computer interactions, and aesthetic visualizations.

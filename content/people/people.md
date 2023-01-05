@@ -14,11 +14,12 @@ subtitle = "Graphics, Interaction, and Visualization Group"
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups = [
-     "Team Leader",
+     "Team Leader",     
      "Postdoctoral Researchers",
      "Ph.D. Students",
      "M.Sc. Students",
      "Undergraduate Students",
+     "Alumni Postdoc and Research Associate"
      "Alumni Ph.D. Students",
      "Alumni M.Sc. Students",
      "Alumni Undergraduate Students"

@@ -72,4 +72,4 @@ user_groups:
 - M.Sc. Students
 ---
 
-Christopher is an NSERC summer research student who has just completed his Bachelor degree. He will begin his MSc studies in the GIV research group come Fall 2020.
+Christopher is an MSc student whose research focuses on applying Augmented Reality to 3D printed objects.
