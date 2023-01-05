@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Christopher is an NSERC summer research student who has just completed his Bachelor degree."
+bio: "Christopher is an MSc student whose research focuses on applying Augmented Reality to 3D printed objects."
 
 #interests:
 #- Artificial Intelligence

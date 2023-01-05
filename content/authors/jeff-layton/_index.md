@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Undergrad Summer Research Student\n\nSummer 2021"
+role: "M.Sc. Student\n\nSeptember 2022 - present"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "Jeffrey Layton has two BSc's in Computer Science and Electrical Engineering and is currently completing his MSc Thesis in Natural Pattern Synthesis. His academic interests are graphics, modeling, rendering, animation, and shader programming. On his spare time, he is involved in the hip hop dance community and teaches at his local dance studio."
 
 #interests:
 #- Artificial Intelligence
