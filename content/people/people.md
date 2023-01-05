@@ -19,7 +19,7 @@ subtitle = "Graphics, Interaction, and Visualization Group"
      "Ph.D. Students",
      "M.Sc. Students",
      "Undergraduate Students",
-     "Alumni Postdoc and Research Associate"
+     "Alumni Postdoc and Research Associate",
      "Alumni Ph.D. Students",
      "Alumni M.Sc. Students",
      "Alumni Undergraduate Students"
