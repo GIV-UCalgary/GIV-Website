@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "M.Sc. Student\n\nSeptember 2017 - August 2021"
+role: "Alumni M.Sc. Student\n\nSeptember 2017 - August 2021"
 
 # Organizations/Affiliations
 organizations:
