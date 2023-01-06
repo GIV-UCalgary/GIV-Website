@@ -22,7 +22,8 @@ bio: ""
 
 interests:
 - Computer Graphics
-- 3D Modeling
+- Machine Learning
+- Simulation 
 - Digital Earth
 
 
@@ -45,7 +46,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:meysam.kazemi@ucalgary.ca
+  link: mailto:armin.kazemizanjani@ucalgary.ca
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
@@ -54,7 +55,7 @@ social:
 #  link: https://scholar.google.com/citations?user=DuoyXO0AAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/meysam-
+  link: https://arminkz.github.io/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
