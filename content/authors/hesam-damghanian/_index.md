@@ -71,4 +71,11 @@ user_groups:
 - M.Sc. Students
 
 ---
-Amir Mirzai is an MSc student interested in Digital Earth.
+My primary research focus is on 3D reconstruction and the application of computer vision techniques in digital global grid systems. When I'm not busy with my research, I spend about 90% of my time on one of these activities:
+
+ 
+
+- Reading materials on computation theory, and free will, and diving into captivating books like GEB.
+- Writing snippets on my understanding of the topics living in my head.
+- Keeping active with running/swimming - (poke me on Strava if you're active too!)
+- Getting creative in the kitchen, trying out new recipes!
