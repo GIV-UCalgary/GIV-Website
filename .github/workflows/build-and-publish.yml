@@ -3,7 +3,7 @@ name: Generate and Publish
 on:
   push:
     branches:
-      - master
+      #- master
 
 env:
   SSH_CREDENTIALS: ${{ secrets.SSH_CREDENTIALS }}
