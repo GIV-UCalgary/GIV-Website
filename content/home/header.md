@@ -47,8 +47,8 @@ subtitle = ""
  css_class = ""
 +++
 
-## The GIV research group enthusiastically pursues research and development related to graphics, interaction and visualization.  Led by Prof. Faramarz Samavati, GIV have made contributions to various technological innovations listed in [publications](/publication) and [project](/project) pages.
+## The GIV research group enthusiastically pursues research and development related to graphics, interaction and visualization.  Led by Prof. Faramarz Samavati, GIV has made contributions to various technological innovations listed in [project](/project) pages and [publications](/publication).
   
-## Please refer to [GIV-COVID-19](/project/covid19-visualization/) to our geovisualization tool for COVID-19.
+## Please refer to [GIV-COVID-19](/project/covid19-visualization/), our geovisualization tool for COVID-19.
 
 {{< figure src="/img/title-page-image-edited.png" >}}
