@@ -34,7 +34,7 @@ featured: false
 links:
 - name: "Electronic Edition from Publisher"
   url: "https://www.computer.org/csdl/magazine/cg/5555/01/10003642/1JwLsDcL7Fe"
-url_pdf: '/pdf/Mobile_Augmented_Reality.pdf'
+url_pdf: '/pdf/MobileAugmentedReality2022-Accepted.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
