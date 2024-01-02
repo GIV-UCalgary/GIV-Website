@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "M.Sc. Student\n\nSeptember 2019 - present" 
+role: "Alumni M.Sc. Student\n\nSeptember 2019 - September 2023" 
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Meysam is an MSc student interested in Digital Earth."
+bio: "Meysam is a graduated MSc student interested in Digital Earth."
 
 interests:
 - Computer Graphics
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Sc. Students
+- Alumni M.Sc. Students
 
 ---
-Meysam is an MSc student interested in Digital Earth.
+Meysam is a graduated MSc student interested in Digital Earth.
