@@ -59,9 +59,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-#- icon: link
-#  icon_pack: fas
-#  link: "https://ir.linkedin.com/in/fatemeh-yazdanbakhsh-381b7985"
+- icon: link
+  icon_pack: fas
+  link: "https://orcid.org/0009-0002-7203-5598"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -73,4 +73,4 @@ user_groups:
 #- Ph.D. Students and Postdoctoral Researchers
 ---
 
-
+Roghi is a PhD student interested in precision agriculture, digital earth, and algorithm design.
