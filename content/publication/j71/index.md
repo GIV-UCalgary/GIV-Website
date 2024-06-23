@@ -3,7 +3,7 @@ title: "Balancing Rotation Minimizing Frames with Additional Objectives"
 
 authors:
 - christopher-mossman
-- R. H. Bartels
+- Richard H Bartels
 - samavati
 
 date: "2023-11-14T00:00:00+00:00"

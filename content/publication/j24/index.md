@@ -1,7 +1,7 @@
 ---
 title: "Multiresolutions numerically from subdivisions"
 authors:
-- Richard Bartels
+- Richard H Bartels
 - samavati
 
 

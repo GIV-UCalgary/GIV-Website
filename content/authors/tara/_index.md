@@ -1,16 +1,16 @@
 ---
 # Display name
-name: "John Hall"
+name: "Tara Ann Strickland"
 
 # Username (this should match the folder name)
 authors:
-- john
+- tara
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Ph.D. Student\n\nSeptember 2024 - present"
+role: "M.Sc. Student\n\nSeptember 2024 - present"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "John is a PhD student interested  in Digital Earth."
+bio: "Tara has been doing research focusing on encoding volumetric regions in 3D DGGS."
 
 #interests:
 #- Artificial Intelligence
@@ -59,9 +59,9 @@ social:
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-- icon: link
-  icon_pack: fas
-  link: "#"
+#- icon: link
+#  icon_pack: fas
+#  link: "https://pages.cpsc.ucalgary.ca/~mohammadreza.osouli/"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,8 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Ph.D. Students
+- M.Sc. Students
 ---
 
-John is a PhD student interested  in Digital Earth.
-
+Tara has been doing research focusing on encoding volumetric regions in 3D DGGS.

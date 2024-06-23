@@ -1,7 +1,7 @@
 ---
 title: "Diagrammatic approach for constructing multiresolution of primal subdivisions"
 authors:
-- Richard Bartels
+- Richard H Bartels
 - ali
 - samavati
 - Nezam Mahdavi-Amiri

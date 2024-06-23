@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: "M.Sc. Student\n\nJanuary 2021 - present"
+role: "Alumni M.Sc. Student\n\nJanuary 2021 - February 2024"
 
 # Organizations/Affiliations
 organizations:
 - name: University of Calgary
-  url: "http://ucalgary.ca/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""
@@ -69,6 +69,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Sc. Students
+- Alumni M.Sc. Students
 ---
 

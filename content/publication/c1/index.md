@@ -3,7 +3,7 @@ title: "Progressive curve representation based on reverse subdivision"
 authors:
 - samavati
 - Mai Ali Nur
-- Richard Bartels
+- Richard H Bartels
 - Brian Wyvill
 
 

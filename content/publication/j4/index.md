@@ -3,7 +3,7 @@ title: "Multiresolution surfaces having arbitrary topologies by a reverse Doo su
 authors:
 - samavati
 - Nezam Mahdavi-Amiri
-- Richard Bartels
+- Richard H Bartels
 
 
 date: "2002-06-01T00:00:00+00:00"
