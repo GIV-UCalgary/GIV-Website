@@ -6,6 +6,7 @@ tags:
 
 
 date: "2011-09-15T00:00:00Z"
+hide: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

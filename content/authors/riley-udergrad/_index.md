@@ -1,16 +1,16 @@
 ---
 # Display name
-name: "Jeffrey Layton"
+name: "Riley James"
 
 # Username (this should match the folder name)
 authors:
-- jeff-layton
+- riley
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Ph.D. Student\n\nSeptember 2022 - present"
+role: "Alumni Undergraduate Student\n\n 2023"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Jeffrey Layton has two BSc's in Computer Science and Electrical Engineering and is currently completing his MSc Thesis in Natural Pattern Synthesis. His academic interests are graphics, modeling, rendering, animation, and shader programming. On his spare time, he is involved in the hip hop dance community and teaches at his local dance studio."
+bio: ""
 
 #interests:
 #- Artificial Intelligence
@@ -69,7 +69,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Ph.D. Students
-#- M.Sc. Students
+- Alumni Undergraduate Students
 ---
-Jeffrey Layton has two BSc's in Computer Science and Electrical Engineering and is currently completing his MSc Thesis in Natural Pattern Synthesis. His academic interests are graphics, modeling, rendering, animation, and shader programming. On his spare time, he is involved in the hip hop dance community and teaches at his local dance studio.

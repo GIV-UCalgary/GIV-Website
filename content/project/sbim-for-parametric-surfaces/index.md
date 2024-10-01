@@ -6,6 +6,7 @@ tags:
 - Sketch-based modeling
 
 date: "2005-05-15T00:00:00Z"
+hide: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

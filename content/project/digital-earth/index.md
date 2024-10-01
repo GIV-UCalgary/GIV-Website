@@ -1,5 +1,5 @@
 ---
-title: Digital Earth
+title: Global Grid System in Digital Earth
 summary: A multiresolution 3D model used to visualize location-based data.
 tags:
 - Computer Graphics

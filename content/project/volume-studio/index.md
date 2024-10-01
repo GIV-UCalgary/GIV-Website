@@ -6,6 +6,7 @@ tags:
 - Volume Segmentation
 
 date: "2008-07-15T00:00:00Z"
+hide: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

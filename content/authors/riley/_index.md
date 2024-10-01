@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Undergraduate Students\n\nSummer 2023"
+role: "M.Sc. Student\n\nSeptember 2024 - present"
 
 # Organizations/Affiliations
 organizations:
@@ -69,5 +69,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Undergraduate Students
+- M.Sc. Students
 ---

@@ -12,7 +12,7 @@ tags:
 date: "2020-03-15T00:00:00Z"
 show_date: false
 show_header_image: false
-
+hide: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

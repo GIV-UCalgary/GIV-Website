@@ -7,7 +7,7 @@ tags:
 - Energy system
 
 date: "2014-10-25T00:00:00Z"
-
+hide: true
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 

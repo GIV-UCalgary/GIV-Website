@@ -6,6 +6,7 @@ tags:
 - Projection
 
 date: "2007-08-10T00:00:00Z"
+hide: true
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
