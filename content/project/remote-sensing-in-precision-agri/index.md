@@ -38,12 +38,14 @@ Because factors like the shape of the land, soil type, and weather can change a 
 
 ## **Objectives**
 
-Remote sensing satellite data is utilized to algorithmically: 
-##### *- Create Fertility Map (FMAP)*,
-##### *- Determine the best locations for performing soil testing*, 
-##### *- Detecting crop types*,
-##### *- Determine abnormal years*, 
-##### *- Estimate yield*.
+Our team uses long-term, time-varying satellite data to algorithmically:
+
+
+- Create Fertility Maps (FMAP) for given fields
+- Determine the best locations for soil testing 
+- Early detect crop types for large regions
+- Identify abnormal datasets across years and regions 
+- Estimate yield for given fields
 
 {{< figure src="/img/zoning.png" >}}
 
@@ -66,7 +68,7 @@ How to find the the anomaly in the historical performance data of the field algo
 
 
 ## **Research and Development in Remote Sensing for Precision Agriculture**
-Dr. Samavati’s team has been very active in the research and development in precision agriculture to find the above questions and many others including crop type classification and yield estimation.
+Dr. Samavati’s team has been very active in the research and development in precision agriculture to find the answers for above questions and many others including crop type classification and yield estimation.
 New methods and algorithms in computer vision, machine learning, and deep learning have been utilized and several [peer reviewed papers]({{< ref "/publication" >}}) have been published or are under review in this area.
 
  

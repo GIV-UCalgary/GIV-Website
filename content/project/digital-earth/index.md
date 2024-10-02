@@ -1,12 +1,13 @@
 ---
 title: Global Grid System in Digital Earth
-summary: A multiresolution 3D model used to visualize location-based data.
+summary: Developing Next-Generation GIS with Multiresolution Earth Models
 tags:
 - Computer Graphics
 - Digital Earth
 - DGGS
 
 date: "2016-10-10T00:00:00Z"
+show_date: false
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
