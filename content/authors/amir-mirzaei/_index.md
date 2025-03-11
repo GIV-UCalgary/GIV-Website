@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Amir Mirzai Golpayegani
+name: "Amir Mirzai Golpayegani"
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role: "M.Sc. Student\n\nSeptember 2022 - present"
 # Organizations/Affiliations
 organizations:
 - name: University of Calgary
-  url: ""
+  url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "Amir Mirzai is an MSc student interested in Digital Earth."
