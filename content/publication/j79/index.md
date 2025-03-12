@@ -1,5 +1,5 @@
 ---
-title: "Constructing Efficient Mesh-Based Global Grid Systems with Reduced Distortions"
+title: "Real-Time Multiresolution Management of Spatiotemporal Earth Observation Data Using DGGS"
 
 authors:
 - amir-mirzaei
