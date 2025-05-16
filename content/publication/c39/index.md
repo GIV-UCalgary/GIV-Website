@@ -21,36 +21,23 @@ publication_types: ["1"]
 publication: "*GRAPP/IVAPP *"
 publication_short: ""
 
-abstract: "In this article, we present the construction
-of an interactive multilevel focus+context visualization
-framework for the navigation and exploration of largescale 2D and 3D images. The presented framework utilizes a balanced multiresolution (BMR) technique supported by a balanced wavelet transform (BWT). It extends the mode of focus+context visualization, where
-spatially separate magnification of regions of interest
-(ROIs) is performed, as opposed to in-place magnification. Each resulting visualization scenario resembles a
-tree structure, where the root constitutes the main context, each non-root internal node plays the dual roles of
-both focus and context, and each leaf solely represents
-a focus. Our developed prototype supports interactive
-manipulation of the visualization hierarchy, such as addition and deletion of ROIs and desired changes in their
-resolutions at any level of the hierarchy on the fly. We
-describe the underlying data structure to efficiently support such operations. Changes in the spatial locations
-of query windows defining the ROIs trigger on-demand
-reconstruction queries. We explain in detail how to efficiently process such reconstruction queries within the
-hierarchy of details (wavelet coefficients) contained in
-the BWT in order to ensure real-time feedback. As the
-BWT need only be constructed once in a preprocessing
-phase on the server-side and robust on-demand reconstruction queries require minimal data communication
-overhead, our presented framework is a suitable candidate for efficient web-based visualization of complex
-large-scale imagery. We also discuss the performance
-characteristics of our proposed framework from various aspects, such as time and space complexities and
-achieved frame rates."
+abstract: "In this paper, we introduce a hierarchical indexing for adjacency queries specially for applying subdivision
+ schemes on somesimple spherical and toroidal polyhedrons as the base model for the content creation process.
+ The indexing method is created from integer coordinates of regular 2D domains (connectivity maps) resulting
+ from unfolding polyhedrons. All connectivities are found using algebraic relationships of the connectivity
+ map’s indices; therefore, no additional data structure is required and operations are extremely fast and efficient.
+ Although connectivity relationships of the polyhedrons are as simple as the first resolution, the models created
+ by our proposed method is not restricted to the subdivided polyhedrons. Using our connectivity based method,
+ complex objects can be created by adding sharp features and holes and applying deformation and remeshing
+ techniques. We demonstrate capacities and the efficiency of the method with several example results and
+ compare its speed with that of the half-edge data structure."
 
 # Summary. An optional shortened abstract.
-summary: "In this article, we present the construction
-of an interactive multilevel focus+context visualization
-framework for the navigation and exploration of largescale 2D and 3D images. The presented framework utilizes a balanced multiresolution (BMR) technique supported by a balanced wavelet transform (BWT). It extends the mode of focus+context visualization, where
-spatially separate magnification of regions of interest
-(ROIs) is performed, as opposed to in-place magnification. Each resulting visualization scenario resembles a
-tree structure, where the root constitutes the main context, each non-root internal node plays the dual roles of
-both focus and context, and each leaf solely represents a focus."
+summary: "In this paper, we introduce a hierarchical indexing for adjacency queries specially for applying subdivision
+ schemes on somesimple spherical and toroidal polyhedrons as the base model for the content creation process.
+ The indexing method is created from integer coordinates of regular 2D domains (connectivity maps) resulting
+ from unfolding polyhedrons. All connectivities are found using algebraic relationships of the connectivity
+ map’s ..."
 
 tags: []
 featured: false
