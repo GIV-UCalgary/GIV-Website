@@ -1,16 +1,16 @@
 ---
 # Display name
-name: "Tung Nguyen"
+name: "Fei Ding"
 
 # Username (this should match the folder name)
 authors:
-- tung
+- fei
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Alumni Undergraduate Student\n\n Summer 2023 - December 2024"
+role: "Undergraduate Students\n\nJune 2025 - present"
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,9 @@ organizations:
 bio: ""
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+#- 
+#- 
+#- 
 
 #education:
 #  courses:
@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 - icon: link
   icon_pack: fas
-  link: "#"
+  link: ""
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,5 +69,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni Undergraduate Students
+- Undergraduate Students
 ---
