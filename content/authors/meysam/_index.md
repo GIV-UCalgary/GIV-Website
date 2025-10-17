@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Meysam is a graduated MSc student interested in Digital Earth."
+bio: "Meysam is an MSc graduate with a strong interest in Digital Earth."
 
 interests:
 - Computer Graphics
@@ -70,4 +70,4 @@ user_groups:
 - Alumni M.Sc. Students
 
 ---
-Meysam is a graduated MSc student interested in Digital Earth.
+Meysam is an MSc graduate with a strong interest in Digital Earth.

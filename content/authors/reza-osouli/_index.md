@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "M.Sc. Student\n\nSeptember 2021 - present"
+role: "Alumni M.Sc. Student\n\nSeptember 2021 - December 2024"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I am Mohammadreza Osouli. Currently, Master's student of Computer Science at University of Calgary."
+bio: "I am Mohammadreza Osouli, an MSc graduate in Computer Science from the University of Calgary."
 
 #interests:
 #- Artificial Intelligence
@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Sc. Students
+- Alumni M.Sc. Students
 ---
 
-I am Mohammadreza Osouli. Currently, Master's student of Computer Science at University of Calgary.
+I am Mohammadreza Osouli, an MSc graduate in Computer Science from the University of Calgary.
