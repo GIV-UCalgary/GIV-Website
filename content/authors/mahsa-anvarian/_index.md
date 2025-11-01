@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "My primary research focus is on DEM Super-Resolution via Deep Residual Networks and Frequency-Aware Learning for Fine-Detail Reconstruction"
 
 #interests:
 #- Artificial Intelligence
@@ -51,17 +51,17 @@ social:
 #- icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+- icon: github
+  icon_pack: fab
+  link: https://github.com/mahsawz 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-#- icon: link
-#  icon_pack: fas
-#  link: "https://pages.cpsc.ucalgary.ca/~mohammadreza.osouli/"
+- icon: link
+  icon_pack: fas
+  link: "https://www.linkedin.com/in/zahra-anvarian/"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,4 +71,6 @@ email: ""
 user_groups:
 - M.Sc. Students
 ---
+
+My primary research focus is on DEM Super-Resolution via Deep Residual Networks and Frequency-Aware Learning for Fine-Detail Reconstruction
 

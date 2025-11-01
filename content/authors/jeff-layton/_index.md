@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Jeffrey Layton has two BSc's in Computer Science and Electrical Engineering and is currently completing his MSc Thesis in Natural Pattern Synthesis. His academic interests are graphics, modeling, rendering, animation, and shader programming. On his spare time, he is involved in the hip hop dance community and teaches at his local dance studio."
+bio: "Jeffrey Layton has two BSc's in Computer Science and Electrical Engineering and is currently completing his PhD after transferring from his MSc in Natural Pattern Synthesis. His academic interests are graphics, modeling, rendering, animation, and shader programming. In his spare time, he is involved in the hip hop dance community and teaches at his local dance studio."
 
 #interests:
 #- Artificial Intelligence
@@ -72,4 +72,4 @@ user_groups:
 - Ph.D. Students
 #- M.Sc. Students
 ---
-Jeffrey Layton has two BSc's in Computer Science and Electrical Engineering and is currently completing his MSc Thesis in Natural Pattern Synthesis. His academic interests are graphics, modeling, rendering, animation, and shader programming. On his spare time, he is involved in the hip hop dance community and teaches at his local dance studio.
+Jeffrey Layton has two BSc's in Computer Science and Electrical Engineering and is currently completing his PhD after transferring from his MSc in Natural Pattern Synthesis. His academic interests are graphics, modeling, rendering, animation, and shader programming. In his spare time, he is involved in the hip hop dance community and teaches at his local dance studio.

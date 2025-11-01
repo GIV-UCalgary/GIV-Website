@@ -1,10 +1,10 @@
 ---
 # Display name
-name: Farmia
+name: Farima
 
 # Username (this should match the folder name)
 authors:
-- farmia
+- farima
 
 # Is this the primary user of the site?
 superuser: false
@@ -15,14 +15,15 @@ role: "M.Sc. Student\n\nJanuary 2025 - present"
 # Organizations/Affiliations
 organizations:
 - name: University of Calgary
-  url: ""
+  url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "I am a thesis-based Master’s student in Computational Media Design at the University of Calgary, with a background in design, architecture, and 3D modeling. My research focuses on physicalization and 3D printing, transforming complex data into tangible and accessible forms. By combining computational design and innovative visualization techniques, I aim to bridge the gap between data and public understanding, creating solutions that make complex concepts more relatable and engaging."
 
-interests:
-- Computer Science
-
+#interests:
+#- Artificial Intelligence
+#- Computational Linguistics
+#- Information Retrieval
 
 #education:
 #  courses:
@@ -40,27 +41,27 @@ interests:
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
 #- icon: envelope
- # icon_pack: fas
- # link: mailto:farmia@ucalgary.ca
+#  icon_pack: fas
+#  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=DuoyXO0AAAAJ&hl=en
+#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 #- icon: github
- # icon_pack: fab
- # link: https://github.com/arminkz
+#  icon_pack: fab
+#  link: https://github.com/mahsawz 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
 #   icon_pack: ai
 #   link: files/cv.pdf
-#- icon: link
- # icon_pack: fas
-  #link: ""
+- icon: link
+  icon_pack: fas
+  link: "https://www.linkedin.com/in/farima-golchin-14069a275/"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,6 +70,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 - M.Sc. Students
-
 ---
-
+I am a thesis-based Master’s student in Computational Media Design at the University of Calgary, with a background in design, architecture, and 3D modeling. 
+My research focuses on physicalization and 3D printing, transforming complex data into tangible and accessible forms. 
+By combining computational design and innovative visualization techniques, I aim to bridge the gap between data and public understanding, creating solutions that make complex concepts more relatable and engaging.
