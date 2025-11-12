@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "I have two BSc's in Computer Science and Mathematics and am currently working on my MSc. My current research interest is in parametric curves and surfaces."
 
 #interests:
 #- 
@@ -70,3 +70,4 @@ email: ""
 user_groups:
 - M.Sc. Students
 ---
+I have two BSc's in Computer Science and Mathematics and am currently working on my MSc. My current research interest is in parametric curves and surfaces. 
