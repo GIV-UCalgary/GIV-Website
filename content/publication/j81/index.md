@@ -1,5 +1,5 @@
 ---
-title: "Distance Transform-Based Spatiotemporal Model for Approximating Missing NDVI from Satellite Data"
+title: "Terrain Matters: A Focus+Context Visualization Approach for Landform-Based Remote Sensing Analysis of Agricultural Performance"
 
 authors:
 - roghi
