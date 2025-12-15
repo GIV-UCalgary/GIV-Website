@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Roghayeh is a PhD student interested in Computer Graphics, Supervisor: Faramarz Samavati."
+bio: "Roghi is a PhD student interested in computer graphics, and algorithm design."
 
 #interests:
 #- Artificial Intelligence
@@ -73,4 +73,4 @@ user_groups:
 #- Ph.D. Students and Postdoctoral Researchers
 ---
 
-Roghi is a PhD student interested in precision agriculture, digital earth, and algorithm design.
+Roghi is a PhD student interested in computer graphics, and algorithm design.
