@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Undergraduate Students\n\nJune 2025 - present"
+role: "Alumni Undergraduate Student\n\nJune 2025 "
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Undergraduate Students
+- Alumni Undergraduate Students
 ---
 Fei Ding is an undergraduate majoring in Computer Science. His academic interests focus on remote sensing image super-resolution. In his spare time, he enjoys exploring history, geography and politics.
  

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "M.Sc. Student\n\nSeptember 2022 - present" 
+role: "Alumni M.Sc. Student\n\nSeptember 2022 - February 2026" 
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- M.Sc. Students
+- Alumni M.Sc. Students
 
 ---
 Amir Mirzai is an MSc student interested in Digital Earth.

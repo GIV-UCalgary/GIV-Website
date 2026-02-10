@@ -74,4 +74,4 @@ user_groups:
 
 Ali is currently a Postdoctoral Fellow at Simon Fraser University.
 
-Thesis: [ACM: Atlas of Connectivity Maps](https://pages.cpsc.ucalgary.ca/~samavati/supervision/Jungle_Thesis/Ali-mahdavi-thesis.pdf)
+Thesis: [ACM: Atlas of Connectivity Maps](https://www.researchgate.net/profile/Ali-Mahdavi-Amiri/publication/278037101_ACM_Atlas_of_Connectivity_Maps/links/557b29ca08aec87640d9b5ce/ACM-Atlas-of-Connectivity-Maps.pdf)
