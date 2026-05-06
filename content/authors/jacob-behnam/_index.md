@@ -1,16 +1,16 @@
 ---
 # Display name
-name: "Christopher Mossman"
+name: "Jacob Behnam"
 
 # Username (this should match the folder name)
 authors:
-- christopher-mossman
+- jacob-behnam
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: "Alumni M.Sc. Student\n\nSeptember 2020 - April 2026"
+role: "Undergraduate Students\n\nSummer 2026"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "http://ucalgary.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "Christopher is a former MSc student whose research focused on applying Augmented Reality to 3D printed objects."
+bio: "I am an undergraduate Computer Science student interested in the intersection of CS and physics, especially in areas like computer graphics, simulations, and computational physics. I am currently developing an interactive tool to interact with large point cloud datasets."
 
 #interests:
 #- Artificial Intelligence
@@ -69,7 +69,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Alumni M.Sc. Students
+- Undergraduate Students
 ---
-
-Christopher is a former MSc student whose research focused on applying Augmented Reality to 3D printed objects.
+I am an undergraduate Computer Science student interested in the intersection of CS and physics, especially in areas like computer graphics, simulations, and computational physics. I am currently developing an interactive tool to interact with large point cloud datasets.
