@@ -61,7 +61,7 @@ social:
 #   link: files/cv.pdf
 - icon: link
   icon_pack: fas
-  link: "http://pages.cpsc.ucalgary.ca/~ketemad/"
+  link: "https://cspages.ucalgary.ca/~katayoon.etemad/"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
