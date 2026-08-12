@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: "Ph.D. Candidate\n\nSeptember 2017 - present"
+role: "Alumni Ph.D. Student\n\nSeptember 2017 - 2026"
 
 # Organizations/Affiliations
 organizations:
@@ -69,7 +69,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Ph.D. Students
+- Alumni Ph.D. Students
 #- Ph.D. Students and Postdoctoral Researchers
 ---
 
